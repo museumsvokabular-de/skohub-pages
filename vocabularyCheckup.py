@@ -26,7 +26,7 @@ for rdfFile in allRdfFiles:
     root = tree.getroot()
     skosList = ["{http://www.w3.org/2004/02/skos/core#}narrower",
                 "{http://www.w3.org/2004/02/skos/core#}broader"]
-    
+    topConcepts = []
     #iterate over all elements of root
     for element in root.iter():
         if element.tag == "{http://www.w3.org/2004/02/skos/core#}Concept":
@@ -54,6 +54,12 @@ for rdfFile in allRdfFiles:
     # iterate over all nodes which belong to skos:concept and add the scheme to them
     for s, p, o in g.triples((None, RDF.type, SKOS.Concept)):
         g.add((s, SKOS.inScheme, schemeUUID))
+        # if the concept has no broader concept, add it to the topConcepts list
+        if not (s, SKOS.broader, None) in g:
+            topConcepts.append(s)
+    # add top concepts to the scheme
+    for topConcept in topConcepts:
+        g.add((schemeUUID, SKOS.hasTopConcept, topConcept))
     g.serialize(scheme+"_modified.ttl", format="turtle", encoding="utf-8")
     with open(scheme+"_modified.ttl", 'r', encoding="utf-8") as f:
         text = f.read()

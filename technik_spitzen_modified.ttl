@@ -8,6 +8,15 @@
     dc:type dcmitype:Text ;
     cc:license <http://creativecommons.org/licenses/by-nc-sa/2.0/de/> .
 
+<http://creativecommons.org/licenses/by-nc-sa/2.0/de/> a cc:License ;
+    cc:permits cc:DerivativeWorks,
+        cc:Distribution,
+        cc:Reproduction ;
+    cc:prohibits cc:CommercialUse ;
+    cc:requires cc:Attribution,
+        cc:Notice,
+        cc:ShareAlike .
+
 <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000001> a skos:Concept ;
     dc:creator "Sächsische Landesstelle für Museumswesen" ;
     dc:identifier "00000001" ;
@@ -525,16 +534,38 @@
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/technik_spitzen/Vokabular> ;
     skos:prefLabel "genäht"@de .
 
-<http://creativecommons.org/licenses/by-nc-sa/2.0/de/> a cc:License ;
-    cc:permits cc:DerivativeWorks,
-        cc:Distribution,
-        cc:Reproduction ;
-    cc:prohibits cc:CommercialUse ;
-    cc:requires cc:Attribution,
-        cc:Notice,
-        cc:ShareAlike .
-
 <http://www.museumsvokabular.de/museumvok/vokab/technik_spitzen/Vokabular> a skos:ConceptScheme ;
     dc:description "Systematik für die Technik zur Herstellung von Spitzen und Stickereien"@de ;
-    dc:title "Spitzentechnik-Systematik"@de .
+    dc:title "Spitzentechnik-Systematik"@de ;
+    skos:hasTopConcept <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000001>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000004>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000006>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000008>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000009>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000010>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000011>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000013>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000016>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000017>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000018>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000019>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000020>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000021>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000022>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000023>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000025>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000026>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000027>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000028>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000029>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000030>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000031>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000032>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000033>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000034>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000035>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000036>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000037>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000038>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000039> .
 
