@@ -35,16 +35,26 @@ for rdfFile in allRdfFiles:
             for subElement in element.iter():
                 if subElement.tag in skosList:
                     subElement.set("{http://www.w3.org/1999/02/22-rdf-syntax-ns#}resource", subElement.get("{http://www.w3.org/1999/02/22-rdf-syntax-ns#}resource").replace(" ", "_"))
-                    if not "/"+scheme+"/" in subElement.get("{http://www.w3.org/1999/02/22-rdf-syntax-ns#}resource"):
+                    if not scheme+"/" in subElement.get("{http://www.w3.org/1999/02/22-rdf-syntax-ns#}resource"):
                         # change tag to broaderMatch or narrowerMatch
                         subElement.tag = "{http://www.w3.org/2004/02/skos/core#}broadMatch" if subElement.tag == "{http://www.w3.org/2004/02/skos/core#}broader" else "{http://www.w3.org/2004/02/skos/core#}narrowMatch"
                 if subElement.tag == "{http://www.w3.org/2004/02/skos/core#}inScheme":
                     #subElement.text = schemeUUID
                     # delete element
                     element.remove(subElement)
-                if subElement.tag == "{http://www.w3.org/2004/02/skos/core#}definition":
-                    # add language label to definition
-                    subElement.text = subElement.text + languageLabel
+            # find all elements with tag "{http://www.w3.org/2004/02/skos/core#}definition" and add language label
+            definitions = element.findall("{http://www.w3.org/2004/02/skos/core#}definition")
+            if len(definitions) > 1:
+                definitionText = ""
+                for definition in definitions:
+                    definitionText += definition.text
+                definitionText += languageLabel
+                # delete all but one element in definitions
+                definitionLenght = len(definitions)
+                while definitionLenght > 1:
+                    element.remove(definitions[definitionLenght-1])
+                    definitionLenght -= 1
+                definitions[0].text = definitionText
     tree.write(scheme+"_modified.rdf", pretty_print=True, encoding="utf-8")
     g = Graph()
     g.parse(scheme+"_modified.rdf", format="xml", encoding="utf-8")
