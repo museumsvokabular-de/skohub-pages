@@ -42,6 +42,9 @@ for rdfFile in allRdfFiles:
                     #subElement.text = schemeUUID
                     # delete element
                     element.remove(subElement)
+                if subElement.tag == "{http://www.w3.org/2004/02/skos/core#}example":
+                    subElement.text += languageLabel
+
             # find all elements with tag "{http://www.w3.org/2004/02/skos/core#}definition" and add language label
             definitions = element.findall("{http://www.w3.org/2004/02/skos/core#}definition")
             if len(definitions) > 1:
@@ -76,6 +79,7 @@ for rdfFile in allRdfFiles:
     with open(scheme+"_modified.ttl", 'r', encoding="utf-8") as f:
         text = f.read()
         text = text.replace('@de"', '"@de')
+        text = text.replace('^^rdf:XMLLiteral', '')
     with open(scheme+"_modified.ttl", 'w', encoding="utf-8") as f:
         f.write(text)
 

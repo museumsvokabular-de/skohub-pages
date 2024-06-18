@@ -31,7 +31,7 @@
     dc:identifier "Achse (Saatpflug)" ;
     dcq:created "1987-06-09" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Saatpflugteile> ;
-    skos:editorialNote "S 26/37, T 15"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 26/37, T 15" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Achse (Saatpflug)"@de .
 
@@ -41,7 +41,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Futter (Achs-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Wagenachsenteile> ;
-    skos:editorialNote "H 144, T 57 &amp; DG 125 &amp; H 140, T 54"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 144, T 57 &amp; DG 125 &amp; H 140, T 54" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Achsfutter"@de .
 
@@ -51,7 +51,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Polster (Achs-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Wagenachsenteile> ;
-    skos:editorialNote "H 144, T 57 &amp; DG 125 &amp; H 140, T 54"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 144, T 57 &amp; DG 125 &amp; H 140, T 54" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Achspolster"@de .
 
@@ -61,7 +61,7 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Geschirr (Achter-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Zuggeschirr_-_Zaumzeug_(Ackerbauger�t_-_Feldbestellung)> ;
-    skos:editorialNote "S 122/123, T 64"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 122/123, T 64" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Achtergeschirr"@de .
 
@@ -81,7 +81,7 @@
     dc:identifier "Ackerschleife" ;
     dcq:created "1987-06-04" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Eggen_-_Eggeten> ;
-    skos:editorialNote "DG 64 f"^^rdf:XMLLiteral ;
+    skos:editorialNote "DG 64 f" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Ackerschleife"@de .
 
@@ -91,8 +91,8 @@
     dcq:created "1987-11-25" ;
     skos:altLabel "Wagen (Acker-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Wagen_(Landwirtschaft)> ;
-    skos:editorialNote "H 138, T 54 &amp;"^^rdf:XMLLiteral,
-        "H 140, T 55 &amp; 144, T 57 &amp; S 128, T 64"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 138, T 54 &amp;",
+        "H 140, T 55 &amp; 144, T 57 &amp; S 128, T 64" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Ackerwagen"@de .
 
@@ -103,7 +103,7 @@
     skos:altLabel "Blocktredde"@de,
         "Walze (Acker-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Walzen_(Bodenbearbeitungsger�t)> ;
-    skos:editorialNote "S 48, T 68/8"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 48, T 68/8" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Ackerwalze"@de .
 
@@ -138,7 +138,7 @@
     dcq:created "1987-08-26" ;
     skos:altLabel "Hammer (Amboß mit, Dengelgerät)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Dengelger�t> ;
-    skos:editorialNote "S 54/55, T 24"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 54/55, T 24" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Amboß mit Hammer (Dengelgerät)"@de .
 
@@ -229,7 +229,7 @@
     skos:altLabel "Gabel (Aufsteck-)"@de,
         "Upstekeforke"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Forken> ;
-    skos:editorialNote "H 192, T 81/9"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 192, T 81/9" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Aufsteckgabel"@de .
 
@@ -274,7 +274,7 @@
     dcq:created "1987-08-26" ;
     skos:altLabel "Maschine (Auslege-, Getreidereinigung)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Getreidereinigung> ;
-    skos:editorialNote "DG"^^rdf:XMLLiteral ;
+    skos:editorialNote "DG" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Auslegemaschine (Getreidereinigung)"@de .
 
@@ -447,7 +447,7 @@
         "Karren mit Pferdebespannung (Baum-)"@de,
         "Pferdebespannung (Baumkarren mit)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Zweiradkarren> ;
-    skos:editorialNote "H 150, T 66/1-3"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 150, T 66/1-3" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Baumkarren mit Pferdebespannung"@de .
 
@@ -457,7 +457,7 @@
     dcq:created "1987-08-26" ;
     skos:altLabel "Baumkarren mit Pferdebespannung"@de,
         "Pferdebespannung (Baumkorrn mit)"@de ;
-    skos:editorialNote "H 150, T 66/4"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 150, T 66/4" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Baumkorrn mit Pferdebespannung"@de .
 
@@ -467,7 +467,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Pflanzer (Baum-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pflanzger�t> ;
-    skos:editorialNote "S 20/21, T 5"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 20/21, T 5" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Baumpflanzer"@de .
 
@@ -494,7 +494,7 @@
     dc:identifier "Baunenpötter" ;
     dcq:created "1987-03-18" ;
     skos:altLabel "Bohnensetzbrett"@de ;
-    skos:editorialNote "S 22/23, T 6"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 22/23, T 6" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Baunenpötter"@de .
 
@@ -504,7 +504,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Pflug (Bau-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pfl�ge> ;
-    skos:editorialNote "S 27, T 8/6"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 27, T 8/6" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Baupflug"@de .
 
@@ -514,7 +514,7 @@
     dcq:created "1987-02-25" ;
     skos:altLabel "Pflug (Beet-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pfl�ge> ;
-    skos:editorialNote "S 27, T 8/5"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 27, T 8/5" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Beetpflug"@de .
 
@@ -542,7 +542,7 @@
     dc:identifier "Bick" ;
     dcq:created "1987-03-16" ;
     skos:altLabel "Mahdhaken"@de ;
-    skos:editorialNote "S 58, T 26/9"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 58, T 26/9" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Bick"@de .
 
@@ -561,7 +561,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Hook (Bick-)"@de,
         "Mahdhaken"@de ;
-    skos:editorialNote "S 58, T 26/9"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 58, T 26/9" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Bickhook"@de .
 
@@ -637,7 +637,7 @@
     skos:altLabel "Stange für Zugtiere (Bißführ-)"@de,
         "Zugtiere (Bißführstange für)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Riemenzeug_f�r_Zugtiere> ;
-    skos:editorialNote "S 124/125, T 65"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 124/125, T 65" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Bißführstange für Zugtiere"@de .
 
@@ -675,7 +675,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Schaufel (Blatt-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Schaufeln> ;
-    skos:editorialNote "H 170, T 70/3-5"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 170, T 70/3-5" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Blattschaufel"@de .
 
@@ -685,7 +685,7 @@
     dcq:created "1987-08-26" ;
     skos:altLabel "Behältnis (Blech-, Wetzgerät)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Wetzger�t> ;
-    skos:editorialNote "S 56/57, T 25"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 56/57, T 25" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Blechbehältnis (Wetzgerät)"@de .
 
@@ -695,7 +695,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Ackerwalze"@de,
         "Tredde (Block-)"@de ;
-    skos:editorialNote "H 166 &amp; S 48, T 68/8"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 166 &amp; S 48, T 68/8" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Blocktredde"@de .
 
@@ -708,7 +708,7 @@
         "Lattenkorrn"@de,
         "Schierkorrn"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Karren_(Landwirtschaft)> ;
-    skos:editorialNote "H 148, T 59/2"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 148, T 59/2" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Bockkarren"@de .
 
@@ -718,7 +718,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Bockkarren"@de,
         "Korrn (Bock-)"@de ;
-    skos:editorialNote "H 148, T 59/2"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 148, T 59/2" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Bockkorrn"@de .
 
@@ -728,7 +728,7 @@
     dcq:created "1987-02-25" ;
     skos:altLabel "Pflug (Bock-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pfl�ge> ;
-    skos:editorialNote "S 26, T 8/4"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 26, T 8/4" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Bockpflug"@de .
 
@@ -740,7 +740,7 @@
         "Seilführung (Bodenaufzug mit Unterboden-)"@de,
         "Unterbodenseilführung (Bodenaufzug mit)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Ernteaufz�ge> ;
-    skos:editorialNote "H 186, T 78/1-5 &amp; S 88, T 44/2,4"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 186, T 78/1-5 &amp; S 88, T 44/2,4" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Bodenaufzug mit Unterbodenseilführung"@de .
 
@@ -801,7 +801,7 @@
     skos:altLabel "Doppelsetzholz (Bohnen-)"@de,
         "Setzholz (Bohnendoppel-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pflanzger�t> ;
-    skos:editorialNote "S 22/23, T 6"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 22/23, T 6" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Bohnendoppelsetzholz"@de .
 
@@ -811,7 +811,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Pflanzer (Bohnen-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pflanzger�t> ;
-    skos:editorialNote "H 174, T 72/3-4"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 174, T 72/3-4" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Bohnenpflanzer"@de .
 
@@ -823,7 +823,7 @@
         "Brett (Bohnensetz-)"@de,
         "Setzbrett (Bohnen-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pflanzger�t> ;
-    skos:editorialNote "S 22/23, T 6"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 22/23, T 6" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Bohnensetzbrett"@de .
 
@@ -834,7 +834,7 @@
     skos:altLabel "Holz (Bohnensetz-)"@de,
         "Setzholz (Bohnen-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pflanzger�t> ;
-    skos:editorialNote "S 20/21, T 5"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 20/21, T 5" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Bohnensetzholz"@de .
 
@@ -966,7 +966,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Drescher (Breit-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Dreschmaschinen> ;
-    skos:editorialNote "S 71 f., T 36/37 &amp; DG ???"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 71 f., T 36/37 &amp; DG ???" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Breitdrescher"@de .
 
@@ -986,7 +986,7 @@
     skos:altLabel "Maschine (Breitsä-)"@de,
         "Sämaschine (Breit-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/S�ger�t> ;
-    skos:editorialNote "DG 160 f"^^rdf:XMLLiteral ;
+    skos:editorialNote "DG 160 f" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Breitsämaschine"@de .
 
@@ -1024,8 +1024,8 @@
     skos:altLabel "Blattgeschirr (Brust-, für Arbeits-, Ackerwagen)"@de,
         "Geschirr (Brustblatt-, für Arbeits-, Ackerwagen)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Zuggeschirr_-_Zaumzeug_(Ackerbauger�t_-_Feldbestellung)> ;
-    skos:editorialNote "H 143/8"^^rdf:XMLLiteral,
-        "S 120/121, T 63"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 143/8",
+        "S 120/121, T 63" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Brustblattgeschirr (für Arbeits-, Ackerwagen)"@de .
 
@@ -1045,7 +1045,7 @@
     skos:altLabel "Führungsstab (Bullen-)"@de,
         "Stab (Bullenführungs-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Anspannungszubeh�r_f�r_Zugtiere> ;
-    skos:editorialNote "S 127, T 68"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 127, T 68" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Bullenführungsstab"@de .
 
@@ -1074,7 +1074,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Pflug (Dampf-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pfl�ge> ;
-    skos:editorialNote "DG 104"^^rdf:XMLLiteral ;
+    skos:editorialNote "DG 104" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Dampfpflug"@de .
 
@@ -1085,7 +1085,7 @@
     skos:altLabel "Lokomobil (Dampfpflug-)"@de,
         "Pfluglokomobil (Dampf-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pfl�ge> ;
-    skos:editorialNote "DG 104"^^rdf:XMLLiteral ;
+    skos:editorialNote "DG 104" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Dampfpfluglokomobil"@de .
 
@@ -1118,9 +1118,9 @@
     skos:altLabel "Amboß (Dengel-)"@de,
         "Haarstock"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Dengelger�t> ;
-    skos:editorialNote "4"^^rdf:XMLLiteral,
-        "H 180, T 75/2"^^rdf:XMLLiteral,
-        "S 54/55, T 24"^^rdf:XMLLiteral ;
+    skos:editorialNote "4",
+        "H 180, T 75/2",
+        "S 54/55, T 24" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Dengelamboß"@de .
 
@@ -1131,7 +1131,7 @@
     skos:altLabel "Amboß mit Querstrebe (Dengel-)"@de,
         "Querstrebe (Dengelamboß mit)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Dengelger�t> ;
-    skos:editorialNote "S 54/55, T 24"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 54/55, T 24" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Dengelamboß mit Querstrebe"@de .
 
@@ -1143,7 +1143,7 @@
         "Eisen (Dengelamboß-)"@de,
         "Haarspit"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Dengelger�t> ;
-    skos:editorialNote "S 54/55, T 24"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 54/55, T 24" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Dengelamboßeisen"@de .
 
@@ -1186,7 +1186,7 @@
     skos:altLabel "Haarhammer"@de,
         "Hammer (Dengel-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Dengelger�t> ;
-    skos:editorialNote "S 54/55, T 24 &amp; H 180, T 95/3"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 54/55, T 24 &amp; H 180, T 95/3" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Dengelhammer"@de .
 
@@ -1195,7 +1195,7 @@
     dc:identifier "Dengeltuig" ;
     dcq:created "1987-03-18" ;
     skos:altLabel "Dengelgerät"@de ;
-    skos:editorialNote "H 180, T 75/1-3 &amp; H 346, T 158/5-7"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 180, T 75/1-3 &amp; H 346, T 158/5-7" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Dengeltuig"@de .
 
@@ -1204,7 +1204,7 @@
     dc:identifier "Dengelzeug" ;
     dcq:created "1987-03-18" ;
     skos:altLabel "Dengelgerät"@de ;
-    skos:editorialNote "H 180, T 75/1-3 &amp; H 346, T 158/5-7"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 180, T 75/1-3 &amp; H 346, T 158/5-7" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Dengelzeug"@de .
 
@@ -1214,7 +1214,7 @@
     dcq:created "1987-08-26" ;
     skos:altLabel "Dreschlaternen (Dresch-Zusatzgerät)"@de,
         "Lüchten (Deskel-, Dresch-Zusatzgerät)"@de ;
-    skos:editorialNote "H 188, T 79/7"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 188, T 79/7" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Deskellüchten (Dresch-Zusatzgerät)"@de .
 
@@ -1224,7 +1224,7 @@
     dcq:created "1987-11-24" ;
     skos:altLabel "Stecher (Distel-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Spaten:_Sachgruppe> ;
-    skos:editorialNote "H 170, T 70/12 &amp; DG 173"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 170, T 70/12 &amp; DG 173" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Distelstecher"@de .
 
@@ -1234,7 +1234,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Harke (Diuw-)"@de,
         "Tiefhacke"@de ;
-    skos:editorialNote "H 176, T 73/1 &amp; H 180/10"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 176, T 73/1 &amp; H 180/10" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Diuwharke"@de .
 
@@ -1322,7 +1322,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Pflug (Doppel-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pfl�ge> ;
-    skos:editorialNote "DG 74/79 f"^^rdf:XMLLiteral ;
+    skos:editorialNote "DG 74/79 f" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Doppelpflug"@de .
 
@@ -1375,7 +1375,7 @@
     skos:altLabel "Pflug (Doppelsterz-)"@de,
         "Sterzpflug (Doppel-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pfl�ge> ;
-    skos:editorialNote "DG 74/79 f &amp; H 158, T 63/1-3"^^rdf:XMLLiteral ;
+    skos:editorialNote "DG 74/79 f &amp; H 158, T 63/1-3" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Doppelsterzpflug"@de .
 
@@ -1393,7 +1393,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Sense (Dornen-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Sensen> ;
-    skos:editorialNote "S 60, T 27/10"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 60, T 27/10" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Dornensense"@de .
 
@@ -1403,7 +1403,7 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Schleife (Dorn-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Eggen_-_Eggeten> ;
-    skos:editorialNote "DG 64 f"^^rdf:XMLLiteral ;
+    skos:editorialNote "DG 64 f" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Dornschleife"@de .
 
@@ -1433,7 +1433,7 @@
         "Schliepsteen (Wetzgerät)"@de,
         "Stein (Drehschleif-, Wetzgerät)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Wetzger�t> ;
-    skos:editorialNote "H 346, T 158/1"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 346, T 158/1" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Drehschleifstein (Wetzgerät)"@de .
 
@@ -1443,7 +1443,7 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Egge (Dreiecks-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Eggen_-_Eggeten> ;
-    skos:editorialNote "S 46, T 19/10"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 46, T 19/10" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Dreiecksegge"@de .
 
@@ -1481,7 +1481,7 @@
         "Riepe (Dreschgerät)"@de,
         "Riffel (Dreschgerät)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Dreschger�t> ;
-    skos:editorialNote "S 71 f., T 34/4"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 71 f., T 34/4" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Dreschbock"@de .
 
@@ -1491,7 +1491,7 @@
     dcq:created "1986-02-06" ;
     skos:altLabel "Flegel (Dresch-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Dreschger�t> ;
-    skos:editorialNote "H 183, T 79/1 &amp; H 190, T 80/3 &amp; S 71 f., T 34/2-3/T 35"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 183, T 79/1 &amp; H 190, T 80/3 &amp; S 71 f., T 34/2-3/T 35" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Dreschflegel"@de .
 
@@ -1500,7 +1500,7 @@
     dc:identifier "Dreschflegelteile" ;
     dcq:created "1987-06-04" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Dreschger�t> ;
-    skos:editorialNote "H 190, T 80/3 &amp; H 188, T 79/2"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 190, T 80/3 &amp; H 188, T 79/2" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/Dreschkeule>,
         <http://www.museumsvokabular.de/museumvok/gefaess/Dreschstein>,
@@ -1534,7 +1534,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Keule (Dresch-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Dreschflegelteile> ;
-    skos:editorialNote "S 71 f., T 34/1"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 71 f., T 34/1" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Dreschkeule"@de .
 
@@ -1544,7 +1544,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Dreschbock"@de,
         "Klotz (Dresch-)"@de ;
-    skos:editorialNote "S 71 f., T 34/4"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 71 f., T 34/4" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Dreschklotz"@de .
 
@@ -1632,7 +1632,7 @@
     dcq:created "1987-08-26" ;
     skos:altLabel "Stock (Dresch-, Dreschflegel)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Dreschflegelteile> ;
-    skos:editorialNote "S 71 f., T 34/1"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 71 f., T 34/1" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Dreschstock (Dreschflegel)"@de .
 
@@ -1669,7 +1669,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Maschine (Drill-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/S�ger�t> ;
-    skos:editorialNote "DG 160 f"^^rdf:XMLLiteral ;
+    skos:editorialNote "DG 160 f" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Drillmaschine"@de .
 
@@ -1707,7 +1707,7 @@
     dcq:created "1987-08-26" ;
     skos:altLabel "Rutschbalken (Egge mit)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Eggen_-_Eggeten> ;
-    skos:editorialNote "S 45, T 18/4"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 45, T 18/4" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Egge mit Rutschbalken"@de .
 
@@ -1717,7 +1717,7 @@
     dcq:created "1987-08-26" ;
     skos:altLabel "Eggeten - Eggen"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Bodenbearbeitungsger�t> ;
-    skos:editorialNote "H 166/167 &amp; S 44/45, T 17-18"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 166/167 &amp; S 44/45, T 17-18" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/Ackerschleife>,
         <http://www.museumsvokabular.de/museumvok/gefaess/Dornschleife>,
@@ -1740,7 +1740,7 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Haken (Eggen-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Eggen_-_Eggeten> ;
-    skos:editorialNote "H 166 &amp; S 45, T 68/7"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 166 &amp; S 45, T 68/7" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Eggenhaken"@de .
 
@@ -1791,7 +1791,7 @@
         "Plöggenhaken (Ernteaufzug)"@de,
         "Zinken (Eisenhaken mit zwei, Ernteaufzug)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Ernteaufz�ge> ;
-    skos:editorialNote "HT 78/6-7"^^rdf:XMLLiteral ;
+    skos:editorialNote "HT 78/6-7" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Eisenhaken mit zwei Zinken (Ernteaufzug)"@de .
 
@@ -1812,7 +1812,7 @@
     skos:altLabel "Grubber (Eisenpflug mit)"@de,
         "Pflug mit Grubber (Eisen-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pfl�ge> ;
-    skos:editorialNote "S 38/39, T 15a"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 38/39, T 15a" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Eisenpflug mit Grubber"@de .
 
@@ -1832,7 +1832,7 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Walze (Eisen-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Walzen_(Bodenbearbeitungsger�t)> ;
-    skos:editorialNote "S 48, T 20"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 48, T 20" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Eisenwalze"@de .
 
@@ -1851,7 +1851,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Bohrer (Erd-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pflanzger�t> ;
-    skos:editorialNote "S 20/21, T 5"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 20/21, T 5" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Erdbohrer"@de .
 
@@ -1861,7 +1861,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Schaufel (Erd-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Schaufeln> ;
-    skos:editorialNote "S 14/15 T3"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 14/15 T3" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Erdschaufel"@de .
 
@@ -1917,7 +1917,7 @@
     dcq:created "1987-05-13" ;
     skos:altLabel "Harke (Ernte-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Harken> ;
-    skos:editorialNote "H 176, T 73/3-4"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 176, T 73/3-4" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Ernteharke"@de .
 
@@ -1926,7 +1926,7 @@
     dc:identifier "Ernteharke mit Holzzinken und -stiel" ;
     dcq:created "1987-06-05" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Harken> ;
-    skos:editorialNote "H 176, T 73/1"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 176, T 73/1" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Ernteharke mit Holzzinken und -stiel"@de .
 
@@ -2027,7 +2027,7 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Sichel (Farn-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Sicheln_-_Sichten> ;
-    skos:editorialNote "S 58 f. T 26/4-5"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 58 f. T 26/4-5" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Farnsichel"@de .
 
@@ -2068,7 +2068,7 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Kastenwagen, gefedert"@de,
         "Wagen (Feddern-)"@de ;
-    skos:editorialNote "H 142, T 56/1"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 142, T 56/1" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Feddernwagen"@de .
 
@@ -2109,7 +2109,7 @@
     skos:altLabel "Egge (Federzahn-)"@de,
         "Zahnegge (Feder-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Eggen_-_Eggeten> ;
-    skos:editorialNote "DG 64 f"^^rdf:XMLLiteral ;
+    skos:editorialNote "DG 64 f" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Federzahnegge"@de .
 
@@ -2120,7 +2120,7 @@
     skos:altLabel "Bank (Feil-, Wetzgerät)"@de,
         "Fuilbank (Wetzgerät)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Wetzger�t> ;
-    skos:editorialNote "H 346, T 158/4"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 346, T 158/4" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Feilbank (Wetzgerät)"@de .
 
@@ -2190,7 +2190,7 @@
     dc:identifier "Felge (Wagenrad)" ;
     dcq:created "1987-11-06" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Wagenradteile> ;
-    skos:editorialNote "H 144, T 57 &amp; DG 125 &amp; H 140, T 54"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 144, T 57 &amp; DG 125 &amp; H 140, T 54" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Felge (Wagenrad)"@de .
 
@@ -2208,7 +2208,7 @@
     dc:identifier "Fitteck" ;
     dcq:created "1987-06-04" ;
     skos:altLabel "Fittich (Getreidereinigung)"@de ;
-    skos:editorialNote "H 194/2"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 194/2" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Fitteck"@de .
 
@@ -2219,7 +2219,7 @@
     skos:altLabel "Fitteck"@de,
         "Gänsefittich (Getreidereinigung)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Getreidereinigung> ;
-    skos:editorialNote "H 194/2"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 194/2" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Fittich (Getreidereinigung)"@de .
 
@@ -2247,7 +2247,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Kastenwagen"@de,
         "Wagen (Flechten-)"@de ;
-    skos:editorialNote "H 136, T 53/2"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 136, T 53/2" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Flechtenwagen"@de .
 
@@ -2257,7 +2257,7 @@
     dcq:created "1987-06-03" ;
     skos:altLabel "Knüppel (Flegel-)"@de,
         "Schlegel (Dreschflegel)"@de ;
-    skos:editorialNote "H 182 &amp;$ S 71 f., T 34/35"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 182 &amp;$ S 71 f., T 34/35" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Flegelknüppel"@de .
 
@@ -2303,7 +2303,7 @@
     dcq:created "1999-01-13" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Forken> ;
     skos:definition "für Heu, Stroh und Getreide"@de ;
-    skos:editorialNote "S 69 f. T 33/2-6"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 69 f. T 33/2-6" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Forke"@de .
 
@@ -2330,7 +2330,7 @@
     dcq:created "1987-06-03" ;
     skos:altLabel "Spaten (Forst-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Spaten:_Sachgruppe> ;
-    skos:editorialNote "H 170, T 70/13"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 170, T 70/13" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Forstspaten"@de .
 
@@ -2340,7 +2340,7 @@
     dcq:created "1987-11-25" ;
     skos:altLabel "Wagen (Fracht-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Wagen_(Landwirtschaft)> ;
-    skos:editorialNote "H 142"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 142" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Frachtwagen"@de .
 
@@ -2360,7 +2360,7 @@
     dcq:created "1987-08-26" ;
     skos:altLabel "Schaufel (Frucht-, Getreidereinigung)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Getreidereinigung> ;
-    skos:editorialNote "S 80, T 39/2"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 80, T 39/2" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Fruchtschaufel (Getreidereinigung)"@de .
 
@@ -2438,7 +2438,7 @@
     dcq:created "1987-08-26" ;
     skos:altLabel "Bank (Fuil-, Wetzgerät)"@de,
         "Feilbank (Wetzgerät)"@de ;
-    skos:editorialNote "H 346, T 158/4"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 346, T 158/4" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Fuilbank (Wetzgerät)"@de .
 
@@ -2448,7 +2448,7 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Gabel (Futter-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Gabeln_(Ernteger�t)> ;
-    skos:editorialNote "S 69 f. T 33/1"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 69 f. T 33/1" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Futtergabel"@de .
 
@@ -2536,7 +2536,7 @@
     dc:identifier "Gaffel" ;
     dcq:created "1987-06-04" ;
     skos:altLabel "Gabel (Erntegerät)"@de ;
-    skos:editorialNote "H 192, T 81/1-2"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 192, T 81/1-2" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Gaffel"@de .
 
@@ -2545,7 +2545,7 @@
     dc:identifier "Gaffel, breit" ;
     dcq:created "1987-08-26" ;
     skos:altLabel "Gabel (Erntegerät)"@de ;
-    skos:editorialNote "S 69 f., T 33/14-15"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 69 f., T 33/14-15" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Gaffel, breit"@de .
 
@@ -2554,7 +2554,7 @@
     dc:identifier "Gaffel, schmal" ;
     dcq:created "1987-08-26" ;
     skos:altLabel "Gabel (Erntegerät)"@de ;
-    skos:editorialNote "S 69 f., T 33/14-15"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 69 f., T 33/14-15" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Gaffel, schmal"@de .
 
@@ -2573,7 +2573,7 @@
     skos:altLabel "Blatthacke (Garten-)"@de,
         "Hacke (Garten-Blatt-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Hacken> ;
-    skos:editorialNote "H 172, T 71/3-6"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 172, T 71/3-6" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Garten-Blatthacke"@de .
 
@@ -2583,7 +2583,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Harke (Garten-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Harken> ;
-    skos:editorialNote "H 176, T 73/2-4"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 176, T 73/2-4" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Gartenharke"@de .
 
@@ -2593,7 +2593,7 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Walze (Garten-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Walzen_(Bodenbearbeitungsger�t)> ;
-    skos:editorialNote "H 166 &amp; S 48, T 68/9 &amp; S 50, T 21/8"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 166 &amp; S 48, T 68/9 &amp; S 50, T 21/8" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Gartenwalze"@de .
 
@@ -2602,7 +2602,7 @@
     dc:identifier "Gausefoot" ;
     dcq:created "1987-03-18" ;
     skos:altLabel "Gänsefuß"@de ;
-    skos:editorialNote "H 166 &amp; S 44/45, T 68/11 &amp; S 38/39/15a"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 166 &amp; S 44/45, T 68/11 &amp; S 38/39/15a" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Gausefoot"@de .
 
@@ -2690,7 +2690,7 @@
     dcq:created "1987-06-03" ;
     skos:altLabel "Peitsche (Geißel-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Anspannungszubeh�r_f�r_Zugtiere> ;
-    skos:editorialNote "S, T 67"^^rdf:XMLLiteral ;
+    skos:editorialNote "S, T 67" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Geißel-Peitsche"@de .
 
@@ -2919,7 +2919,7 @@
     dcq:created "1987-08-26" ;
     skos:altLabel "Schaufel (Getreide-, Getreidereinigung)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Getreidereinigung> ;
-    skos:editorialNote "S 80, T 39/1"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 80, T 39/1" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Getreideschaufel (Getreidereinigung)"@de .
 
@@ -2929,7 +2929,7 @@
     dcq:created "1986-09-18" ;
     skos:altLabel "Sense (Getreide-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Sensen> ;
-    skos:editorialNote "S 60, T 27/9"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 60, T 27/9" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Getreidesense"@de .
 
@@ -2939,7 +2939,7 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Sichel (Getreide-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Sicheln_-_Sichten> ;
-    skos:editorialNote "S 58 f. T 26/2"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 58 f. T 26/2" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Getreidesichel"@de .
 
@@ -2970,7 +2970,7 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Walze (Glatt-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Walzen_(Bodenbearbeitungsger�t)> ;
-    skos:editorialNote "DG 100 f"^^rdf:XMLLiteral ;
+    skos:editorialNote "DG 100 f" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Glattwalze"@de .
 
@@ -2980,7 +2980,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Gabel (Grabe-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Schaufeln> ;
-    skos:editorialNote "S 14/15 T3"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 14/15 T3" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Grabegabel"@de .
 
@@ -2990,7 +2990,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Sense (Graben-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Sensen> ;
-    skos:editorialNote "S 60, T 27/10"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 60, T 27/10" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Grabensense"@de .
 
@@ -3000,7 +3000,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Schaufel (Grabe-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Schaufeln> ;
-    skos:editorialNote "S 14/15 T3"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 14/15 T3" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Grabeschaufel"@de .
 
@@ -3010,7 +3010,7 @@
     dcq:created "1987-06-03" ;
     skos:altLabel "Scheit (Grab-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Spaten:_Sachgruppe> ;
-    skos:editorialNote "H 170, T 70/1-2"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 170, T 70/1-2" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Grabscheit"@de .
 
@@ -3029,7 +3029,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Sense (Gras-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Sensen> ;
-    skos:editorialNote "S 60, T 27/7"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 60, T 27/7" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Grassense"@de .
 
@@ -3039,7 +3039,7 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Sichel (Gras-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Sicheln_-_Sichten> ;
-    skos:editorialNote "S 58 f. T 26/2"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 58 f. T 26/2" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Grassichel"@de .
 
@@ -3147,7 +3147,7 @@
     dcq:created "1987-08-26" ;
     skos:altLabel "Zange (Greif-, Ernteaufzüge)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Ernteaufz�ge> ;
-    skos:editorialNote "H 186, T 78/9 &amp; S 88, 44/7,8"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 186, T 78/9 &amp; S 88, 44/7,8" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Greifzange (Ernteaufzüge)"@de .
 
@@ -3157,7 +3157,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Strohforke"@de ;
     skos:definition "Strohforke mit fünf Zinken"@de ;
-    skos:editorialNote "H 192, T 81/10"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 192, T 81/10" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Greipon"@de .
 
@@ -3174,7 +3174,7 @@
     dc:identifier "Grindel (Saatpflug)" ;
     dcq:created "1987-08-26" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Saatpflugteile> ;
-    skos:editorialNote "S 26/37, T 15"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 26/37, T 15" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Grindel (Saatpflug)"@de .
 
@@ -3193,7 +3193,7 @@
     dcq:created "1987-08-26" ;
     skos:altLabel "Halter (Grindel-, Saatpflug)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Saatpflugteile> ;
-    skos:editorialNote "S 26/37, T 15"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 26/37, T 15" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Grindelhalter (Saatpflug)"@de .
 
@@ -3230,7 +3230,7 @@
     dc:identifier "Grubber" ;
     dcq:created "1999-01-13" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pfl�ge> ;
-    skos:editorialNote "H 166 &amp; S 44/45, T 68/11 &amp; S 38/39/15a"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 166 &amp; S 44/45, T 68/11 &amp; S 38/39/15a" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Grubber"@de .
 
@@ -3249,7 +3249,7 @@
     dcq:created "1987-08-26" ;
     skos:altLabel "Fittich (Getreidereinigung)"@de,
         "Fittich (Gänse-, Getreidereinigung)"@de ;
-    skos:editorialNote "H 194/2"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 194/2" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Gänsefittich (Getreidereinigung)"@de .
 
@@ -3260,7 +3260,7 @@
     skos:altLabel "Gausefoot"@de,
         "Porter"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pfl�ge> ;
-    skos:editorialNote "H 166 &amp; S 44/45, T 68/11 &amp; S 38/39/15a"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 166 &amp; S 44/45, T 68/11 &amp; S 38/39/15a" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Gänsefuß"@de .
 
@@ -3277,7 +3277,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Dengelhammer"@de,
         "Hammer (Haar-)"@de ;
-    skos:editorialNote "S 54/55, T 24"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 54/55, T 24" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Haarhammer"@de .
 
@@ -3286,7 +3286,7 @@
     dc:identifier "Haarspit" ;
     dcq:created "1987-03-18" ;
     skos:altLabel "Dengelamboßeisen"@de ;
-    skos:editorialNote "S 54/55, T 24"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 54/55, T 24" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Haarspit"@de .
 
@@ -3296,7 +3296,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Dengelamboß"@de,
         "Stock (Haar-)"@de ;
-    skos:editorialNote "S 54/55, T 24"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 54/55, T 24" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Haarstock"@de .
 
@@ -3306,7 +3306,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Dengelgerät"@de ;
     skos:definition "Haartüg zu Mittelhochdeutsch hare (=scharf), haren=schärfen"@de ;
-    skos:editorialNote "S 54/55, T 24"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 54/55, T 24" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Haartüg"@de .
 
@@ -3399,7 +3399,7 @@
     dcq:created "1987-08-26" ;
     skos:altLabel "Pflug (Hack-), keilförmig"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pfl�ge> ;
-    skos:editorialNote "H 166, T 68/10"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 166, T 68/10" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Hackpflug, keilförmig"@de .
 
@@ -3447,7 +3447,7 @@
     dcq:created "1987-08-26" ;
     skos:altLabel "Zugtiere (Halfter für)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Riemenzeug_f�r_Zugtiere> ;
-    skos:editorialNote "S 124/125, T 65"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 124/125, T 65" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Halfter für Zugtiere"@de .
 
@@ -3457,7 +3457,7 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Baum (Halse-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Zuggeschirr_-_Zaumzeug_(Ackerbauger�t_-_Feldbestellung)> ;
-    skos:editorialNote "H 134, T 52/1"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 134, T 52/1" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Halsebaum"@de .
 
@@ -3497,7 +3497,7 @@
     dc:identifier "Halteeisen" ;
     dcq:created "1987-06-04" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Zuggeschirr_-_Zaumzeug_(Ackerbauger�t_-_Feldbestellung)> ;
-    skos:editorialNote "H 134, T 52/1"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 134, T 52/1" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Halteeisen"@de .
 
@@ -3544,7 +3544,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Schlitten (Hand-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Schlitten> ;
-    skos:editorialNote "H 146, T 58/1-4"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 146, T 58/1-4" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Handschlitten"@de .
 
@@ -3555,7 +3555,7 @@
     skos:altLabel "Flejanstock"@de,
         "Stock (Hand-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Dreschflegelteile> ;
-    skos:editorialNote "H 188, T 79/2 &amp; S 71 f., T 34/35"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 188, T 79/2 &amp; S 71 f., T 34/35" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Handstock"@de .
 
@@ -3575,7 +3575,7 @@
     dcq:created "1987-11-25" ;
     skos:altLabel "Wagen (Hand-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Wagen_(Landwirtschaft)> ;
-    skos:editorialNote "H 146, T 58/1-4"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 146, T 58/1-4" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Handwagen"@de .
 
@@ -3586,7 +3586,7 @@
     skos:altLabel "Geschirr (Hanfgurtzug-)"@de,
         "Zuggeschirr (Hanfgurt-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Zuggeschirr_-_Zaumzeug_(Ackerbauger�t_-_Feldbestellung)> ;
-    skos:editorialNote "S 120/121, T 62"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 120/121, T 62" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Hanfgurtzuggeschirr"@de .
 
@@ -3595,7 +3595,7 @@
     dc:identifier "Harke" ;
     dcq:created "1987-02-25" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Harken> ;
-    skos:editorialNote "S 66, T 30"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 66, T 30" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Harke"@de .
 
@@ -3634,7 +3634,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Pflug (Haubergs-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pfl�ge> ;
-    skos:editorialNote "S 24, T 7/1"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 24, T 7/1" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Haubergspflug"@de .
 
@@ -3643,7 +3643,7 @@
     dc:identifier "Haue" ;
     dcq:created "1987-02-25" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Hacken> ;
-    skos:editorialNote "S 16-17, T 4-4a"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 16-17, T 4-4a" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Haue"@de .
 
@@ -3653,7 +3653,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Kurzsense"@de,
         "Sense (Hau-)"@de ;
-    skos:editorialNote "H 178, T 74/9 &amp; S 58 f. T 26/8"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 178, T 74/9 &amp; S 58 f. T 26/8" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Hausense"@de .
 
@@ -3673,7 +3673,7 @@
     skos:altLabel "Reff (Heckensense mit)"@de,
         "Sense mit Reff (Hecken-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Sensen> ;
-    skos:editorialNote "S 62, T 28/2"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 62, T 28/2" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Heckensense mit Reff"@de .
 
@@ -3699,7 +3699,7 @@
     skos:altLabel "Gabel (Heidekraut-)"@de,
         "Plaggengaffel"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Gabeln_(Ernteger�t)> ;
-    skos:editorialNote "H 192, T 81/5"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 192, T 81/5" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Heidekrautgabel"@de .
 
@@ -3709,8 +3709,8 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Sense (Heidekraut-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Sicheln_-_Sichten> ;
-    skos:editorialNote "H 178, T 74/12 &amp;"^^rdf:XMLLiteral,
-        "S 55, T 26"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 178, T 74/12 &amp;",
+        "S 55, T 26" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Heidekrautsense"@de .
 
@@ -3720,7 +3720,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Sense (Heide-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Sensen> ;
-    skos:editorialNote "S 60, T 27/8"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 60, T 27/8" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Heidesense"@de .
 
@@ -3730,7 +3730,7 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Sichel (Heide-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Sicheln_-_Sichten> ;
-    skos:editorialNote "S 58 f. T 26"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 58 f. T 26" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Heidesichel"@de .
 
@@ -3740,7 +3740,7 @@
     dcq:created "1999-01-13" ;
     skos:altLabel "Schuh (Hemm-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Wagenzubeh�r> ;
-    skos:editorialNote "H 144, T 4-6"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 144, T 4-6" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Hemmschuh"@de .
 
@@ -3782,7 +3782,7 @@
     skos:altLabel "Eisenzinken (Heuforke mit zwei)"@de,
         "Forke mit zwei Eisenzinken (Heu-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Forken> ;
-    skos:editorialNote "H 192, T 81/7-8"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 192, T 81/7-8" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Heuforke mit zwei Eisenzinken"@de .
 
@@ -3792,7 +3792,7 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Gabel (Heu-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Gabeln_(Ernteger�t)> ;
-    skos:editorialNote "S 69 f. T 33/1"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 69 f. T 33/1" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Heugabel"@de .
 
@@ -3802,7 +3802,7 @@
     dcq:created "1987-08-26" ;
     skos:altLabel "Gabel (Heu-), Holz mit gekrümmten eingezapften Zinken"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Gabeln_(Ernteger�t)> ;
-    skos:editorialNote "H 192, T 81/3,4,6"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 192, T 81/3,4,6" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Heugabel, Holz mit gekrümmten eingezapften Zinken"@de .
 
@@ -3812,7 +3812,7 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Hake (Heu-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Hacken_-_Haken_(hakenf�rmige_Hacken)> ;
-    skos:editorialNote "H 172, T 71/13"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 172, T 71/13" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Heuhake"@de .
 
@@ -3831,7 +3831,7 @@
     dcq:created "1987-05-13" ;
     skos:altLabel "Harke (Heu-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Harken> ;
-    skos:editorialNote "S 66, T 30"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 66, T 30" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Heuharke"@de .
 
@@ -3922,7 +3922,7 @@
     dcq:created "1987-08-26" ;
     skos:altLabel "Wender (Heu-, Gabeln)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Gabeln_(Ernteger�t)> ;
-    skos:editorialNote "DG 173 f."^^rdf:XMLLiteral ;
+    skos:editorialNote "DG 173 f." ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Heuwender (Gabeln)"@de .
 
@@ -3932,7 +3932,7 @@
     dcq:created "1987-08-26" ;
     skos:altLabel "Zange (Heu-, Ernteaufzug)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Ernteaufz�ge> ;
-    skos:editorialNote "H 186, T 78/9 &amp; S 88, 44/7,8"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 186, T 78/9 &amp; S 88, 44/7,8" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Heuzange (Ernteaufzug)"@de .
 
@@ -3961,7 +3961,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Wagen (Hinter-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Wagengestell> ;
-    skos:editorialNote "H 144, T 57 &amp; DG 125 &amp; H 140, T 54"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 144, T 57 &amp; DG 125 &amp; H 140, T 54" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Hinterwagen"@de .
 
@@ -4060,7 +4060,7 @@
     dcq:created "1999-01-13" ;
     skos:altLabel "Eisenzinken (Hochgowel mit zwei)"@de,
         "Gowel mit zwei Eisenzinken (Hoch-)"@de ;
-    skos:editorialNote "H 192, T 81/7-8"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 192, T 81/7-8" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Hochgowel mit zwei Eisenzinken"@de .
 
@@ -4070,7 +4070,7 @@
     dcq:created "1987-08-26" ;
     skos:altLabel "Haken (Hoch-, Ernteaufzug)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Ernteaufz�ge> ;
-    skos:editorialNote "HT 78/6-7"^^rdf:XMLLiteral ;
+    skos:editorialNote "HT 78/6-7" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Hochhaken (Ernteaufzug)"@de .
 
@@ -4169,7 +4169,7 @@
     dcq:created "1987-08-26" ;
     skos:altLabel "Büchse (Holz-, Wetzgerät)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Wetzger�t> ;
-    skos:editorialNote "S 56/57, T 25"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 56/57, T 25" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Holzbüchse (Wetzgerät)"@de .
 
@@ -4181,7 +4181,7 @@
         "Eggenbalken (Holzegge mit Holzzinken und)"@de,
         "Holzzinken und Eggenbalken (Holzegge mit)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Eggen_-_Eggeten> ;
-    skos:editorialNote "H 166/167 &amp; S 44/45, T 68/1-3"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 166/167 &amp; S 44/45, T 68/1-3" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Holzegge mit Holzzinken und Eggenbalken"@de .
 
@@ -4219,7 +4219,7 @@
     dcq:created "1987-08-26" ;
     skos:altLabel "Köcher (Holz-, Wetzgerät)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Wetzger�t> ;
-    skos:editorialNote "S 56/57, T 25"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 56/57, T 25" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Holzköcher (Wetzgerät)"@de .
 
@@ -4230,7 +4230,7 @@
     skos:altLabel "Eisenabdeckung (Holzrad mit, Ernteaufzug)"@de,
         "Rad mit Eisenabdeckung (Holz-, Ernteaufzug)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Ernteaufz�ge> ;
-    skos:editorialNote "S 88, T 44/1,3"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 88, T 44/1,3" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Holzrad mit Eisenabdeckung (Ernteaufzug)"@de .
 
@@ -4285,7 +4285,7 @@
     dcq:created "1987-08-26" ;
     skos:altLabel "Schachtel (Holz-, Wetzgerät)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Wetzger�t> ;
-    skos:editorialNote "S 56/57, T 25"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 56/57, T 25" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Holzschachtel (Wetzgerät)"@de .
 
@@ -4304,7 +4304,7 @@
     dcq:created "1987-06-03" ;
     skos:altLabel "Spaten (Holz-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Spaten:_Sachgruppe> ;
-    skos:editorialNote "H 170, T 70/9-10"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 170, T 70/9-10" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Holzspaten"@de .
 
@@ -4314,7 +4314,7 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Walze (Holz-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Walzen_(Bodenbearbeitungsger�t)> ;
-    skos:editorialNote "S 48, T 20"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 48, T 20" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Holzwalze"@de .
 
@@ -4334,7 +4334,7 @@
     skos:altLabel "Pflug mit Vorwagen (Huns-)"@de,
         "Vorwagen (Hunspflug mit)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pfl�ge> ;
-    skos:editorialNote "S 24, T 7/2"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 24, T 7/2" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pflugschar_(Hunspflug_mit_Vorwagen)>,
         <http://www.museumsvokabular.de/museumvok/gefaess/Streichbrett_(Hunspflug_mit_Vorwagen)> ;
@@ -4346,7 +4346,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Hacke (Häufel-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Hacken> ;
-    skos:editorialNote "S 16/17, T 4"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 16/17, T 4" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Häufelhacke"@de .
 
@@ -4356,7 +4356,7 @@
     dcq:created "1987-02-25" ;
     skos:altLabel "Pflug (Häufel-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pfl�ge> ;
-    skos:editorialNote "H 164, T 67/1-3"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 164, T 67/1-3" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Häufelpflug"@de .
 
@@ -4367,7 +4367,7 @@
     skos:altLabel "Pflug mit Pflugkarren (Häufel-)"@de,
         "Pflugkarren (Häufelpflug mit)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pfl�ge> ;
-    skos:editorialNote "H 164, T 67/4"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 164, T 67/4" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Häufelpflug mit Pflugkarren"@de .
 
@@ -4376,7 +4376,7 @@
     dc:identifier "Igel (Krümelpflug)" ;
     dcq:created "1987-08-26" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pfl�ge> ;
-    skos:editorialNote "H 166, T 68/10"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 166, T 68/10" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Igel (Krümelpflug)"@de .
 
@@ -4417,7 +4417,7 @@
     dcq:created "1987-11-04" ;
     skos:altLabel "Wagen (Jauche-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/D�nge-_und_Spritzger�t> ;
-    skos:editorialNote "H 168, T 69/1-2"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 168, T 69/1-2" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/Jauchewagen_mit_Jaucheverteiler>,
         <http://www.museumsvokabular.de/museumvok/gefaess/Jauchewagenteile> ;
@@ -4431,7 +4431,7 @@
         "Verteiler (Jauchewagen mit Jauche-)"@de,
         "Wagen mit Jaucheverteiler (Jauche-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Jauchewagen> ;
-    skos:editorialNote "DG 118 f"^^rdf:XMLLiteral ;
+    skos:editorialNote "DG 118 f" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Jauchewagen mit Jaucheverteiler"@de .
 
@@ -4467,7 +4467,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Schaufel (Kalk-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Schaufeln> ;
-    skos:editorialNote "S 14/15 T3"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 14/15 T3" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Kalkschaufel"@de .
 
@@ -4479,7 +4479,7 @@
         "Sielengeschirr mit Stirnjoch (Kamm-)"@de,
         "Stirnjoch (Kammsielengeschirr mit)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Zuggeschirr_-_Zaumzeug_(Ackerbauger�t_-_Feldbestellung)> ;
-    skos:editorialNote "S 116, T 61"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 116, T 61" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Kammsielengeschirr mit Stirnjoch"@de .
 
@@ -4515,7 +4515,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Pflug (Karren-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pfl�ge> ;
-    skos:editorialNote "H 156, T 62/1-2"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 156, T 62/1-2" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Karrenpflug"@de .
 
@@ -4525,7 +4525,7 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Pflugteile (Karren-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pfl�ge> ;
-    skos:editorialNote "H 152, T 61/1-3 &amp; DG 74/79 f"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 152, T 61/1-3 &amp; DG 74/79 f" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/Grindel_mit_Pflugsohle>,
         <http://www.museumsvokabular.de/museumvok/gefaess/Pflugbaum_(Karrenpflug)>,
@@ -4546,7 +4546,7 @@
     dc:identifier "Karst" ;
     dcq:created "1987-02-25" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Hacken> ;
-    skos:editorialNote "S 18, T 4a"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 18, T 4a" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Karst"@de .
 
@@ -4556,7 +4556,7 @@
     dcq:created "1987-02-18" ;
     skos:altLabel "Forke (Kartoffel-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Forken> ;
-    skos:editorialNote "S 69 f. T 33/11"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 69 f. T 33/11" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Kartoffelforke"@de .
 
@@ -4566,7 +4566,7 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Hacke (Kartoffel-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Hacken_-_Haken_(hakenf�rmige_Hacken)> ;
-    skos:editorialNote "H 172, T 71/12/14"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 172, T 71/12/14" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Kartoffelhacke"@de .
 
@@ -4576,7 +4576,7 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Hake (Kartoffel-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Hacken_-_Haken_(hakenf�rmige_Hacken)> ;
-    skos:editorialNote "H 172, T 71/12/14"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 172, T 71/12/14" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Kartoffelhake"@de .
 
@@ -4587,7 +4587,7 @@
     skos:altLabel "Brett (Kartoffelpflanz-)"@de,
         "Pflanzbrett (Kartoffel-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pflanzger�t> ;
-    skos:editorialNote "S 22/23, T 6"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 22/23, T 6" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Kartoffelpflanzbrett"@de .
 
@@ -4597,7 +4597,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Pflug (Kartoffel-, Normalform)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Kartoffelpfl�ge> ;
-    skos:editorialNote "S 32, T 12/10"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 32, T 12/10" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Kartoffelpflug (Normalform)"@de .
 
@@ -4637,7 +4637,7 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Pflüge (Kartoffel-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pfl�ge> ;
-    skos:editorialNote "H 164, T 67/1-3"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 164, T 67/1-3" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/Kartoffelpflug_(Normalform)>,
         <http://www.museumsvokabular.de/museumvok/gefaess/Kartoffelpflug_mit_Pflugkarren>,
@@ -4674,7 +4674,7 @@
     skos:altLabel "Flechtenwagen"@de,
         "Wagen (Kasten-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Wagen_(Landwirtschaft)> ;
-    skos:editorialNote "H 136, T 53/2"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 136, T 53/2" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Kastenwagen"@de .
 
@@ -4685,7 +4685,7 @@
     skos:altLabel "Feddernwagen"@de,
         "Wagen (Kasten-), gefedert"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Wagen_(Landwirtschaft)> ;
-    skos:editorialNote "H 142, T 56/1"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 142, T 56/1" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Kastenwagen, gefedert"@de .
 
@@ -4695,7 +4695,7 @@
     dcq:created "1987-11-25" ;
     skos:altLabel "Wagen (Kasten-), klein"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Wagen_(Landwirtschaft)> ;
-    skos:editorialNote "H 146, T 58/1-4"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 146, T 58/1-4" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Kastenwagen, klein"@de .
 
@@ -4705,7 +4705,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Kornsieb"@de,
         "Siewet (Kawwenn-)"@de ;
-    skos:editorialNote "S 82, T 40/2 &amp; H 194/2, T 82/3"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 82, T 40/2 &amp; H 194/2, T 82/3" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Kawwennsiewet"@de .
 
@@ -4715,7 +4715,7 @@
     dcq:created "1987-06-03" ;
     skos:altLabel "Kornwanne (Getreidereinigung)"@de,
         "Wann (Kawwern-)"@de ;
-    skos:editorialNote "H 194, T 82 &amp; S 83/84, T 41/1"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 194, T 82 &amp; S 83/84, T 41/1" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Kawwernwann"@de .
 
@@ -4773,7 +4773,7 @@
     skos:altLabel "Dampfpflug (Kipp-)"@de,
         "Pflug (Kippdampf-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pfl�ge> ;
-    skos:editorialNote "DG 104"^^rdf:XMLLiteral ;
+    skos:editorialNote "DG 104" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Kippdampfpflug"@de .
 
@@ -4788,7 +4788,7 @@
         "Storkkorrn mit Scherdeichsel und Schütt"@de,
         "Wippkorrn mit Scherdeichsel und Schütt"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Zweiradkarren> ;
-    skos:editorialNote "H 150, T 66/1-3"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 150, T 66/1-3" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Kippkarren mit Scherdeichsel und Schütt"@de .
 
@@ -4799,7 +4799,7 @@
     skos:altLabel "Kippkarren mit Scherdeichsel und Schütt"@de,
         "Scherdeichsel und Schütt (Kippkorrn mit)"@de,
         "Schütt (Kippkorrn mit Scherdeichsel und)"@de ;
-    skos:editorialNote "H 150, T 66/1-3"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 150, T 66/1-3" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Kippkorrn mit Scherdeichsel und Schütt"@de .
 
@@ -4882,7 +4882,7 @@
     dc:identifier "Kloppetuig" ;
     dcq:created "1987-03-18" ;
     skos:altLabel "Dengelgerät"@de ;
-    skos:editorialNote "H 180, T 75/1-3 &amp; H 346, T 158/5-7"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 180, T 75/1-3 &amp; H 346, T 158/5-7" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Kloppetuig"@de .
 
@@ -4892,7 +4892,7 @@
     dcq:created "1987-03-16" ;
     skos:altLabel "Kurzsense"@de,
         "Sense (Knie-)"@de ;
-    skos:editorialNote "H 178, T 74/9 &amp; S 58 f. T 26/8"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 178, T 74/9 &amp; S 58 f. T 26/8" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Kniesense"@de .
 
@@ -4911,7 +4911,7 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Joch (Kopf-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Joche_f�r_Zugtiere> ;
-    skos:editorialNote "S 112/113, T 58"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 112/113, T 58" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Kopfjoch"@de .
 
@@ -4965,7 +4965,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Harfe (Korn-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Getreidereinigung> ;
-    skos:editorialNote "H 194/4-5, T 82"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 194/4-5, T 82" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Kornharfe"@de .
 
@@ -5021,7 +5021,7 @@
     dcq:created "1987-08-26" ;
     skos:altLabel "Schaufel (Korn-, Getreidereinigung)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Getreidereinigung> ;
-    skos:editorialNote "S 80, T 39/4-7 &amp; H 188, T 79/5-6 &amp; S 80, T 39/8-9"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 80, T 39/4-7 &amp; H 188, T 79/5-6 &amp; S 80, T 39/8-9" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Kornschaufel (Getreidereinigung)"@de .
 
@@ -5031,7 +5031,7 @@
     dcq:created "1987-08-26" ;
     skos:altLabel "Schippe (Korn-, Getreidereinigung)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Getreidereinigung> ;
-    skos:editorialNote "S 80, T 39/12"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 80, T 39/12" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Kornschippe (Getreidereinigung)"@de .
 
@@ -5042,7 +5042,7 @@
     skos:altLabel "Kawwennsiewet"@de,
         "Sieb (Korn-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Getreidereinigung> ;
-    skos:editorialNote "S 82, T 40/3"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 82, T 40/3" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Kornsieb"@de .
 
@@ -5052,7 +5052,7 @@
     dcq:created "1987-08-26" ;
     skos:altLabel "Sieb (Korn-), geflochten"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Getreidereinigung> ;
-    skos:editorialNote "S 82, T 40/1"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 82, T 40/1" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Kornsieb, geflochten"@de .
 
@@ -5073,7 +5073,7 @@
         "Wann"@de,
         "Wanne (Korn-, Getreidereinigung)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Getreidereinigung> ;
-    skos:editorialNote "H 194, T 82 &amp; S 83/84, T 41/1"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 194, T 82 &amp; S 83/84, T 41/1" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Kornwanne (Getreidereinigung)"@de .
 
@@ -5092,7 +5092,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Hacke (Kreuz-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Hacken> ;
-    skos:editorialNote "H 172 T 71/1"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 172 T 71/1" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Kreuzhacke"@de .
 
@@ -5102,7 +5102,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Harke (Kränzel-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Harken> ;
-    skos:editorialNote "S 66, T 30"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 66, T 30" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Kränzelharke"@de .
 
@@ -5112,7 +5112,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Pflug (Krümel-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pfl�ge> ;
-    skos:editorialNote "H 166, T 68/10"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 166, T 68/10" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Krümelpflug"@de .
 
@@ -5123,7 +5123,7 @@
     skos:altLabel "Pflug (Krümelsohlen-)"@de,
         "Sohlenpflug (Krümel-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pfl�ge> ;
-    skos:editorialNote "S 32, T 12/11"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 32, T 12/11" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Krümelsohlenpflug"@de .
 
@@ -5133,7 +5133,7 @@
     dcq:created "1987-08-26" ;
     skos:altLabel "Gänsefuß (Krümmer mit)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pfl�ge> ;
-    skos:editorialNote "H 166, T 68/11"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 166, T 68/11" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Krümmer mit Gänsefuß"@de .
 
@@ -5144,7 +5144,7 @@
     skos:altLabel "Hirtenpeitsche (Kuh-)"@de,
         "Peitsche (Kuh-Hirten-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Anspannungszubeh�r_f�r_Zugtiere> ;
-    skos:editorialNote "S 126, T 67"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 126, T 67" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Kuh-Hirtenpeitsche"@de .
 
@@ -5154,7 +5154,7 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Geschirr (Kuh-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Zuggeschirr_-_Zaumzeug_(Ackerbauger�t_-_Feldbestellung)> ;
-    skos:editorialNote "S 118, T 62"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 118, T 62" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Kuhgeschirr"@de .
 
@@ -5164,7 +5164,7 @@
     dcq:created "1987-08-26" ;
     skos:altLabel "Horn (Kuh-, Wetzgerät)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Wetzger�t> ;
-    skos:editorialNote "S 56/57, T 25"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 56/57, T 25" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Kuhhorn (Wetzgerät)"@de .
 
@@ -5174,7 +5174,7 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Joch (Kuh-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Joche_f�r_Zugtiere> ;
-    skos:editorialNote "S 115, T 60"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 115, T 60" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Kuhjoch"@de .
 
@@ -5214,7 +5214,7 @@
     skos:altLabel "Geschirr (Kummet-)"@de,
         "Kumpgeschirr"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Zuggeschirr_-_Zaumzeug_(Ackerbauger�t_-_Feldbestellung)> ;
-    skos:editorialNote "H 134, T 52/5-6 &amp; S 118, T 62"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 134, T 52/5-6 &amp; S 118, T 62" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Kummetgeschirr"@de .
 
@@ -5224,7 +5224,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Geschirr (Kump-)"@de,
         "Kummetgeschirr"@de ;
-    skos:editorialNote "H 134, T 52/5-6"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 134, T 52/5-6" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Kumpgeschirr"@de .
 
@@ -5234,7 +5234,7 @@
     dcq:created "1987-08-26" ;
     skos:altLabel "Winde (Kurbel-, Ernteaufzug)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Ernteaufz�ge> ;
-    skos:editorialNote "H 186, T 78/8"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 186, T 78/8" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Kurbelwinde (Ernteaufzug)"@de .
 
@@ -5250,7 +5250,7 @@
         "Sichte mit Mahdhaken"@de,
         "Sichte ohne Mahdhaken"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Sicheln_-_Sichten> ;
-    skos:editorialNote "H 178, T 74/9 &amp; S 58 f. T 26/8"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 178, T 74/9 &amp; S 58 f. T 26/8" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Kurzsense"@de .
 
@@ -5278,7 +5278,7 @@
     dc:identifier "Köcher (Wetzgerät)" ;
     dcq:created "1987-08-26" ;
     skos:altLabel "Wetzsteinbehälter"@de ;
-    skos:editorialNote "S 56/57, T 25"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 56/57, T 25" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Köcher (Wetzgerät)"@de .
 
@@ -5297,7 +5297,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Planwagen"@de,
         "Wagen (Laken-)"@de ;
-    skos:editorialNote "H 142, T 56/3"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 142, T 56/3" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Lakenwagen"@de .
 
@@ -5336,7 +5336,7 @@
     dcq:created "1987-08-27" ;
     skos:altLabel "Aufzug (Last-, Ernteaufzüge)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Ernteaufz�ge> ;
-    skos:editorialNote "S 88, T 44/9"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 88, T 44/9" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Lastaufzug (Ernteaufzüge)"@de .
 
@@ -5347,7 +5347,7 @@
     skos:altLabel "Gestellkarren (Latten-)"@de,
         "Karren (Lattengestell-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Karren_(Landwirtschaft)> ;
-    skos:editorialNote "H 148, T 59/5"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 148, T 59/5" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Lattengestellkarren"@de .
 
@@ -5357,7 +5357,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Bockkarren"@de,
         "Korrn (Latten-)"@de ;
-    skos:editorialNote "H 148, T 59/2"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 148, T 59/2" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Lattenkorrn"@de .
 
@@ -5367,7 +5367,7 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Gabel (Laub-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Gabeln_(Ernteger�t)> ;
-    skos:editorialNote "S 69 f. T 33/12"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 69 f. T 33/12" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Laubgabel"@de .
 
@@ -5386,7 +5386,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Leiterwagen"@de,
         "Wagen (Ledder-)"@de ;
-    skos:editorialNote "H 136, T 53/1"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 136, T 53/1" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Ledderwagen"@de .
 
@@ -5415,7 +5415,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Hacke (Lehm-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Hacken> ;
-    skos:editorialNote "S 18/19, T 4a"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 18/19, T 4a" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Lehmhacke"@de .
 
@@ -5426,7 +5426,7 @@
     skos:altLabel "Ledderwagen"@de,
         "Wagen (Leiter-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Wagen_(Landwirtschaft)> ;
-    skos:editorialNote "H 136, T 53/1"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 136, T 53/1" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Leiterwagen"@de .
 
@@ -5436,7 +5436,7 @@
     dcq:created "1987-11-25" ;
     skos:altLabel "Wagen (Leiter-), klein"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Wagen_(Landwirtschaft)> ;
-    skos:editorialNote "H 146, T 58/1-4"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 146, T 58/1-4" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Leiterwagen, klein"@de .
 
@@ -5453,7 +5453,7 @@
     dc:identifier "Lichte (Saatpflug)" ;
     dcq:created "1987-08-27" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Saatpflugteile> ;
-    skos:editorialNote "S 26/37, T 15"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 26/37, T 15" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Lichte (Saatpflug)"@de .
 
@@ -5518,7 +5518,7 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Egge (Löffel-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Eggen_-_Eggeten> ;
-    skos:editorialNote "H 166 &amp; S 44/45, T 68/11 &amp; S 38/39/15a"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 166 &amp; S 44/45, T 68/11 &amp; S 38/39/15a" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Löffelegge"@de .
 
@@ -5528,7 +5528,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Schar (Löffel-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pfl�ge> ;
-    skos:editorialNote "H 166, T 68/11"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 166, T 68/11" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Löffelschar"@de .
 
@@ -5537,7 +5537,7 @@
     dc:identifier "Lünsen" ;
     dcq:created "1987-07-02" ;
     skos:altLabel "Eisenkappe, rund mit Splint (Wagenachse)"@de ;
-    skos:editorialNote "H 144, T 57 &amp; DG 125 &amp; H 140, T 54"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 144, T 57 &amp; DG 125 &amp; H 140, T 54" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Lünsen"@de .
 
@@ -5645,7 +5645,7 @@
     skos:altLabel "Pflug (Mehrschare-)"@de,
         "Scharepflug (Mehr-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pfl�ge> ;
-    skos:editorialNote "DG 74/79 f"^^rdf:XMLLiteral ;
+    skos:editorialNote "DG 74/79 f" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Mehrscharepflug"@de .
 
@@ -5686,7 +5686,7 @@
     skos:altLabel "Forke (Mist-Grabe-)"@de,
         "Grabeforke (Mist-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Forken> ;
-    skos:editorialNote "S 69 f. T 33/9/10 &amp; H 192, T 81/11"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 69 f. T 33/9/10 &amp; H 192, T 81/11" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Mist-Grabeforke"@de .
 
@@ -5696,7 +5696,7 @@
     dcq:created "1987-11-04" ;
     skos:altLabel "Forke (Mist-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Forken> ;
-    skos:editorialNote "S 69 f. T 33/7-10 &amp; H 192, T 81/11"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 69 f. T 33/7-10 &amp; H 192, T 81/11" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Mistforke"@de .
 
@@ -5706,7 +5706,7 @@
     dcq:created "1999-01-13" ;
     skos:altLabel "Gabel (Mist-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Gabeln_(Ernteger�t)> ;
-    skos:editorialNote "S 69 f. T 33/7-8"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 69 f. T 33/7-8" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Mistgabel"@de .
 
@@ -5716,7 +5716,7 @@
     dcq:created "1987-11-04" ;
     skos:altLabel "Gabel (Mist-, Düngegerät)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/D�nge-_und_Spritzger�t> ;
-    skos:editorialNote "H 192, T 81/11 &amp; S 52, T 33/10"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 192, T 81/11 &amp; S 52, T 33/10" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Mistgabel (Düngegerät)"@de .
 
@@ -5735,7 +5735,7 @@
     dcq:created "1999-01-13" ;
     skos:altLabel "Haken (Mist-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/D�nge-_und_Spritzger�t> ;
-    skos:editorialNote "S 52, T 22/1-3"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 52, T 22/1-3" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/Misthaken,_dreizinkig>,
         <http://www.museumsvokabular.de/museumvok/gefaess/Misthaken,_vierzinkig>,
@@ -5775,7 +5775,7 @@
     dcq:created "1987-11-25" ;
     skos:altLabel "Karren (Mist-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Karren_(Landwirtschaft)> ;
-    skos:editorialNote "H 148, T 59/4"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 148, T 59/4" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Mistkarren"@de .
 
@@ -5786,8 +5786,8 @@
     skos:altLabel "Brett (Mistpack-)"@de,
         "Packbrett (Mist-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/D�nge-_und_Spritzger�t> ;
-    skos:editorialNote "H 172, T 71/11"^^rdf:XMLLiteral,
-        "S 52, T 22/5"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 172, T 71/11",
+        "S 52, T 22/5" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Mistpackbrett"@de .
 
@@ -5797,7 +5797,7 @@
     dcq:created "1987-11-04" ;
     skos:altLabel "Schlitten (Mist-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/D�nge-_und_Spritzger�t> ;
-    skos:editorialNote "S 53, T 23/1-2"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 53, T 23/1-2" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Mistschlitten"@de .
 
@@ -5807,7 +5807,7 @@
     dcq:created "1987-11-04" ;
     skos:altLabel "Spaten (Mist-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/D�nge-_und_Spritzger�t> ;
-    skos:editorialNote "S 52, T 22/4"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 52, T 22/4" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Mistspaten"@de .
 
@@ -5817,7 +5817,7 @@
     dcq:created "1987-11-04" ;
     skos:altLabel "Trage (Mist-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/D�nge-_und_Spritzger�t> ;
-    skos:editorialNote "S 52, T 22/6"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 52, T 22/6" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Misttrage"@de .
 
@@ -6052,7 +6052,7 @@
     dcq:created "1987-06-03" ;
     skos:altLabel "Fessel (Pferde-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Anspannungszubeh�r_f�r_Zugtiere> ;
-    skos:editorialNote "S 128/129, T 68"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 128/129, T 68" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Pferdefessel"@de .
 
@@ -6062,7 +6062,7 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Hacke (Pferde-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Hacken_-_Haken_(hakenf�rmige_Hacken)> ;
-    skos:editorialNote "DG 169"^^rdf:XMLLiteral ;
+    skos:editorialNote "DG 169" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Pferdehacke"@de .
 
@@ -6084,7 +6084,7 @@
         "Karren mit Gabeldeichsel und abkippbaren Wagenkasten (Pferde-)"@de,
         "Wagenkasten (Pferdekarren mit Gabeldeichsel und abkippbaren)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Zweiradkarren> ;
-    skos:editorialNote "DG 184"^^rdf:XMLLiteral ;
+    skos:editorialNote "DG 184" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Pferdekarren mit Gabeldeichsel und abkippbaren Wagenkasten"@de .
 
@@ -6122,7 +6122,7 @@
     skos:altLabel "Lochstoßer (Pflanzen-)"@de,
         "Stoßer (Pflanzenloch-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pflanzger�t> ;
-    skos:editorialNote "S 20/21, T 5"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 20/21, T 5" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Pflanzenlochstoßer"@de .
 
@@ -6132,7 +6132,7 @@
     dcq:created "1987-11-04" ;
     skos:altLabel "Spritze (Pflanzen-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/D�nge-_und_Spritzger�t> ;
-    skos:editorialNote "DG 173"^^rdf:XMLLiteral ;
+    skos:editorialNote "DG 173" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Pflanzenspritze"@de .
 
@@ -6165,7 +6165,7 @@
     skos:altLabel "Holz (Pflanz-)"@de,
         "Plänter"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pflanzger�t> ;
-    skos:editorialNote "H 174, T 72/2"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 174, T 72/2" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Pflanzholz"@de .
 
@@ -6175,7 +6175,7 @@
     dcq:created "1987-06-03" ;
     skos:altLabel "Spaten (Pflanz-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Spaten:_Sachgruppe> ;
-    skos:editorialNote "H 170, T 70/13"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 170, T 70/13" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Pflanzspaten"@de .
 
@@ -6212,7 +6212,7 @@
     dcq:created "1987-08-27" ;
     skos:altLabel "Baum (Pflug-, Saatpflug)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Saatpflugteile> ;
-    skos:editorialNote "S 26/37, T 15"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 26/37, T 15" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Pflugbaum (Saatpflug)"@de .
 
@@ -6222,7 +6222,7 @@
     dcq:created "1987-08-27" ;
     skos:altLabel "Brücke (Pflug-, Saatpflug)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Saatpflugteile> ;
-    skos:editorialNote "S 26/37, T 15"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 26/37, T 15" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Pflugbrücke (Saatpflug)"@de .
 
@@ -6260,7 +6260,7 @@
     dc:identifier "Pflugkette (Saatpflug)" ;
     dcq:created "1987-06-04" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Saatpflugteile> ;
-    skos:editorialNote "S 26/37, T 15"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 26/37, T 15" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Pflugkette (Saatpflug)"@de .
 
@@ -6269,7 +6269,7 @@
     dc:identifier "Pflugmaul (Saatpflug)" ;
     dcq:created "1987-06-04" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Saatpflugteile> ;
-    skos:editorialNote "S 26/37, T 15"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 26/37, T 15" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Pflugmaul (Saatpflug)"@de .
 
@@ -6279,7 +6279,7 @@
     dcq:created "1987-08-27" ;
     skos:altLabel "Schar (Pflug-, Hunspflug mit Vorwagen)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Hunspflug_mit_Vorwagen> ;
-    skos:editorialNote "S 24, T 7/2"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 24, T 7/2" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Pflugschar (Hunspflug mit Vorwagen)"@de .
 
@@ -6309,7 +6309,7 @@
     dcq:created "1987-08-27" ;
     skos:altLabel "Stock (Pflug-, Saatpflug)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Saatpflugteile> ;
-    skos:editorialNote "S 26/37, T 15"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 26/37, T 15" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Pflugstock (Saatpflug)"@de .
 
@@ -6365,7 +6365,7 @@
     dc:identifier "Pick, zweizinkig" ;
     dcq:created "1987-08-27" ;
     skos:altLabel "Mahdhaken"@de ;
-    skos:editorialNote "S 58, T 26/9"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 58, T 26/9" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Pick, zweizinkig"@de .
 
@@ -6375,7 +6375,7 @@
     dcq:created "1987-08-27" ;
     skos:altLabel "Hook (Pick-), zweizinkig"@de,
         "Mahdhaken"@de ;
-    skos:editorialNote "S 58, T 26/9"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 58, T 26/9" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Pickhook, zweizinkig"@de .
 
@@ -6385,7 +6385,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Gaffel (Plaggen-)"@de,
         "Heidekrautgabel"@de ;
-    skos:editorialNote "H 192, T 81/5"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 192, T 81/5" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Plaggengaffel"@de .
 
@@ -6395,7 +6395,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Hacke (Plaggen-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Hacken> ;
-    skos:editorialNote "H 178, T 74/6-8"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 178, T 74/6-8" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Plaggenhacke"@de .
 
@@ -6405,7 +6405,7 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Sichel (Plaggen-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Sicheln_-_Sichten> ;
-    skos:editorialNote "S 58 f. T 26"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 58 f. T 26" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Plaggensichel"@de .
 
@@ -6416,7 +6416,7 @@
     skos:altLabel "Lakenwagen"@de,
         "Wagen (Plan-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Wagen_(Landwirtschaft)> ;
-    skos:editorialNote "H 142, T 56/3"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 142, T 56/3" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Planwagen"@de .
 
@@ -6472,7 +6472,7 @@
     dcq:created "1987-05-13" ;
     skos:altLabel "Hacke (Platt-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Hacken> ;
-    skos:editorialNote "H 172"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 172" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Platthacke"@de .
 
@@ -6531,7 +6531,7 @@
     dc:identifier "Plänter" ;
     dcq:created "1987-03-18" ;
     skos:altLabel "Pflanzholz"@de ;
-    skos:editorialNote "H 174, T 72/8"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 174, T 72/8" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Plänter"@de .
 
@@ -6541,7 +6541,7 @@
     dcq:created "1987-08-27" ;
     skos:altLabel "Eisenhaken mit zwei Zinken (Ernteaufzug)"@de,
         "Haken (Plöggen-, Ernteaufzug)"@de ;
-    skos:editorialNote "HT 78/6-7"^^rdf:XMLLiteral ;
+    skos:editorialNote "HT 78/6-7" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Plöggenhaken (Ernteaufzug)"@de .
 
@@ -6550,7 +6550,7 @@
     dc:identifier "Porter" ;
     dcq:created "1987-03-18" ;
     skos:altLabel "Gänsefuß"@de ;
-    skos:editorialNote "H 166 &amp; S 44/45, T 68/11 &amp; S 38/39/15a"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 166 &amp; S 44/45, T 68/11 &amp; S 38/39/15a" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Porter"@de .
 
@@ -6559,7 +6559,7 @@
     dc:identifier "Preckel" ;
     dcq:created "1987-03-18" ;
     skos:altLabel "Rübenforke"@de ;
-    skos:editorialNote "H 192, T 81/12-13"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 192, T 81/12-13" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Preckel"@de .
 
@@ -6578,7 +6578,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Hacke (Pull-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Hacken> ;
-    skos:editorialNote "H 172 T 71/2"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 172 T 71/2" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Pullhacke"@de .
 
@@ -6625,7 +6625,7 @@
     dc:identifier "Quicke" ;
     dcq:created "1987-03-18" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Hacken> ;
-    skos:editorialNote "H 178"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 178" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Quicke"@de .
 
@@ -6634,7 +6634,7 @@
     dc:identifier "Rad (Saatpflug)" ;
     dcq:created "1987-08-27" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Saatpflugteile> ;
-    skos:editorialNote "S 26/37, T 15"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 26/37, T 15" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Rad (Saatpflug)"@de .
 
@@ -6652,7 +6652,7 @@
     dc:identifier "Radkranz" ;
     dcq:created "1986-09-18" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Wagenradteile> ;
-    skos:editorialNote "H 144, T 57 &amp; DG 125 &amp; H 140, T 54"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 144, T 57 &amp; DG 125 &amp; H 140, T 54" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Radkranz"@de .
 
@@ -6669,7 +6669,7 @@
     dc:identifier "Raffel (Dreschgerät)" ;
     dcq:created "1987-08-27" ;
     skos:altLabel "Dreschbock"@de ;
-    skos:editorialNote "S 71 f., T 34/5"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 71 f., T 34/5" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Raffel (Dreschgerät)"@de .
 
@@ -6679,7 +6679,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Pflug (Rajol-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pfl�ge> ;
-    skos:editorialNote "S 27, T 8/5"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 27, T 8/5" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Rajolpflug"@de .
 
@@ -6689,7 +6689,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Forke (Raps-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Forken> ;
-    skos:editorialNote "S 102, T 51/5"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 102, T 51/5" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Rapsforke"@de .
 
@@ -6744,7 +6744,7 @@
     dc:creator "Spengler, W. Eckehart" ;
     dc:identifier "Rechen" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Harken> ;
-    skos:editorialNote "S 66, T 30"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 66, T 30" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Rechen"@de .
 
@@ -6754,7 +6754,7 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Egge (Rechteck-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Eggen_-_Eggeten> ;
-    skos:editorialNote "DG 64 f"^^rdf:XMLLiteral ;
+    skos:editorialNote "DG 64 f" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Rechteckegge"@de .
 
@@ -6772,7 +6772,7 @@
     dc:identifier "Reifen (Wagenrad)" ;
     dcq:created "1987-08-27" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Wagenradteile> ;
-    skos:editorialNote "H 144, T 57 &amp; DG 125 &amp; H 140, T 54"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 144, T 57 &amp; DG 125 &amp; H 140, T 54" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Reifen (Wagenrad)"@de .
 
@@ -6833,7 +6833,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Zieher (Reihen-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pflanzger�t> ;
-    skos:editorialNote "S 22/23, T 6"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 22/23, T 6" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Reihenzieher"@de .
 
@@ -6842,7 +6842,7 @@
     dc:identifier "Reinigungsmaschine (Getreidereinigung)" ;
     dcq:created "1987-08-27" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Getreidereinigung> ;
-    skos:editorialNote "DG"^^rdf:XMLLiteral ;
+    skos:editorialNote "DG" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Reinigungsmaschine (Getreidereinigung)"@de .
 
@@ -6875,7 +6875,7 @@
     dc:identifier "Riepe (Dreschgerät)" ;
     dcq:created "1987-08-27" ;
     skos:altLabel "Dreschbock"@de ;
-    skos:editorialNote "S 71 f., T 34/5"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 71 f., T 34/5" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Riepe (Dreschgerät)"@de .
 
@@ -6884,7 +6884,7 @@
     dc:identifier "Riffel (Dreschgerät)" ;
     dcq:created "1987-08-27" ;
     skos:altLabel "Dreschbock"@de ;
-    skos:editorialNote "S 71 f., T 34/5"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 71 f., T 34/5" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Riffel (Dreschgerät)"@de .
 
@@ -6894,7 +6894,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Zieher (Rillen-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pflanzger�t> ;
-    skos:editorialNote "H 174, T 72/6-7"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 174, T 72/6-7" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Rillenzieher"@de .
 
@@ -6920,7 +6920,7 @@
         "Kummet mit Mittelgeschirr (Rinder-)"@de,
         "Mittelgeschirr (Rinderkummet mit)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Zuggeschirr_-_Zaumzeug_(Ackerbauger�t_-_Feldbestellung)> ;
-    skos:editorialNote "S 118, T 62"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 118, T 62" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Rinderkummet mit Mittelgeschirr"@de .
 
@@ -6931,7 +6931,7 @@
     skos:altLabel "Geschirr (Rinderzug-)"@de,
         "Zuggeschirr (Rinder-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Zuggeschirr_-_Zaumzeug_(Ackerbauger�t_-_Feldbestellung)> ;
-    skos:editorialNote "H 134, T 52/7"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 134, T 52/7" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Rinderzuggeschirr"@de .
 
@@ -6941,7 +6941,7 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Walze (Ringel-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Walzen_(Bodenbearbeitungsger�t)> ;
-    skos:editorialNote "DG 100 f"^^rdf:XMLLiteral ;
+    skos:editorialNote "DG 100 f" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Ringelwalze"@de .
 
@@ -6951,7 +6951,7 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Gabel (Rode-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Gabeln_(Ernteger�t)> ;
-    skos:editorialNote "S 98 f. T 49/1"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 98 f. T 49/1" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Rodegabel"@de .
 
@@ -6961,7 +6961,7 @@
     dcq:created "1987-05-13" ;
     skos:altLabel "Hacke (Rode-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Hacken> ;
-    skos:editorialNote "S 16/17 T 4"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 16/17 T 4" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Rodehacke"@de .
 
@@ -6971,7 +6971,7 @@
     dcq:created "1987-06-03" ;
     skos:altLabel "Knüppel (Rode-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Spaten:_Sachgruppe> ;
-    skos:editorialNote "H 156, T 63/4"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 156, T 63/4" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Rodeknüppel"@de .
 
@@ -7029,7 +7029,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Hacke (Rott-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Hacken> ;
-    skos:editorialNote "H 172, T 71/3"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 172, T 71/3" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Rotthacke"@de .
 
@@ -7141,7 +7141,7 @@
     skos:altLabel "Forke (Rüben-)"@de,
         "Preckel"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Forken> ;
-    skos:editorialNote "H 192, T 81/12-13"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 192, T 81/12-13" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Rübenforke"@de .
 
@@ -7151,7 +7151,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Hacke (Rüben-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Hacken> ;
-    skos:editorialNote "S 16/17, T 4"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 16/17, T 4" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Rübenhacke"@de .
 
@@ -7161,7 +7161,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Pflanzer (Rüben-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pflanzger�t> ;
-    skos:editorialNote "H 174, T 72/5"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 174, T 72/5" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Rübenpflanzer"@de .
 
@@ -7172,7 +7172,7 @@
     skos:altLabel "Hacke (Rübkel-)"@de,
         "Kelhacke (Rüb-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Hacken> ;
-    skos:editorialNote "H 172"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 172" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Rübkelhacke"@de .
 
@@ -7211,7 +7211,7 @@
     skos:altLabel "Egge (Saat-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Eggen_-_Eggeten>,
         <http://www.museumsvokabular.de/museumvok/gefaess/S�ger�t> ;
-    skos:editorialNote "H 166 &amp; S 44/45, T 68/4-6"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 166 &amp; S 44/45, T 68/4-6" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Saategge"@de .
 
@@ -7232,7 +7232,7 @@
     skos:altLabel "Pflug mit Sterz (Saat-)"@de,
         "Sterz (Saatpflug mit)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pfl�ge> ;
-    skos:editorialNote "S 26, T 15"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 26, T 15" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Saatpflug mit Sterz"@de .
 
@@ -7266,7 +7266,7 @@
     dc:identifier "Sait" ;
     dcq:created "1987-03-18" ;
     skos:altLabel "Kurzsense"@de ;
-    skos:editorialNote "H 178, T 74/9 &amp; S 58 f. T 26/8"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 178, T 74/9 &amp; S 58 f. T 26/8" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Sait"@de .
 
@@ -7303,7 +7303,7 @@
     dc:identifier "Schar (Saatpflug)" ;
     dcq:created "1987-08-27" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Saatpflugteile> ;
-    skos:editorialNote "S 26/37, T 15"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 26/37, T 15" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Schar (Saatpflug)"@de .
 
@@ -7338,7 +7338,7 @@
     dcq:created "1987-02-25" ;
     skos:altLabel "Pflug (Schaufel-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pfl�ge> ;
-    skos:editorialNote "S 33, T 13"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 33, T 13" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Schaufelpflug"@de .
 
@@ -7367,8 +7367,8 @@
     dcq:created "1987-11-25" ;
     skos:altLabel "Karren (Schieb-, Erntegerät)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Schiebkarren_-_Schubkarren_(Landwirtschaft)> ;
-    skos:editorialNote "H 148, T 59/6-7"^^rdf:XMLLiteral,
-        "S 128 f., T 69"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 148, T 59/6-7",
+        "S 128 f., T 69" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Schiebkarren (Landwirtschaft)"@de .
 
@@ -7390,7 +7390,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Bockkarren"@de,
         "Korrn (Schier-)"@de ;
-    skos:editorialNote "H 148, T 59/2"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 148, T 59/2" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Schierkorrn"@de .
 
@@ -7531,7 +7531,7 @@
     dcq:created "1987-11-24" ;
     skos:altLabel "Harke (Schleif-)"@de,
         "Schleppharke"@de ;
-    skos:editorialNote "H 176, T 73/5"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 176, T 73/5" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Schleifharke"@de .
 
@@ -7542,7 +7542,7 @@
     skos:altLabel "Harke (Schlepp-)"@de,
         "Schleifharke"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Harken> ;
-    skos:editorialNote "S 66, T 30"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 66, T 30" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Schleppharke"@de .
 
@@ -7634,7 +7634,7 @@
     dc:identifier "Schliepsteen (Wetzgerät)" ;
     dcq:created "1987-06-04" ;
     skos:altLabel "Drehschleifstein (Wetzgerät)"@de ;
-    skos:editorialNote "H 346, T 158/1"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 346, T 158/1" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Schliepsteen (Wetzgerät)"@de .
 
@@ -7666,7 +7666,7 @@
     dc:identifier "Schlockpott, Holzgebinde mit Weidenreifen (Wetzgerät)" ;
     dcq:created "1987-06-03" ;
     skos:altLabel "Wetzsteinbehälter"@de ;
-    skos:editorialNote "S 56/57, T 25"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 56/57, T 25" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Schlockpott, Holzgebinde mit Weidenreifen (Wetzgerät)"@de .
 
@@ -7675,7 +7675,7 @@
     dc:identifier "Schlockpott (Wetzgerät)" ;
     dcq:created "1987-06-04" ;
     skos:altLabel "Wetzsteinbehälter"@de ;
-    skos:editorialNote "S 56/57, T 25"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 56/57, T 25" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Schlockpott (Wetzgerät)"@de .
 
@@ -7684,7 +7684,7 @@
     dc:identifier "Schlucker (Wetzgerät)" ;
     dcq:created "1987-08-27" ;
     skos:altLabel "Wetzsteinbehälter"@de ;
-    skos:editorialNote "S 56/57, T 25"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 56/57, T 25" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Schlucker (Wetzgerät)"@de .
 
@@ -7693,7 +7693,7 @@
     dc:identifier "Schluckpott (Wetzgerät)" ;
     dcq:created "1987-06-04" ;
     skos:altLabel "Wetzsteinbehälter"@de ;
-    skos:editorialNote "S 56, T 25/8"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 56, T 25/8" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Schluckpott (Wetzgerät)"@de .
 
@@ -7702,7 +7702,7 @@
     dc:identifier "Schluderpott (Wetzgerät)" ;
     dcq:created "1987-06-04" ;
     skos:altLabel "Wetzsteinbehälter"@de ;
-    skos:editorialNote "S 56/57, T 25"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 56/57, T 25" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Schluderpott (Wetzgerät)"@de .
 
@@ -7731,7 +7731,7 @@
     skos:altLabel "Schmierpot"@de,
         "Topf (Schmier-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Wagenzubeh�r> ;
-    skos:editorialNote "H 144, T 57,9"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 144, T 57,9" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Schmiertopf"@de .
 
@@ -7915,7 +7915,7 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Brecher (Schollen-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Walzen_(Bodenbearbeitungsger�t)> ;
-    skos:editorialNote "DG 100 f"^^rdf:XMLLiteral ;
+    skos:editorialNote "DG 100 f" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Schollenbrecher"@de .
 
@@ -7926,7 +7926,7 @@
     skos:altLabel "Gabel (Schollen-)"@de,
         "Schüllegaffel"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Gabeln_(Ernteger�t)> ;
-    skos:editorialNote "H 192, T 81/1-2"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 192, T 81/1-2" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Schollengabel"@de .
 
@@ -7947,7 +7947,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Hacke (Schollen-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Hacken> ;
-    skos:editorialNote "H 178, T 74/6-8"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 178, T 74/6-8" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Schollenhacke"@de .
 
@@ -7986,7 +7986,7 @@
     skos:altLabel "Bremse (Schrauben-)"@de,
         "Schriuftuig"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Wagenteile:_Heu-_bzw._Ernte-Wagenteile> ;
-    skos:editorialNote "H 144, T 57/7"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 144, T 57/7" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Schraubenbremse"@de .
 
@@ -8097,8 +8097,8 @@
     dcq:created "1987-11-25" ;
     skos:altLabel "Karren (Schub-, Erntegerät)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Schiebkarren_-_Schubkarren_(Landwirtschaft)> ;
-    skos:editorialNote "H 148, T 59/6-7"^^rdf:XMLLiteral,
-        "S 128 f., T 69"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 148, T 59/6-7",
+        "S 128 f., T 69" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Schubkarren (Landwirtschaft)"@de .
 
@@ -8117,7 +8117,7 @@
     dcq:created "1987-08-27" ;
     skos:altLabel "Gestellsense mit Reff"@de,
         "Reff (Schwaen mit)"@de ;
-    skos:editorialNote "H 180, T 75/8-9 &amp; S 62, T 28/1"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 180, T 75/8-9 &amp; S 62, T 28/1" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Schwaen mit Reff"@de .
 
@@ -8163,7 +8163,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Gaffel (Schülle-)"@de,
         "Schollengabel"@de ;
-    skos:editorialNote "H 192, T 81/1-2 &amp; S 69 f., T 33/17"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 192, T 81/1-2 &amp; S 69 f., T 33/17" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Schüllegaffel"@de .
 
@@ -8190,7 +8190,7 @@
     dc:identifier "Sech (Saatpflug)" ;
     dcq:created "1987-08-27" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Saatpflugteile> ;
-    skos:editorialNote "S 26/37, T 15"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 26/37, T 15" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Sech (Saatpflug)"@de .
 
@@ -8199,7 +8199,7 @@
     dc:identifier "Sech (Sichel)" ;
     dcq:created "1987-08-27" ;
     skos:altLabel "Sichel"@de ;
-    skos:editorialNote "H 178 T 74/1-5 &amp; S 58, T 26/1"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 178 T 74/1-5 &amp; S 58, T 26/1" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Sech (Sichel)"@de .
 
@@ -8209,7 +8209,7 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Walze (Sechskant-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Walzen_(Bodenbearbeitungsger�t)> ;
-    skos:editorialNote "S 50, T 21/7"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 50, T 21/7" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Sechskantwalze"@de .
 
@@ -8218,7 +8218,7 @@
     dc:identifier "Seckel" ;
     dcq:created "1987-03-18" ;
     skos:altLabel "Sichel"@de ;
-    skos:editorialNote "H 178 T 74/1-5 &amp; S 58, T 26/1"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 178 T 74/1-5 &amp; S 58, T 26/1" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Seckel"@de .
 
@@ -8300,7 +8300,7 @@
     dc:identifier "Sensen" ;
     dcq:created "1987-06-05" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Schneidende_Ernteger�te> ;
-    skos:editorialNote "H 180, T 75"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 180, T 75" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/Dornensense>,
         <http://www.museumsvokabular.de/museumvok/gefaess/Getreidesense>,
@@ -8322,8 +8322,8 @@
         "Reff oder Draht- bzw. Weidenbügel (Sensen mit)"@de,
         "Weidenbügel (Sensen mit Reff oder Draht- bzw.)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Sensen> ;
-    skos:editorialNote "H 180, T75/8-9"^^rdf:XMLLiteral,
-        "S 62, T 28"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 180, T75/8-9",
+        "S 62, T 28" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/Gestellsense> ;
     skos:prefLabel "Sensen mit Reff oder Draht- bzw. Weidenbügel"@de .
@@ -8347,7 +8347,7 @@
     dcq:created "1987-08-27" ;
     skos:altLabel "Griff (Sensenbaum mit)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Sensenbaum> ;
-    skos:editorialNote "S 63, T 29"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 63, T 29" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Sensenbaum mit Griff"@de .
 
@@ -8356,7 +8356,7 @@
     dc:identifier "Sensenbaum mit zwei Griffen" ;
     dcq:created "1987-08-27" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Sensenbaum> ;
-    skos:editorialNote "S 63, T 29"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 63, T 29" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Sensenbaum mit zwei Griffen"@de .
 
@@ -8365,7 +8365,7 @@
     dc:identifier "Sensenbaum ohne Griff" ;
     dcq:created "1987-08-27" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Sensenbaum> ;
-    skos:editorialNote "S 63, T 29"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 63, T 29" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Sensenbaum ohne Griff"@de .
 
@@ -8375,7 +8375,7 @@
     dcq:created "1987-03-16" ;
     skos:altLabel "Seussenblatt"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Sensenteile> ;
-    skos:editorialNote "H 180, T 75/5-7 &amp; S 58 f. T 26-29"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 180, T 75/5-7 &amp; S 58 f. T 26-29" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Sensenblatt"@de .
 
@@ -8386,7 +8386,7 @@
     skos:altLabel "Hammer (Sensen-)"@de,
         "Seusenhammer"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Dengelger�t> ;
-    skos:editorialNote "H 180, T 95/3 &amp; H 346, T 158/5-8 &amp; HT 75/2-4 &amp; S 54/55, T 24"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 180, T 95/3 &amp; H 346, T 158/5-8 &amp; HT 75/2-4 &amp; S 54/55, T 24" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Sensenhammer"@de .
 
@@ -8397,7 +8397,7 @@
     skos:altLabel "Imbusschlüssel (Sensenring mit)"@de,
         "Ring mit Imbusschlüssel (Sensen-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Sensenteile> ;
-    skos:editorialNote "S 60, T 27 14"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 60, T 27 14" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Sensenring mit Imbusschlüssel"@de .
 
@@ -8422,7 +8422,7 @@
         "Streiken"@de,
         "Striek"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Dengelger�t> ;
-    skos:editorialNote "H 180, T 75/1"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 180, T 75/1" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Sensenstreichholz"@de .
 
@@ -8484,7 +8484,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Stock (Setz-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pflanzger�t> ;
-    skos:editorialNote "S 29/21, T 5"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 29/21, T 5" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Setzstock"@de .
 
@@ -8494,7 +8494,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Hammer (Seusen-)"@de,
         "Sensenhammer"@de ;
-    skos:editorialNote "H 180, T 95/3 &amp; H 346, T 158/5-8 &amp; HT 75/2-4"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 180, T 95/3 &amp; H 346, T 158/5-8 &amp; HT 75/2-4" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Seusenhammer"@de .
 
@@ -8531,7 +8531,7 @@
     skos:altLabel "Sech (Sichel)"@de,
         "Seckel"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Sicheln_-_Sichten> ;
-    skos:editorialNote "H 178 T 74/1-5 &amp; S 58, T 26/1"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 178 T 74/1-5 &amp; S 58, T 26/1" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Sichel"@de .
 
@@ -8540,7 +8540,7 @@
     dc:identifier "Sichel, gezähnt" ;
     dcq:created "1987-08-27" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Sicheln_-_Sichten> ;
-    skos:editorialNote "S 58, T 26/3"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 58, T 26/3" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Sichel, gezähnt"@de .
 
@@ -8585,7 +8585,7 @@
     dc:identifier "Sichte" ;
     dcq:created "1987-03-16" ;
     skos:altLabel "Kurzsense"@de ;
-    skos:editorialNote "H 178, T 74/9 &amp; S 58 f. T 26/8"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 178, T 74/9 &amp; S 58 f. T 26/8" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Sichte"@de .
 
@@ -8595,7 +8595,7 @@
     dcq:created "1987-08-27" ;
     skos:altLabel "Kurzsense"@de,
         "Mahdhaken (Sichte mit)"@de ;
-    skos:editorialNote "H 178, T 74/9 &amp; S 58 f. T 26/8"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 178, T 74/9 &amp; S 58 f. T 26/8" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Sichte mit Mahdhaken"@de .
 
@@ -8605,7 +8605,7 @@
     dcq:created "1987-08-27" ;
     skos:altLabel "Kurzsense"@de,
         "Mahdhaken (Sichte ohne)"@de ;
-    skos:editorialNote "H 178, T 74/9 &amp; S 58 f. T 26/8"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 178, T 74/9 &amp; S 58 f. T 26/8" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Sichte ohne Mahdhaken"@de .
 
@@ -8615,7 +8615,7 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Geschirr (Sielen-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Zuggeschirr_-_Zaumzeug_(Ackerbauger�t_-_Feldbestellung)> ;
-    skos:editorialNote "H 143/8 &amp; S 120/121, T 63"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 143/8 &amp; S 120/121, T 63" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Sielengeschirr"@de .
 
@@ -8626,7 +8626,7 @@
     skos:altLabel "Geschirr (Sisalzug-)"@de,
         "Zuggeschirr (Sisal-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Zuggeschirr_-_Zaumzeug_(Ackerbauger�t_-_Feldbestellung)> ;
-    skos:editorialNote "S 120/121, T 62"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 120/121, T 62" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Sisalzuggeschirr"@de .
 
@@ -8636,7 +8636,7 @@
     dcq:created "1987-08-27" ;
     skos:altLabel "Faß (Sluder-, Wetzgerät)"@de,
         "Wetzsteinbehälter"@de ;
-    skos:editorialNote "S 56/57, T 25"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 56/57, T 25" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Sluderfaß (Wetzgerät)"@de .
 
@@ -8698,7 +8698,7 @@
     dc:identifier "Spaten: Holz-, Stahl-, Eisenspaten" ;
     dcq:created "1987-08-27" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Spaten:_Sachgruppe> ;
-    skos:editorialNote "S 12/13 T 2"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 12/13 T 2" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Spaten: Holz-, Stahl-, Eisenspaten"@de .
 
@@ -8735,7 +8735,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Gabel (Spaten-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Schaufeln> ;
-    skos:editorialNote "S 14/15 T3"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 14/15 T3" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Spatengabel"@de .
 
@@ -8754,7 +8754,7 @@
     dcq:created "1987-08-27" ;
     skos:altLabel "Handgriff (Spatenstiel ohne)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Spatenteile> ;
-    skos:editorialNote "H 170, 70/6-8"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 170, 70/6-8" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Spatenstiel ohne Handgriff"@de .
 
@@ -8763,7 +8763,7 @@
     dc:identifier "Spatenteile" ;
     dcq:created "1987-06-04" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Spaten:_Sachgruppe> ;
-    skos:editorialNote "H 170, T 70/13"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 170, T 70/13" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/Spatenblatt>,
         <http://www.museumsvokabular.de/museumvok/gefaess/Spatenstiel_mit_Handgriff>,
@@ -8776,7 +8776,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Drescher (Spitz-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Dreschmaschinen> ;
-    skos:editorialNote "S 71 f., T 36/37 &amp; DG ???"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 71 f., T 36/37 &amp; DG ???" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Spitzdrescher"@de .
 
@@ -8795,7 +8795,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Pflug (Spitz-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pfl�ge> ;
-    skos:editorialNote "S 28/29, T 10/7"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 28/29, T 10/7" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Spitzpflug"@de .
 
@@ -8832,7 +8832,7 @@
     dcq:created "1987-11-04" ;
     skos:altLabel "Karre (Spritz-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/D�nge-_und_Spritzger�t> ;
-    skos:editorialNote "DG 173"^^rdf:XMLLiteral ;
+    skos:editorialNote "DG 173" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Spritzkarre"@de .
 
@@ -8842,7 +8842,7 @@
     dcq:created "1987-11-04" ;
     skos:altLabel "Wagen (Spritz-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/D�nge-_und_Spritzger�t> ;
-    skos:editorialNote "DG 173"^^rdf:XMLLiteral ;
+    skos:editorialNote "DG 173" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Spritzwagen"@de .
 
@@ -8898,7 +8898,7 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Walze (Stab-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Walzen_(Bodenbearbeitungsger�t)> ;
-    skos:editorialNote "DG 100 f"^^rdf:XMLLiteral ;
+    skos:editorialNote "DG 100 f" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Stabwalze"@de .
 
@@ -8908,7 +8908,7 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Walze (Stachel-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Walzen_(Bodenbearbeitungsger�t)> ;
-    skos:editorialNote "DG 100 f"^^rdf:XMLLiteral ;
+    skos:editorialNote "DG 100 f" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Stachelwalze"@de .
 
@@ -8926,7 +8926,7 @@
     dcq:created "1987-06-03" ;
     skos:altLabel "Spaten (Steck-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Spaten:_Sachgruppe> ;
-    skos:editorialNote "H 170, T 70"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 170, T 70" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Steckspaten"@de .
 
@@ -8937,7 +8937,7 @@
     skos:altLabel "Karren (Stein-)"@de,
         "Steunekorrn"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Karren_(Landwirtschaft)> ;
-    skos:editorialNote "H 148, T 59/5"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 148, T 59/5" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Steinkarren"@de .
 
@@ -8947,7 +8947,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Schaufel (Stein-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Schaufeln> ;
-    skos:editorialNote "S 14/15 T3"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 14/15 T3" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Steinschaufel"@de .
 
@@ -9120,7 +9120,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Korrn (Steune-)"@de,
         "Steinkarren"@de ;
-    skos:editorialNote "H 148, T 59/5"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 148, T 59/5" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Steunekorrn"@de .
 
@@ -9182,7 +9182,7 @@
     dc:identifier "Storkkorrn mit Scherdeichsel und Schütt" ;
     dcq:created "1987-06-04" ;
     skos:altLabel "Kippkarren mit Scherdeichsel und Schütt"@de ;
-    skos:editorialNote "H 150, T 66/1-3"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 150, T 66/1-3" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Storkkorrn mit Scherdeichsel und Schütt"@de .
 
@@ -9210,7 +9210,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Ring (Stoß-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Wagenachsenteile> ;
-    skos:editorialNote "H 144, T 57 &amp; DG 125 &amp; H 140, T 54"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 144, T 57 &amp; DG 125 &amp; H 140, T 54" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Stoßring"@de .
 
@@ -9220,7 +9220,7 @@
     dcq:created "1987-08-27" ;
     skos:altLabel "Besen (Strauch-, Getreidereinigung)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Getreidereinigung> ;
-    skos:editorialNote "S 80, T 39/3"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 80, T 39/3" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Strauchbesen (Getreidereinigung)"@de .
 
@@ -9229,7 +9229,7 @@
     dc:identifier "Streck" ;
     dcq:created "1987-03-18" ;
     skos:altLabel "Sensenstreichholz"@de ;
-    skos:editorialNote "H 180, T 75/1"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 180, T 75/1" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Streck"@de .
 
@@ -9255,7 +9255,7 @@
     dcq:created "1987-08-27" ;
     skos:altLabel "Blech (Streich-, Saatpflug)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Saatpflugteile> ;
-    skos:editorialNote "S 26/37, T 15"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 26/37, T 15" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Streichblech (Saatpflug)"@de .
 
@@ -9265,7 +9265,7 @@
     dcq:created "1987-08-27" ;
     skos:altLabel "Brett (Streich-, Hunspflug mit Vorwagen)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Hunspflug_mit_Vorwagen> ;
-    skos:editorialNote "S 24, T 7/2"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 24, T 7/2" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Streichbrett (Hunspflug mit Vorwagen)"@de .
 
@@ -9282,7 +9282,7 @@
     dc:identifier "Streichbrett (Saatpflug)" ;
     dcq:created "1987-08-27" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Saatpflugteile> ;
-    skos:editorialNote "S 26/37, T 15"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 26/37, T 15" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Streichbrett (Saatpflug)"@de .
 
@@ -9292,7 +9292,7 @@
     dcq:created "1987-08-27" ;
     skos:altLabel "Striek (Wetzgerät)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Wetzger�t> ;
-    skos:editorialNote "S 56/57, T 25"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 56/57, T 25" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Streichbrett (Wetzgerät)"@de .
 
@@ -9330,7 +9330,7 @@
     dcq:created "1987-02-25" ;
     skos:altLabel "Pflug (Streich-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pfl�ge> ;
-    skos:editorialNote "H 158, T 63/1-3"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 158, T 63/1-3" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Streichpflug"@de .
 
@@ -9358,7 +9358,7 @@
     dc:identifier "Streiken" ;
     dcq:created "1987-03-18" ;
     skos:altLabel "Sensenstreichholz"@de ;
-    skos:editorialNote "H 180, T 75/1"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 180, T 75/1" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Streiken"@de .
 
@@ -9367,7 +9367,7 @@
     dc:identifier "Striek" ;
     dcq:created "1987-03-18" ;
     skos:altLabel "Sensenstreichholz"@de ;
-    skos:editorialNote "S 56, T 25/11 &amp; S 56, T 26/1-5"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 56, T 25/11 &amp; S 56, T 26/1-5" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Striek"@de .
 
@@ -9376,7 +9376,7 @@
     dc:identifier "Striek (Wetzgerät)" ;
     dcq:created "1987-08-27" ;
     skos:altLabel "Streichbrett (Wetzgerät)"@de ;
-    skos:editorialNote "S 56/57, T 25"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 56/57, T 25" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Striek (Wetzgerät)"@de .
 
@@ -9386,7 +9386,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Hook (Striek-)"@de,
         "Wellerhaken"@de ;
-    skos:editorialNote "S 58, T 26/1-5"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 58, T 26/1-5" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Striekhook"@de .
 
@@ -9397,7 +9397,7 @@
     skos:altLabel "Forke (Stroh-)"@de,
         "Greipon"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Forken> ;
-    skos:editorialNote "S 102, T 51/5"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 102, T 51/5" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Strohforke"@de .
 
@@ -9416,7 +9416,7 @@
     dcq:created "1987-08-27" ;
     skos:altLabel "Gabel (Stroh-), Holz mit gekrümmten eingezapften Zinken"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Gabeln_(Ernteger�t)> ;
-    skos:editorialNote "H 192, T 81/3,4,6"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 192, T 81/3,4,6" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Strohgabel, Holz mit gekrümmten eingezapften Zinken"@de .
 
@@ -9453,7 +9453,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Schüttler (Stroh-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Getreidereinigung> ;
-    skos:editorialNote "DG"^^rdf:XMLLiteral ;
+    skos:editorialNote "DG" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Strohschüttler"@de .
 
@@ -9463,7 +9463,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Karren (Sturz-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Zweiradkarren> ;
-    skos:editorialNote "S 128, T 69"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 128, T 69" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Sturzkarren"@de .
 
@@ -9474,7 +9474,7 @@
     skos:altLabel "Karren mit Tonne (Sturz-)"@de,
         "Tonne (Sturzkarren mit)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Wagen_(Landwirtschaft)> ;
-    skos:editorialNote "H 168"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 168" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Sturzkarren mit Tonne"@de .
 
@@ -9510,7 +9510,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Laken (Säe-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/S�ger�t> ;
-    skos:editorialNote "H 174/9 &amp; S 40, T 16/2"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 174/9 &amp; S 40, T 16/2" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Säelaken"@de .
 
@@ -9529,7 +9529,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Molle (Säe-)"@de,
         "Säewanne"@de ;
-    skos:editorialNote "H 174, T 16/4-5"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 174, T 16/4-5" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Säemolle"@de .
 
@@ -9539,7 +9539,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Sack (Säe-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/S�ger�t> ;
-    skos:editorialNote "S 40, T 16/1"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 40, T 16/1" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Säesack"@de .
 
@@ -9549,7 +9549,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Schürze (Säe-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/S�ger�t> ;
-    skos:editorialNote "H 174/10"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 174/10" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Säeschürze"@de .
 
@@ -9559,7 +9559,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Tuch (Säe-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/S�ger�t> ;
-    skos:editorialNote "H 174/9 &amp; S 40, T 16/2"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 174/9 &amp; S 40, T 16/2" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Säetuch"@de .
 
@@ -9571,7 +9571,7 @@
         "Säggemolle"@de,
         "Wanne (Säe-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/S�ger�t> ;
-    skos:editorialNote "S 40, T 16/4-5"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 40, T 16/4-5" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Säewanne"@de .
 
@@ -9636,7 +9636,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Molle (Sägge-)"@de,
         "Säewanne"@de ;
-    skos:editorialNote "H 174, T 16/4-5"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 174, T 16/4-5" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Säggemolle"@de .
 
@@ -9646,7 +9646,7 @@
     dcq:created "1999-01-13" ;
     skos:altLabel "Korb (Sä-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/S�ger�t> ;
-    skos:editorialNote "S 40, T 16/3"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 40, T 16/3" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Säkorb"@de .
 
@@ -9656,7 +9656,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Sack (Sä-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/S�ger�t> ;
-    skos:editorialNote "S 40, T 16/1"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 40, T 16/1" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Säsack"@de .
 
@@ -9676,7 +9676,7 @@
     skos:altLabel "Egge (Tellerscheiben-)"@de,
         "Scheibenegge (Teller-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Eggen_-_Eggeten> ;
-    skos:editorialNote "DG 64 f"^^rdf:XMLLiteral ;
+    skos:editorialNote "DG 64 f" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Tellerscheibenegge"@de .
 
@@ -9687,7 +9687,7 @@
     skos:altLabel "Diuwharke"@de,
         "Hacke (Tief-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Harken> ;
-    skos:editorialNote "H 176, T 73/1 &amp; H 180/10"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 176, T 73/1 &amp; H 180/10" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Tiefhacke"@de .
 
@@ -9731,7 +9731,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Schaufel (Ton-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Schaufeln> ;
-    skos:editorialNote "S 14/15 T3"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 14/15 T3" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Tonschaufel"@de .
 
@@ -9742,7 +9742,7 @@
     skos:altLabel "Karren (Torf-)"@de,
         "Torfkorrn"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Karren_(Landwirtschaft)> ;
-    skos:editorialNote "H 148, T 59/1"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 148, T 59/1" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Torfkarren"@de .
 
@@ -9752,7 +9752,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Korrn (Torf-)"@de,
         "Torfkarren"@de ;
-    skos:editorialNote "H 148, T 59/1"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 148, T 59/1" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Torfkorrn"@de .
 
@@ -9762,7 +9762,7 @@
     dcq:created "1987-06-03" ;
     skos:altLabel "Spaten (Torf-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Spaten:_Sachgruppe> ;
-    skos:editorialNote "H 170, T 70/9-10"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 170, T 70/9-10" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Torfspaten"@de .
 
@@ -9772,7 +9772,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Ring (Trag-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Wagenachsenteile> ;
-    skos:editorialNote "H 144, T 57 &amp; DG 125 &amp; H 140, T 54"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 144, T 57 &amp; DG 125 &amp; H 140, T 54" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Tragring"@de .
 
@@ -9832,7 +9832,7 @@
     dc:identifier "Täschchen (Wetzgerät)" ;
     dcq:created "1987-08-27" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Wetzger�t> ;
-    skos:editorialNote "S 56/57, T 25"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 56/57, T 25" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Täschchen (Wetzgerät)"@de .
 
@@ -9872,7 +9872,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Wendepflug"@de,
         "Wender (Umme-)"@de ;
-    skos:editorialNote "S, T 14"^^rdf:XMLLiteral ;
+    skos:editorialNote "S, T 14" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Ummewender"@de .
 
@@ -9882,7 +9882,7 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Sichel (Unkraut-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Sicheln_-_Sichten> ;
-    skos:editorialNote "S 58 f. T 26/4-5"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 58 f. T 26/4-5" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Unkrautsichel"@de .
 
@@ -9892,7 +9892,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Pflug (Untergrund-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pfl�ge> ;
-    skos:editorialNote "S 28/29, T 10/8"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 28/29, T 10/8" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Untergrundpflug"@de .
 
@@ -9902,7 +9902,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Aufsteckgabel"@de,
         "Forke (Upsteke-)"@de ;
-    skos:editorialNote "H 192, T 81/9"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 192, T 81/9" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Upstekeforke"@de .
 
@@ -9953,7 +9953,7 @@
     dcq:created "1987-11-25" ;
     skos:altLabel "Wagen (Vieh-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Wagen_(Landwirtschaft)> ;
-    skos:editorialNote "H 142"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 142" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Viehwagen"@de .
 
@@ -9971,7 +9971,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Wagen (Vorder-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Wagengestell> ;
-    skos:editorialNote "H 144, T 57 &amp; DG 125 &amp; H 140, T 54"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 144, T 57 &amp; DG 125 &amp; H 140, T 54" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Vorderwagen"@de .
 
@@ -9981,7 +9981,7 @@
     dcq:created "1987-08-27" ;
     skos:altLabel "Pflug (Vor-, Saatpflug)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Saatpflugteile> ;
-    skos:editorialNote "S 26/37, T 15"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 26/37, T 15" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Vorpflug (Saatpflug)"@de .
 
@@ -10012,7 +10012,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Starker (Vor-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Wagenachsenteile> ;
-    skos:editorialNote "H 144, T 57 &amp; DG 125 &amp; H 140, T 54"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 144, T 57 &amp; DG 125 &amp; H 140, T 54" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Vorstarker"@de .
 
@@ -10050,7 +10050,7 @@
     dcq:created "1987-07-02" ;
     skos:altLabel "Achse (Wagen-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Wagenteile:_Heu-_bzw._Ernte-Wagenteile> ;
-    skos:editorialNote "H 144, T 57 &amp; DG 125 &amp; H 140, T 54"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 144, T 57 &amp; DG 125 &amp; H 140, T 54" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/Wagenachsenteile> ;
     skos:prefLabel "Wagenachse"@de .
@@ -10118,10 +10118,10 @@
     dcq:created "1999-01-13" ;
     skos:altLabel "Teile (Wagen-): Heu- bzw. Ernte-Wagenteile"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Fuhrwerke_(Landwirtschaft)> ;
-    skos:editorialNote "DG 125"^^rdf:XMLLiteral,
-        "H 140, T 54"^^rdf:XMLLiteral,
-        "H 144, T 57/7"^^rdf:XMLLiteral,
-        "H144, T 57"^^rdf:XMLLiteral ;
+    skos:editorialNote "DG 125",
+        "H 140, T 54",
+        "H 144, T 57/7",
+        "H144, T 57" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/Deichsel>,
         <http://www.museumsvokabular.de/museumvok/gefaess/Langbaum>,
@@ -10187,7 +10187,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Hacke (Wald-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Hacken> ;
-    skos:editorialNote "S 16/17, T 4"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 16/17, T 4" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Waldhacke"@de .
 
@@ -10241,7 +10241,7 @@
     dc:identifier "Wann" ;
     dcq:created "1987-06-03" ;
     skos:altLabel "Kornwanne (Getreidereinigung)"@de ;
-    skos:editorialNote "H 194, T 82 &amp; S 83/84, T 41/1"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 194, T 82 &amp; S 83/84, T 41/1" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Wann"@de .
 
@@ -10251,7 +10251,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Mühle (Weh-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Getreidereinigung> ;
-    skos:editorialNote "H 196, T 83 &amp; S 84, T 41/2,3"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 196, T 83 &amp; S 84, T 41/2,3" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Wehmühle"@de .
 
@@ -10270,7 +10270,7 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Sichel (Weiden-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Sicheln_-_Sichten> ;
-    skos:editorialNote "S 58 f. T 26/4-5"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 58 f. T 26/4-5" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Weidensichel"@de .
 
@@ -10280,7 +10280,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Pflug (Weide-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pfl�ge> ;
-    skos:editorialNote "S 26, T 8/5"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 26, T 8/5" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Weidepflug"@de .
 
@@ -10290,7 +10290,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Harke (Wellen-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Harken> ;
-    skos:editorialNote "S 66, T 30"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 66, T 30" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Wellenharke"@de .
 
@@ -10301,7 +10301,7 @@
     skos:altLabel "Haken (Weller-)"@de,
         "Striekhook"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Sicheln_-_Sichten> ;
-    skos:editorialNote "S 60, T 27/6"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 60, T 27/6" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Wellerhaken"@de .
 
@@ -10311,7 +10311,7 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Gabel (Wende-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Gabeln_(Ernteger�t)> ;
-    skos:editorialNote "H 192, T 81/1-2 &amp; S 69 f., T 33/16"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 192, T 81/1-2 &amp; S 69 f., T 33/16" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Wendegabel"@de .
 
@@ -10322,7 +10322,7 @@
     skos:altLabel "Gabel (Wende-, Dresch-Zusatzgerät)"@de,
         "Wennegaffel (Dresch-Zusatzgerät)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Dresch-Zusatzger�t> ;
-    skos:editorialNote "H 188, T 79/3 &amp; H 192, T 81/1-2"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 188, T 79/3 &amp; H 192, T 81/1-2" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Wendegabel (Dresch-Zusatzgerät)"@de .
 
@@ -10332,7 +10332,7 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Holz (Wende-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Gabeln_(Ernteger�t)> ;
-    skos:editorialNote "S 69 f. T 33/16"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 69 f. T 33/16" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Wendeholz"@de .
 
@@ -10343,7 +10343,7 @@
     skos:altLabel "Pflug (Wende-)"@de,
         "Ummewender"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Pfl�ge> ;
-    skos:editorialNote "S 4/35, T 14"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 4/35, T 14" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Wendepflug"@de .
 
@@ -10377,7 +10377,7 @@
     dc:identifier "Wett (Wetzgerät)" ;
     dcq:created "1987-08-27" ;
     skos:altLabel "Wetzstein (Wetzgerät)"@de ;
-    skos:editorialNote "S 56, T 25 &amp; H 180 &amp; H 346, T 158/3"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 56, T 25 &amp; H 180 &amp; H 346, T 158/3" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Wett (Wetzgerät)"@de .
 
@@ -10387,7 +10387,7 @@
     dcq:created "1987-08-27" ;
     skos:altLabel "Stein (Wett-, Wetzgerät)"@de,
         "Wetzstein (Wetzgerät)"@de ;
-    skos:editorialNote "S 56, T 25 &amp; H 180 &amp; H 346, T 158/3"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 56, T 25 &amp; H 180 &amp; H 346, T 158/3" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Wettstein (Wetzgerät)"@de .
 
@@ -10396,7 +10396,7 @@
     dc:identifier "Wetzgerät" ;
     dcq:created "1987-07-02" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Dengelger�t_-_Schleifger�t_-_Wetzger�t> ;
-    skos:editorialNote "S 56/57, T 25 &amp; H 180 &amp; H 346, T 158/1-2"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 56/57, T 25 &amp; H 180 &amp; H 346, T 158/1-2" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/Blechbeh�ltnis_(Wetzger�t)>,
         <http://www.museumsvokabular.de/museumvok/gefaess/Drehschleifstein_(Wetzger�t)>,
@@ -10431,7 +10431,7 @@
     dcq:created "1987-08-27" ;
     skos:altLabel "Stein (Wetz-), groß in Holzlade mit Zinnwasserkasten (Wetzgerät)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Wetzger�t> ;
-    skos:editorialNote "H 346, T 158/3"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 346, T 158/3" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Wetzstein, groß in Holzlade mit Zinnwasserkasten (Wetzgerät)"@de .
 
@@ -10443,7 +10443,7 @@
         "Wett (Wetzgerät)"@de,
         "Wettstein (Wetzgerät)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Wetzger�t> ;
-    skos:editorialNote "S 56/57, T 25 &amp; H 346, T 158/3 &amp; S 56, T 25/1"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 56/57, T 25 &amp; H 346, T 158/3 &amp; S 56, T 25/1" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Wetzstein (Wetzgerät)"@de .
 
@@ -10471,7 +10471,7 @@
         "Sluderfaß (Wetzgerät)"@de,
         "Wetzsteingefäß"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Wetzger�t> ;
-    skos:editorialNote "S 56/57, T 25"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 56/57, T 25" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Wetzsteinbehälter"@de .
 
@@ -10481,7 +10481,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Gefäß (Wetzstein-)"@de,
         "Wetzsteinbehälter"@de ;
-    skos:editorialNote "S 56/57, T 25"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 56/57, T 25" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Wetzsteingefäß"@de .
 
@@ -10491,7 +10491,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Büil (Wiese-)"@de,
         "Wiesenbeil"@de ;
-    skos:editorialNote "H 178"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 178" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Wiesebüil"@de .
 
@@ -10501,7 +10501,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Hogge (Wiese-)"@de,
         "Wiesenhaue"@de ;
-    skos:editorialNote "H 178"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 178" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Wiesehogge"@de .
 
@@ -10512,7 +10512,7 @@
     skos:altLabel "Beil (Wiesen-)"@de,
         "Wiesebüil"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Sicheln_-_Sichten> ;
-    skos:editorialNote "H 178"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 178" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Wiesenbeil"@de .
 
@@ -10522,7 +10522,7 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Egge (Wiesen-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Eggen_-_Eggeten> ;
-    skos:editorialNote "S 44/45/47, T 19/11 &amp; DG 64 f"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 44/45/47, T 19/11 &amp; DG 64 f" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Wiesenegge"@de .
 
@@ -10532,7 +10532,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Harke (Wiesen-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Harken> ;
-    skos:editorialNote "H 176, T 73/2"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 176, T 73/2" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Wiesenharke"@de .
 
@@ -10543,7 +10543,7 @@
     skos:altLabel "Haue (Wiesen-)"@de,
         "Wiesehogge"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Sicheln_-_Sichten> ;
-    skos:editorialNote "H 178"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 178" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Wiesenhaue"@de .
 
@@ -10580,7 +10580,7 @@
     skos:altLabel "Karre (Wipp-)"@de,
         "Wippkorn"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Karren_(Landwirtschaft)> ;
-    skos:editorialNote "H 308, T 139/1"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 308, T 139/1" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Wippkarre"@de .
 
@@ -10590,7 +10590,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Korn (Wipp-)"@de,
         "Wippkarre"@de ;
-    skos:editorialNote "H 308, T 139/1"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 308, T 139/1" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Wippkorn"@de .
 
@@ -10602,7 +10602,7 @@
         "Korrn mit Scherdeichsel und Schütt (Wipp-)"@de,
         "Scherdeichsel und Schütt (Wippkorrn mit)"@de,
         "Schütt (Wippkorrn mit Scherdeichsel und)"@de ;
-    skos:editorialNote "H 150, T 66/1-3"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 150, T 66/1-3" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Wippkorrn mit Scherdeichsel und Schütt"@de .
 
@@ -10612,7 +10612,7 @@
     dcq:created "1987-08-27" ;
     skos:altLabel "Schaufel (Worf-, Getreidereinigung)"@de,
         "Wurfschaufel (Getreidereinigung)"@de ;
-    skos:editorialNote "S 80, T 39/10-11"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 80, T 39/10-11" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Worfschaufel (Getreidereinigung)"@de .
 
@@ -10622,7 +10622,7 @@
     dcq:created "1987-08-27" ;
     skos:altLabel "Schiute (Worp-, Getreidereinigung)"@de,
         "Wurfschaufel (Getreidereinigung)"@de ;
-    skos:editorialNote "S 80, T 39/4-7"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 80, T 39/4-7" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Worpschiute (Getreidereinigung)"@de .
 
@@ -10634,7 +10634,7 @@
         "Worfschaufel (Getreidereinigung)"@de,
         "Worpschiute (Getreidereinigung)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Getreidereinigung> ;
-    skos:editorialNote "S 80, T 39/4-7 &amp; S 80, T 39/10-11"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 80, T 39/4-7 &amp; S 80, T 39/10-11" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Wurfschaufel (Getreidereinigung)"@de .
 
@@ -10771,7 +10771,7 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Egge (Zickzack-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Eggen_-_Eggeten> ;
-    skos:editorialNote "DG 64 f."^^rdf:XMLLiteral ;
+    skos:editorialNote "DG 64 f." ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Zickzackegge"@de .
 
@@ -10831,7 +10831,7 @@
     dc:identifier "Zug (Ernteaufzüge)" ;
     dcq:created "1987-08-27" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Ernteaufz�ge> ;
-    skos:editorialNote "S 88, T 44/5,6"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 88, T 44/5,6" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Zug (Ernteaufzüge)"@de .
 
@@ -10859,7 +10859,7 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Geschirr (Zug-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Zuggeschirr_-_Zaumzeug_(Ackerbauger�t_-_Feldbestellung)> ;
-    skos:editorialNote "H 134, T 52/3-4"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 134, T 52/3-4" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Zuggeschirr"@de .
 
@@ -10896,7 +10896,7 @@
     dcq:created "1987-03-18" ;
     skos:altLabel "Harke (Zug-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Harken> ;
-    skos:editorialNote "S 67, T 31"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 67, T 31" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Zugharke"@de .
 
@@ -10906,7 +10906,7 @@
     dcq:created "1987-08-27" ;
     skos:altLabel "Rolle (Zug-, Ernteaufzüge)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Ernteaufz�ge> ;
-    skos:editorialNote "S 88, T 44/5,6"^^rdf:XMLLiteral ;
+    skos:editorialNote "S 88, T 44/5,6" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Zugrolle (Ernteaufzüge)"@de .
 
@@ -10916,7 +10916,7 @@
     dcq:created "1987-06-04" ;
     skos:altLabel "Schwengel (Zug-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Zuggeschirr_-_Zaumzeug_(Ackerbauger�t_-_Feldbestellung)> ;
-    skos:editorialNote "H 134, T 52/2"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 134, T 52/2" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Zugschwengel"@de .
 
@@ -10926,7 +10926,7 @@
     dcq:created "1987-08-27" ;
     skos:altLabel "Zange (Zug-, Ernteaufzüge)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Ernteaufz�ge> ;
-    skos:editorialNote "H 186, T 78/9 &amp; S 88, 44/7,8"^^rdf:XMLLiteral ;
+    skos:editorialNote "H 186, T 78/9 &amp; S 88, 44/7,8" ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Zugzange (Ernteaufzüge)"@de .
 
