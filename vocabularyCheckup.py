@@ -42,6 +42,9 @@ for rdfFile in allRdfFiles:
                     #subElement.text = schemeUUID
                     # delete element
                     element.remove(subElement)
+                if subElement.tag == "{http://www.w3.org/2004/02/skos/core#}definition":
+                    # add language label to definition
+                    subElement.text = subElement.text + languageLabel
     tree.write(scheme+"_modified.rdf", pretty_print=True, encoding="utf-8")
     g = Graph()
     g.parse(scheme+"_modified.rdf", format="xml", encoding="utf-8")

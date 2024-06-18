@@ -2293,7 +2293,7 @@
     dc:identifier "Forke" ;
     dcq:created "1999-01-13" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Forken> ;
-    skos:definition "für Heu, Stroh und Getreide" ;
+    skos:definition "für Heu, Stroh und Getreide"@de ;
     skos:editorialNote "S 69 f. T 33/2-6"^^rdf:XMLLiteral ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Forke"@de .
@@ -3147,7 +3147,7 @@
     dc:identifier "Greipon" ;
     dcq:created "1987-03-18" ;
     skos:altLabel "Strohforke"@de ;
-    skos:definition "Strohforke mit fünf Zinken" ;
+    skos:definition "Strohforke mit fünf Zinken"@de ;
     skos:editorialNote "H 192, T 81/10"^^rdf:XMLLiteral ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Greipon"@de .
@@ -3296,7 +3296,7 @@
     dc:identifier "Haartüg" ;
     dcq:created "1987-03-18" ;
     skos:altLabel "Dengelgerät"@de ;
-    skos:definition "Haartüg zu Mittelhochdeutsch hare (=scharf), haren=schärfen" ;
+    skos:definition "Haartüg zu Mittelhochdeutsch hare (=scharf), haren=schärfen"@de ;
     skos:editorialNote "S 54/55, T 24"^^rdf:XMLLiteral ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:prefLabel "Haartüg"@de .
@@ -5306,7 +5306,7 @@
     dcq:created "1987-07-02" ;
     skos:altLabel "Baum (Lang-)"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/Wagenteile:_Heu-_bzw._Ernte-Wagenteile> ;
-    skos:definition "Verbindung von Vorder- und Hinterwagen" ;
+    skos:definition "Verbindung von Vorder- und Hinterwagen"@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/Arm_(Langbaum)>,
         <http://www.museumsvokabular.de/museumvok/gefaess/Spannagel_(Langbaum)> ;
