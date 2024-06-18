@@ -50,7 +50,7 @@
     dc:identifier "00000004" ;
     dcq:created "Sat Mar 17, 2001" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000001> ;
-    skos:definition "Klöppelspitze entsteht durch Verflechten (horizontales, vertikales, diagonales oder schräges Verkreuzen; Verschränken; Verzwirnen) einer Vielzahl von Fäden. Das geschieht in Handarbeit mittels Klöppelkissen und Klöppel. Eine maschinelle Herstellung erfolgt auf der der Spitzenklöppelmaschine." ;
+    skos:definition "Klöppelspitze entsteht durch Verflechten (horizontales, vertikales, diagonales oder schräges Verkreuzen; Verschränken; Verzwirnen) einer Vielzahl von Fäden. Das geschieht in Handarbeit mittels Klöppelkissen und Klöppel. Eine maschinelle Herstellung erfolgt auf der der Spitzenklöppelmaschine."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/technik_spitzen/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000025>,
         <http://www.museumsvokabular.de/museumvok/gefaess/00000026> ;
@@ -61,7 +61,7 @@
     dc:identifier "00000006" ;
     dcq:created "Sat Mar 17, 2001" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000001> ;
-    skos:definition "Knüpfen bedeutet das Verschlingen oder Verknoten von Fäden zur Bildung eines Musters oder eines Grundnetzes, maschinell ist nur ein Grundnetz herstellbar." ;
+    skos:definition "Knüpfen bedeutet das Verschlingen oder Verknoten von Fäden zur Bildung eines Musters oder eines Grundnetzes, maschinell ist nur ein Grundnetz herstellbar."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/technik_spitzen/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000027>,
         <http://www.museumsvokabular.de/museumvok/gefaess/00000028> ;
@@ -229,7 +229,7 @@
     dc:identifier "00000029" ;
     dcq:created "Sat Mar 24, 2001" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000001> ;
-    skos:definition "Das Sticken dient im Gegensatz zum Nähen rein dekorativen Zwecken. Ein Grundstoff wird durch das Sticken verziert. Gearbeitet wird mit Nadel und Faden. Die kleinste Einheit ist der Stich. Wird der Grundstoff oder Teile von ihm nach dem oder während des Stickprozesses entfernt bzw. durchbrochen, wird aus der Stickerei eine Spitze. Die Übergänge können fließend sein." ;
+    skos:definition "Das Sticken dient im Gegensatz zum Nähen rein dekorativen Zwecken. Ein Grundstoff wird durch das Sticken verziert. Gearbeitet wird mit Nadel und Faden. Die kleinste Einheit ist der Stich. Wird der Grundstoff oder Teile von ihm nach dem oder während des Stickprozesses entfernt bzw. durchbrochen, wird aus der Stickerei eine Spitze. Die Übergänge können fließend sein."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/technik_spitzen/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000030>,
         <http://www.museumsvokabular.de/museumvok/gefaess/00000031> ;

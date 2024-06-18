@@ -53,7 +53,7 @@
     dc:identifier "00000032" ;
     dcq:created "Mon Mar 27, 2000" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000001> ;
-    skos:definition "Maschinenspitzen sind Spitzen, die durch das Mechanisieren von Handarbeitstechniken auf Bobinet-, Wirk-, Klöppel- und Stickmaschinen erzeugt werden. Mit Einschränkungen bei Spitzenklöppelmaschine und Häkelgalonmaschine (eine Art der Wirkmaschinen) kann nahezu jedes Ornament und jede Textur gebildet werden." ;
+    skos:definition "Maschinenspitzen sind Spitzen, die durch das Mechanisieren von Handarbeitstechniken auf Bobinet-, Wirk-, Klöppel- und Stickmaschinen erzeugt werden. Mit Einschränkungen bei Spitzenklöppelmaschine und Häkelgalonmaschine (eine Art der Wirkmaschinen) kann nahezu jedes Ornament und jede Textur gebildet werden."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000127>,
         <http://www.museumsvokabular.de/museumvok/gefaess/00000129>,
@@ -66,7 +66,7 @@
     dc:identifier "00000080" ;
     dcq:created "Mon Apr 10, 2000" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000001> ;
-    skos:definition "Die Herstellung der handgearbeiteten Spitzen erfolgt ausschließlich mittels Werkzeugen, die von Hand, das heißt mit Muskelkraft, betätigt werden. Die wichtigsten Arbeitsmittel sind einfache Werkzeuge und Hilfsmittel, wie z. Bsp.: Nadel, Spule, Klöppel, Stickrahmen, Klöppelkissen, Schere, Gabel, Häkelnadel." ;
+    skos:definition "Die Herstellung der handgearbeiteten Spitzen erfolgt ausschließlich mittels Werkzeugen, die von Hand, das heißt mit Muskelkraft, betätigt werden. Die wichtigsten Arbeitsmittel sind einfache Werkzeuge und Hilfsmittel, wie z. Bsp.: Nadel, Spule, Klöppel, Stickrahmen, Klöppelkissen, Schere, Gabel, Häkelnadel."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000083>,
         <http://www.museumsvokabular.de/museumvok/gefaess/00000226>,
@@ -111,7 +111,7 @@
     dc:identifier "00000116" ;
     dcq:created "Tue Apr 11, 2000" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000001> ;
-    skos:definition "Als Maschinenstickerei bezeichnet man eine mit Maschine erzeugte Stickerei auf einem verbleibenden meist leinwandbindigen Stickboden oder anderen Flächengebilden (z. Bsp. Leder, Gewirke, usw.). Die Herstellung der Maschinenstickerei erfolgt im Einfaden- oder Zweifadensystem. Handstickmaschine und Kurbelstickmaschine arbeiten mit einem Faden, während Adler-, Mehrkopfautomaten- und Schiffchenstickmaschine im Zweifadensystem arbeiten. Ein Faden bzw. Vorder- und Hinterfaden bilden die Verbindung mit dem Stickboden. Effekte und Muster werden durch die Stiche gebildet. Stickboden und Stickmaterial können aus verschiedenen Fasern und Materialien sein. Auf oben genannten Maschinen kann man nahezu jede Stichart aus der Handarbeit nachvollziehen bzw. immitieren. Welche Maschine verwendet wird hängt von der Produktivität der jeweiligen Maschine und von der Möglichkeit der zu verwendenden Zusatzeinrichtungen ab." ;
+    skos:definition "Als Maschinenstickerei bezeichnet man eine mit Maschine erzeugte Stickerei auf einem verbleibenden meist leinwandbindigen Stickboden oder anderen Flächengebilden (z. Bsp. Leder, Gewirke, usw.). Die Herstellung der Maschinenstickerei erfolgt im Einfaden- oder Zweifadensystem. Handstickmaschine und Kurbelstickmaschine arbeiten mit einem Faden, während Adler-, Mehrkopfautomaten- und Schiffchenstickmaschine im Zweifadensystem arbeiten. Ein Faden bzw. Vorder- und Hinterfaden bilden die Verbindung mit dem Stickboden. Effekte und Muster werden durch die Stiche gebildet. Stickboden und Stickmaterial können aus verschiedenen Fasern und Materialien sein. Auf oben genannten Maschinen kann man nahezu jede Stichart aus der Handarbeit nachvollziehen bzw. immitieren. Welche Maschine verwendet wird hängt von der Produktivität der jeweiligen Maschine und von der Möglichkeit der zu verwendenden Zusatzeinrichtungen ab."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000117>,
         <http://www.museumsvokabular.de/museumvok/gefaess/00000119>,
@@ -378,7 +378,7 @@
     dc:identifier "00000242" ;
     dcq:created "Wed Jan 10, 2001" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000232> ;
-    skos:definition "Sammelbezeichnung für in England hergestellte Spitzen des Brüsseler Typs (einfachere Nachahmung der Duchesse) mit separat gearbeiteten Motiven und Netzgründen (teilw. aus Nadelspitze) vom 18. bis 20. Jh. Typische Motive sind Kleeblatt, Distel, Farn, Iris, Passionsblume, Alpenveilchen und Rose." ;
+    skos:definition "Sammelbezeichnung für in England hergestellte Spitzen des Brüsseler Typs (einfachere Nachahmung der Duchesse) mit separat gearbeiteten Motiven und Netzgründen (teilw. aus Nadelspitze) vom 18. bis 20. Jh. Typische Motive sind Kleeblatt, Distel, Farn, Iris, Passionsblume, Alpenveilchen und Rose."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
     skos:prefLabel "Honiton"@de .
 
@@ -561,7 +561,7 @@
     dc:identifier "00000261" ;
     dcq:created "Wed Jan 10, 2001" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000080> ;
-    skos:definition "Bei den kombinierten Spitzen verbinden sich verschiedene Grundtechniken miteinander." ;
+    skos:definition "Bei den kombinierten Spitzen verbinden sich verschiedene Grundtechniken miteinander."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000262>,
         <http://www.museumsvokabular.de/museumvok/gefaess/00000263>,
@@ -612,7 +612,7 @@
     dc:identifier "00000266" ;
     dcq:created "Wed Jan 10, 2001" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000080> ;
-    skos:definition "Nadelspitzen werden mittels Nadel und unter Verwendung nur eines Arbeitsfadens erzeugt. Die Technik bedient sich vorrangig des Schlingstichs. Zur Spitzengestaltung wird er in vielfältiger Weise variiert, so daß sich Zierstiche f+r die Mustergestaltung, für Stege und Maschengründe ergeben. Große Spitzen können in Teilen gearbeitet und zusammengesetzt werden. Die Nadelspitzen gehören neben den Klöppelspitzen zu den klassischen Vertretern der Spitzenkunst." ;
+    skos:definition "Nadelspitzen werden mittels Nadel und unter Verwendung nur eines Arbeitsfadens erzeugt. Die Technik bedient sich vorrangig des Schlingstichs. Zur Spitzengestaltung wird er in vielfältiger Weise variiert, so daß sich Zierstiche f+r die Mustergestaltung, für Stege und Maschengründe ergeben. Große Spitzen können in Teilen gearbeitet und zusammengesetzt werden. Die Nadelspitzen gehören neben den Klöppelspitzen zu den klassischen Vertretern der Spitzenkunst."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000267>,
         <http://www.museumsvokabular.de/museumvok/gefaess/00000268>,
@@ -669,7 +669,7 @@
     dc:identifier "00000270" ;
     dcq:created "Wed Jan 10, 2001" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000266> ;
-    skos:definition "Französische Nadelspitze, kleine Gruppe von Spitzen um 1720/1730, deren sechseckiger Maschengrund mit einem zweiten Sechseck mit Zierstichen ausgefüllt ist. Leichte florale Motive." ;
+    skos:definition "Französische Nadelspitze, kleine Gruppe von Spitzen um 1720/1730, deren sechseckiger Maschengrund mit einem zweiten Sechseck mit Zierstichen ausgefüllt ist. Leichte florale Motive."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
     skos:prefLabel "Argentella"@de .
 
@@ -678,7 +678,7 @@
     dc:identifier "00000271" ;
     dcq:created "Wed Jan 10, 2001" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000266> ;
-    skos:definition "Die Motive der Muster sind der Pflanzenwelt entnommen und vielfach aus bunter Seide gearbeitet. Es werden z. B. Glockenblumen und deren Blätter einzeln gearbeitet und zu einem Gehänge verbunden. Da der Abstand der Stiche größer genommen wird als bei der eigentlichen orientalischen Spitze und der Faden beim Bilden des Schlingstichs zweimal um die Nadel gelegt wird, wodurch eine knotenähnliche Verdickung entsteht, besitzt die armenische Spitze eine offene Textur." ;
+    skos:definition "Die Motive der Muster sind der Pflanzenwelt entnommen und vielfach aus bunter Seide gearbeitet. Es werden z. B. Glockenblumen und deren Blätter einzeln gearbeitet und zu einem Gehänge verbunden. Da der Abstand der Stiche größer genommen wird als bei der eigentlichen orientalischen Spitze und der Faden beim Bilden des Schlingstichs zweimal um die Nadel gelegt wird, wodurch eine knotenähnliche Verdickung entsteht, besitzt die armenische Spitze eine offene Textur."@de ;
     skos:example "Smyrna-Spitze"^^rdf:XMLLiteral ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
     skos:prefLabel "Armenische Spitze"@de .
@@ -733,7 +733,7 @@
     dc:identifier "00000277" ;
     dcq:created "Wed Jan 10, 2001" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000266> ;
-    skos:definition "Sie wird meist mehrfarbig und hauptsächlich aus Seide hergestellt, sowie aus einfachen geometrischen Mustern, durchgehenden dichten Bändern zu- und abnehmender Breite, Bogen und manchmal in größere Lücken eingezogene sich kreuzende Fadenstege gebildet. In die Spitze einzusetzende quadratische oder dreieckige Formen werden einzeln hergestellt." ;
+    skos:definition "Sie wird meist mehrfarbig und hauptsächlich aus Seide hergestellt, sowie aus einfachen geometrischen Mustern, durchgehenden dichten Bändern zu- und abnehmender Breite, Bogen und manchmal in größere Lücken eingezogene sich kreuzende Fadenstege gebildet. In die Spitze einzusetzende quadratische oder dreieckige Formen werden einzeln hergestellt."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
     skos:prefLabel "Orientalische Spitze"@de .
 
@@ -742,7 +742,7 @@
     dc:identifier "00000278" ;
     dcq:created "Wed Jan 10, 2001" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000266> ;
-    skos:definition "Sie wird von einem doppelt gelegten Faden aus gearbeitet. Die Ornamentation dieser weißen, aus Seiden- oder Leinenfaden hergestellten Spitzen, ist stets primitiv. Ihr Aussehen wirkt netzartig (lockere Textur)." ;
+    skos:definition "Sie wird von einem doppelt gelegten Faden aus gearbeitet. Die Ornamentation dieser weißen, aus Seiden- oder Leinenfaden hergestellten Spitzen, ist stets primitiv. Ihr Aussehen wirkt netzartig (lockere Textur)."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
     skos:prefLabel "Palästinaspitze"@de .
 
@@ -774,7 +774,7 @@
     dc:identifier "00000281" ;
     dcq:created "Wed Jan 10, 2001" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000266> ;
-    skos:definition "Französische Nadelspitze. Mit dieser Spitze hat die Spitzenkunst Wertleistungen von seltener Schönheit und bewundernswerter technischer Vollendung geschaffen. Der Point de Sedan ist eine florale Spitze mit Ziergrund und Speichennetzen, vielfältig gemustert, Gegenpol zur Point de France." ;
+    skos:definition "Französische Nadelspitze. Mit dieser Spitze hat die Spitzenkunst Wertleistungen von seltener Schönheit und bewundernswerter technischer Vollendung geschaffen. Der Point de Sedan ist eine florale Spitze mit Ziergrund und Speichennetzen, vielfältig gemustert, Gegenpol zur Point de France."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
     skos:prefLabel "Sedan, Point de"@de .
 
@@ -830,7 +830,7 @@
     dc:identifier "00000287" ;
     dcq:created "Wed Jan 10, 2001" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000266> ;
-    skos:definition "Irische Nadelspitze, seit 1842 mit starker Anlehnung an venezianische Typen. Arrangements von Blumen, häufig werden auch Kleeblatt, Rose und Stiefmütterchen verwendet. Charakteristisch sind schattierende Effekte durch unterschiedliche Dichte der Schlingstiche, pikotierter Grund, nur stellenweise Verwendung eines Konturfadens." ;
+    skos:definition "Irische Nadelspitze, seit 1842 mit starker Anlehnung an venezianische Typen. Arrangements von Blumen, häufig werden auch Kleeblatt, Rose und Stiefmütterchen verwendet. Charakteristisch sind schattierende Effekte durch unterschiedliche Dichte der Schlingstiche, pikotierter Grund, nur stellenweise Verwendung eines Konturfadens."@de ;
     skos:example "irish point"^^rdf:XMLLiteral ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
     skos:prefLabel "Youghal"@de .
@@ -1341,7 +1341,7 @@
     dc:identifier "00000350" ;
     dcq:created "Mon Apr 23, 2001" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000349> ;
-    skos:definition "Stoffstickerei mit Fadenanzugeffekten. Kleine Muster mit viel Plattstich, der auch oft gespalten auftritt." ;
+    skos:definition "Stoffstickerei mit Fadenanzugeffekten. Kleine Muster mit viel Plattstich, der auch oft gespalten auftritt."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
     skos:prefLabel "Appenzeller Stickerei"@de .
 

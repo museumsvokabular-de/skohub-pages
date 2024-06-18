@@ -55,6 +55,8 @@ for rdfFile in allRdfFiles:
                     element.remove(definitions[definitionLenght-1])
                     definitionLenght -= 1
                 definitions[0].text = definitionText
+            elif len(definitions) == 1:
+                definitions[0].text += languageLabel
     tree.write(scheme+"_modified.rdf", pretty_print=True, encoding="utf-8")
     g = Graph()
     g.parse(scheme+"_modified.rdf", format="xml", encoding="utf-8")

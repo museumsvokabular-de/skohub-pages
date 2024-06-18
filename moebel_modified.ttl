@@ -124,7 +124,7 @@
         "Blumentisch"@de,
         "Jardinière"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000795> ;
-    skos:definition "Die Blumenbank ist ein Gestell mit waagerechter Fläche. Die Stellfläche kann eckig bis rund sein; sie ist oft mit einer Wandung versehen." ;
+    skos:definition "Die Blumenbank ist ein Gestell mit waagerechter Fläche. Die Stellfläche kann eckig bis rund sein; sie ist oft mit einer Wandung versehen."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Blumenbank"@de .
 
@@ -137,7 +137,7 @@
     dc:identifier "00000797" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000795> ;
-    skos:definition "Der Blumenständer verfügt über Stellflächen, die auf verschiedenen Höhen angebracht sind. Sie können an einem Pfosten montiert oder stufig sein." ;
+    skos:definition "Der Blumenständer verfügt über Stellflächen, die auf verschiedenen Höhen angebracht sind. Sie können an einem Pfosten montiert oder stufig sein."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Blumenständer"@de .
 
@@ -156,7 +156,7 @@
         "Wandbord"@de,
         "Wandbrett"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000795> ;
-    skos:definition "Das Bord ist ein an der Wand zu befestigendes Brett zur Ablage von Gegenständen, das mit einer Stützkonstruktion versehen ist." ;
+    skos:definition "Das Bord ist ein an der Wand zu befestigendes Brett zur Ablage von Gegenständen, das mit einer Stützkonstruktion versehen ist."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00002285> ;
     skos:prefLabel "Bord"@de .
@@ -170,7 +170,7 @@
     dc:identifier "00000799" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000795> ;
-    skos:definition "Konstruktionsmerkmal des CD-Ständers sind die vielen Fächer zur Aufbewahrung von Compact Discs." ;
+    skos:definition "Konstruktionsmerkmal des CD-Ständers sind die vielen Fächer zur Aufbewahrung von Compact Discs."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "CD-Ständer"@de .
 
@@ -184,7 +184,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Kleiderablage"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000795> ;
-    skos:definition "Die Garderobe besteht aus einer Aufhängevorrichtung für Oberbekleidung und mindestens einem der folgenden Elemente: Spiegel, Schirm- oder Stockständer, Hutablage, Handschuhablage, Schrank- oder Kommodenelement, Schuhablage. Sie steht entweder frei im Raum oder ist wandfest montiert." ;
+    skos:definition "Die Garderobe besteht aus einer Aufhängevorrichtung für Oberbekleidung und mindestens einem der folgenden Elemente: Spiegel, Schirm- oder Stockständer, Hutablage, Handschuhablage, Schrank- oder Kommodenelement, Schuhablage. Sie steht entweder frei im Raum oder ist wandfest montiert."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000801>,
         <http://www.museumsvokabular.de/museumvok/gefaess/00000802>,
@@ -205,7 +205,7 @@
     dc:identifier "00000801" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000800> ;
-    skos:definition "Die Hutablage ist ein Bord, dessen waagerechte Ablagefläche aus einem luftdurchlässigen Geflecht oder einem Leistenrost besteht." ;
+    skos:definition "Die Hutablage ist ein Bord, dessen waagerechte Ablagefläche aus einem luftdurchlässigen Geflecht oder einem Leistenrost besteht."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Hutablage"@de .
 
@@ -219,7 +219,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Garderobenleiste"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000800> ;
-    skos:definition "Der Kleiderhaken ist ein wandfest montierter Haken zum Aufhängen von Oberbekleidung." ;
+    skos:definition "Der Kleiderhaken ist ein wandfest montierter Haken zum Aufhängen von Oberbekleidung."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Kleiderhaken"@de .
 
@@ -233,7 +233,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Garderobenleiste"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000800> ;
-    skos:definition "Der Kleiderrechen ist eine wandfest montierte Hakenleiste zum Aufhängen von Kleidung." ;
+    skos:definition "Der Kleiderrechen ist eine wandfest montierte Hakenleiste zum Aufhängen von Kleidung."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Kleiderrechen"@de .
 
@@ -247,7 +247,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Garderobenständer"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000800> ;
-    skos:definition "Der Kleiderständer ist eine freistehende Konstruktion mit Aufhängevorrichtung." ;
+    skos:definition "Der Kleiderständer ist eine freistehende Konstruktion mit Aufhängevorrichtung."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Kleiderständer"@de .
 
@@ -260,7 +260,7 @@
     dc:identifier "00000805" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000800> ;
-    skos:definition "Der Behälter zum Abstellen von Schirmen ist oft mit durchbrochener Wandung zur Belüftung nasser Regenschirme konstruiert; in der Regel hat er im Fuß ein Behältnis für das abtropfende Wasser." ;
+    skos:definition "Der Behälter zum Abstellen von Schirmen ist oft mit durchbrochener Wandung zur Belüftung nasser Regenschirme konstruiert; in der Regel hat er im Fuß ein Behältnis für das abtropfende Wasser."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Schirmständer"@de .
 
@@ -273,7 +273,7 @@
     dc:identifier "00000806" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000800> ;
-    skos:definition "Der Schuhständer ist ein Gestell mit einer oder mehreren Stellreihe(n) aus parallel geführten Holzstäben." ;
+    skos:definition "Der Schuhständer ist ein Gestell mit einer oder mehreren Stellreihe(n) aus parallel geführten Holzstäben."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Schuhständer"@de .
 
@@ -286,7 +286,7 @@
     dc:identifier "00000807" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000800> ;
-    skos:definition "Der Stockständer ist ein Gestell mit Fußplatte, Streben und gelochter Platte zum Abstellen von Spazierstöcken." ;
+    skos:definition "Der Stockständer ist ein Gestell mit Fußplatte, Streben und gelochter Platte zum Abstellen von Spazierstöcken."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Stockständer"@de .
 
@@ -301,7 +301,7 @@
     skos:altLabel "Reck für Holzteller"@de,
         "Schinkentellerhalter"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000795> ;
-    skos:definition "Das Gestell für Holzteller besteht aus Leiste oder Brett, in welche(s) paarweise Holzstäbe übereinander eingelassen sind, auf denen Holzteller abgelegt werden können. Zuweilen ist ein Löffelbrett integriert." ;
+    skos:definition "Das Gestell für Holzteller besteht aus Leiste oder Brett, in welche(s) paarweise Holzstäbe übereinander eingelassen sind, auf denen Holzteller abgelegt werden können. Zuweilen ist ein Löffelbrett integriert."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Gestell für Holzteller"@de .
 
@@ -314,7 +314,7 @@
     dc:identifier "00000809" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000795> ;
-    skos:definition "Der Globusständer ist ein Gestell zur Aufnahme eines Globusses." ;
+    skos:definition "Der Globusständer ist ein Gestell zur Aufnahme eines Globusses."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Globusständer"@de .
 
@@ -329,7 +329,7 @@
     skos:altLabel "Kandelaber"@de,
         "Lichtständer"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000795> ;
-    skos:definition "Der Kerzenständer ist ein schmales hohes Gestell mit einem Teller, auf dem große Kerzen aufgestellt werden." ;
+    skos:definition "Der Kerzenständer ist ein schmales hohes Gestell mit einem Teller, auf dem große Kerzen aufgestellt werden."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Kerzenständer"@de .
 
@@ -342,7 +342,7 @@
     dc:identifier "00000811" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000795> ;
-    skos:definition "Hauptsächliches Konstruktionsmerkmal des Lesepultes ist die schräg gestellte Ablagefläche für das Buch, dessen Abrutschen durch eine Leiste verhindert wird." ;
+    skos:definition "Hauptsächliches Konstruktionsmerkmal des Lesepultes ist die schräg gestellte Ablagefläche für das Buch, dessen Abrutschen durch eine Leiste verhindert wird."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Lesepult"@de .
 
@@ -355,7 +355,7 @@
     dc:identifier "00000812" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000795> ;
-    skos:definition "Der Notenständer hat eine rückwärtige Stützkonstruktion, die flächig oder durchbrochen ist. Eine daran angebrachte Leiste dient dem hochkantigen Aufstellen der Notenblätter, die zusätzlich von Haltern am oberen Teil der Stützkonstruktion fixiert werden. Der Notenständer kann fest, zerlegbar oder klappbar konstruiert sein." ;
+    skos:definition "Der Notenständer hat eine rückwärtige Stützkonstruktion, die flächig oder durchbrochen ist. Eine daran angebrachte Leiste dient dem hochkantigen Aufstellen der Notenblätter, die zusätzlich von Haltern am oberen Teil der Stützkonstruktion fixiert werden. Der Notenständer kann fest, zerlegbar oder klappbar konstruiert sein."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Notenständer"@de .
 
@@ -391,7 +391,7 @@
     dc:identifier "00000814" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000813> ;
-    skos:definition "Das Drehregal ist ein auf der Mittelachse drehbar gelagertes Regal." ;
+    skos:definition "Das Drehregal ist ein auf der Mittelachse drehbar gelagertes Regal."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Drehregal"@de .
 
@@ -404,7 +404,7 @@
     dc:identifier "00000815" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000813> ;
-    skos:definition "Das Eckregal dient zur Platzierung in Ecksituationen. Die Rückseiten stehen deshalb annähernd rechtwinklig zueinander." ;
+    skos:definition "Das Eckregal dient zur Platzierung in Ecksituationen. Die Rückseiten stehen deshalb annähernd rechtwinklig zueinander."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Eckregal"@de .
 
@@ -433,7 +433,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Weinregal"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000813> ;
-    skos:definition "Beim Flaschenregal sind die Böden so konstruiert, dass auf ihnen liegend Flaschen gelagert werden können." ;
+    skos:definition "Beim Flaschenregal sind die Böden so konstruiert, dass auf ihnen liegend Flaschen gelagert werden können."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Flaschenregal"@de .
 
@@ -446,7 +446,7 @@
     dc:identifier "00000820" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000813> ;
-    skos:definition "Der Raumteiler ist ein freistehendes, nach den beiden Längsseiten zugängliches Regal, das durch seine Konstruktionsmerkmale für eine beidseitige Nutzung ausgelegt ist. Diese können Zier- oder Bedienungselemente, zum Beispiel Schubladen, sein." ;
+    skos:definition "Der Raumteiler ist ein freistehendes, nach den beiden Längsseiten zugängliches Regal, das durch seine Konstruktionsmerkmale für eine beidseitige Nutzung ausgelegt ist. Diese können Zier- oder Bedienungselemente, zum Beispiel Schubladen, sein."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Raumteiler"@de .
 
@@ -461,7 +461,7 @@
     skos:altLabel "Dinette"@de,
         "Teewagen"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000813> ;
-    skos:definition "Der Servierwagen, ein fahrbares, maximal tischhohes, allseitig offenes Regal mit mindestens zwei Böden, von denen der obere oft als Tablett abnehmbar ist. Zur platzsparenden Aufbewahrung kann der Servierwagen klappbar sein. Moderne Exemplare werden häufig nach einer Produktbezeichnung \"Dinette\" genannt." ;
+    skos:definition "Der Servierwagen, ein fahrbares, maximal tischhohes, allseitig offenes Regal mit mindestens zwei Böden, von denen der obere oft als Tablett abnehmbar ist. Zur platzsparenden Aufbewahrung kann der Servierwagen klappbar sein. Moderne Exemplare werden häufig nach einer Produktbezeichnung \"Dinette\" genannt."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Servierwagen"@de .
 
@@ -474,7 +474,7 @@
     dc:identifier "00000823" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000813> ;
-    skos:definition "Der aus dem Druckerhandwerk in den häuslichen Wohnbereich übernommene Setzkasten ist ein Regal geringer Tiefe mit vielen kleinen Fächern." ;
+    skos:definition "Der aus dem Druckerhandwerk in den häuslichen Wohnbereich übernommene Setzkasten ist ein Regal geringer Tiefe mit vielen kleinen Fächern."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Setzkasten"@de .
 
@@ -489,7 +489,7 @@
     skos:altLabel "Schüsselbank"@de,
         "Schüsselrähm"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000813> ;
-    skos:definition "Das Tellerbord ist ein Regal zur stehenden Aufbewahrung von Tellern oder Schüsseln. Die Fachböden haben geringe Tiefe, die frontalen Halteleisten stützen das Geschirr. Bisweilen finden sich im unteren Bereich des Tellerbords Schubladen oder Haken." ;
+    skos:definition "Das Tellerbord ist ein Regal zur stehenden Aufbewahrung von Tellern oder Schüsseln. Die Fachböden haben geringe Tiefe, die frontalen Halteleisten stützen das Geschirr. Bisweilen finden sich im unteren Bereich des Tellerbords Schubladen oder Haken."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Tellerbord"@de .
 
@@ -503,7 +503,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Postament"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000795> ;
-    skos:definition "Der Sockel besteht aus einem geschlossenen Korpus, dessen Oberseite zur Ablage dient." ;
+    skos:definition "Der Sockel besteht aus einem geschlossenen Korpus, dessen Oberseite zur Ablage dient."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00002292>,
         <http://www.museumsvokabular.de/museumvok/gefaess/00002461> ;
@@ -519,7 +519,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Herrendiener"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000795> ;
-    skos:definition "Unter einem Stummen Diener versteht man ein Gestell, das Hosenhalter und Kleiderbügel kombiniert. Er kann wandfest montiert sein oder frei stehen." ;
+    skos:definition "Unter einem Stummen Diener versteht man ein Gestell, das Hosenhalter und Kleiderbügel kombiniert. Er kann wandfest montiert sein oder frei stehen."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Stummer Diener"@de .
 
@@ -533,7 +533,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Lavabo"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000795> ;
-    skos:definition "Das Waschgestell ist ein Gesell zur Aufnahme von herausnehmbarem Waschgeschirr." ;
+    skos:definition "Das Waschgestell ist ein Gesell zur Aufnahme von herausnehmbarem Waschgeschirr."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Waschgestell"@de .
 
@@ -547,7 +547,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Zeitungswandablage"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000795> ;
-    skos:definition "Die Zeitschriftenwandablage ist ein wandfest montiertes Gestell mit einer Ablagefläche oder mehreren übereinander angebrachten, spitzwinklig schräg nach oben ausgestellten Ablageflächen." ;
+    skos:definition "Die Zeitschriftenwandablage ist ein wandfest montiertes Gestell mit einer Ablagefläche oder mehreren übereinander angebrachten, spitzwinklig schräg nach oben ausgestellten Ablageflächen."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Zeitschriftenwandablage"@de .
 
@@ -561,7 +561,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Zeitschriftenständer"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000795> ;
-    skos:definition "Der Zeitungsständer ist ein Gestell, dessen u- oder v-förmige Ablageflächen aus Brett, Lattenrost oder Geflecht bestehen können." ;
+    skos:definition "Der Zeitungsständer ist ein Gestell, dessen u- oder v-förmige Ablageflächen aus Brett, Lattenrost oder Geflecht bestehen können."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Zeitungsständer"@de .
 
@@ -638,7 +638,7 @@
     skos:altLabel "Rhöntisch"@de,
         "Trogtisch"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000831> ;
-    skos:definition "Der Kastentisch besteht aus Gestell, Kasten und Tischplatte. Meistens ist der Kasten fest mit dem Untergestell verbunden. Die Tischplatte ist beweglich: Sie kann verschoben oder aufgeklappt werden. Bisweilen sind unter dem Kasten noch zusätzliche Schubladen angebracht." ;
+    skos:definition "Der Kastentisch besteht aus Gestell, Kasten und Tischplatte. Meistens ist der Kasten fest mit dem Untergestell verbunden. Die Tischplatte ist beweglich: Sie kann verschoben oder aufgeklappt werden. Bisweilen sind unter dem Kasten noch zusätzliche Schubladen angebracht."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000837> ;
     skos:prefLabel "Kastentisch"@de .
@@ -653,7 +653,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Table Bed"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000836> ;
-    skos:definition "Die Tischplatte des Tischbettes kann weggeklappt werden. Der mit Lüftungsschlitzen versehene Kasten ist als Bett benutzbar." ;
+    skos:definition "Die Tischplatte des Tischbettes kann weggeklappt werden. Der mit Lüftungsschlitzen versehene Kasten ist als Bett benutzbar."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Tischbett"@de .
 
@@ -669,7 +669,7 @@
         "Torbeintisch"@de,
         "Tripod-table"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000831> ;
-    skos:definition "Das grundlegende Konstruktionsmerkmal des Klapptisches ist der Klappmechanismus, mit dessen Hilfe die Gestalt des Tisches verändert wird. Das heißt, dass entweder die Tischfläche vergrößert bzw. verkleinert oder der ganze Tisch zur besseren Aufbewahrung zusammengeklappt wird." ;
+    skos:definition "Das grundlegende Konstruktionsmerkmal des Klapptisches ist der Klappmechanismus, mit dessen Hilfe die Gestalt des Tisches verändert wird. Das heißt, dass entweder die Tischfläche vergrößert bzw. verkleinert oder der ganze Tisch zur besseren Aufbewahrung zusammengeklappt wird."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000839> ;
     skos:prefLabel "Klapptisch"@de .
@@ -683,7 +683,7 @@
     dc:identifier "00000839" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000838> ;
-    skos:definition "Bei dem Drehklapptisch liegen die Klappen nach entsprechender Plattendrehung unmittelbar auf dem Zargenkranz auf, das heißt, das Tischgestell selbst übernimmt die Stützung der Klappen." ;
+    skos:definition "Bei dem Drehklapptisch liegen die Klappen nach entsprechender Plattendrehung unmittelbar auf dem Zargenkranz auf, das heißt, das Tischgestell selbst übernimmt die Stützung der Klappen."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Drehklapptisch"@de .
 
@@ -698,7 +698,7 @@
     skos:altLabel "Handarbeitstisch"@de,
         "Nähkästchen"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000831> ;
-    skos:definition "Der Nähtisch ist ausgestattet mit Kasten und/oder Schublade, in der Regel feinfächerig und der Aufbewahrung von Handarbeitsutensilien dienend." ;
+    skos:definition "Der Nähtisch ist ausgestattet mit Kasten und/oder Schublade, in der Regel feinfächerig und der Aufbewahrung von Handarbeitsutensilien dienend."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Nähtisch"@de .
 
@@ -711,7 +711,7 @@
     dc:identifier "00000843" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000831> ;
-    skos:definition "Der Pfostentisch besteht aus einer horizontalen, von drei oder mehreren Beinen getragenen Platte. Er hat keine Zarge." ;
+    skos:definition "Der Pfostentisch besteht aus einer horizontalen, von drei oder mehreren Beinen getragenen Platte. Er hat keine Zarge."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Pfostentisch"@de .
 
@@ -724,7 +724,7 @@
     dc:identifier "00000847" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000831> ;
-    skos:definition "Der Satztisch ist Teil eines in sich verschachtelten mehrteiligen Tischsets, das untereinandergestellt werden kann." ;
+    skos:definition "Der Satztisch ist Teil eines in sich verschachtelten mehrteiligen Tischsets, das untereinandergestellt werden kann."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Satztisch"@de .
 
@@ -740,7 +740,7 @@
         "Guéridon"@de,
         "Guéridonette"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000831> ;
-    skos:definition "Der Säulentisch besteht aus der Platte und der/den sie tragenden Säule(n). Viele Säulentische haben aus Stabilitätsgründen einen Zargenkranz. Kleine Säulentische werden als \"Guéridon\" oder \"Guéridonette\" bezeichnet." ;
+    skos:definition "Der Säulentisch besteht aus der Platte und der/den sie tragenden Säule(n). Viele Säulentische haben aus Stabilitätsgründen einen Zargenkranz. Kleine Säulentische werden als \"Guéridon\" oder \"Guéridonette\" bezeichnet."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000849> ;
     skos:prefLabel "Säulentisch"@de .
@@ -754,7 +754,7 @@
     dc:identifier "00000849" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000848> ;
-    skos:definition "Der Trommeltisch ist ein Säulentisch mit runder Platte. In den darunter befindlichen Zargenkranz sind Schubladen eingelassen." ;
+    skos:definition "Der Trommeltisch ist ein Säulentisch mit runder Platte. In den darunter befindlichen Zargenkranz sind Schubladen eingelassen."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Trommeltisch"@de .
 
@@ -767,7 +767,7 @@
     dc:identifier "00000851" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000831> ;
-    skos:definition "Der Spieltisch zeichnet sich durch ein oder mehrere Spielfeld(er) und gegebenenfalls durch zusätzliche Vorrichtungen zum Spielen wie Geldschälchen, Kartenhalter etc. aus." ;
+    skos:definition "Der Spieltisch zeichnet sich durch ein oder mehrere Spielfeld(er) und gegebenenfalls durch zusätzliche Vorrichtungen zum Spielen wie Geldschälchen, Kartenhalter etc. aus."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Spieltisch"@de .
 
@@ -780,7 +780,7 @@
     dc:identifier "00000853" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000831> ;
-    skos:definition "Charakteristisch für den Taschenleerer ist die Tischplatte, die mit ihrer hochkant gestellten Umrandung wie ein Tablett aussieht." ;
+    skos:definition "Charakteristisch für den Taschenleerer ist die Tischplatte, die mit ihrer hochkant gestellten Umrandung wie ein Tablett aussieht."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Taschenleerer"@de .
 
@@ -793,7 +793,7 @@
     dc:identifier "00000854" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000831> ;
-    skos:definition "Das charakteristische Merkmal des Teetisches ist eine muldenförmige, meist aus Fayence bestehende Tischplatte, die von umlaufenden Zierleisten eingefasst ist." ;
+    skos:definition "Das charakteristische Merkmal des Teetisches ist eine muldenförmige, meist aus Fayence bestehende Tischplatte, die von umlaufenden Zierleisten eingefasst ist."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Teetisch"@de .
 
@@ -810,7 +810,7 @@
         "Poudreuse"@de,
         "Rasiertisch"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000831> ;
-    skos:definition "Der Toilettentisch ist ein tischartiges Möbel mit integriertem Spiegel und zumeist mit Schubladen. Der Spiegel ist entweder fest montiert oder er kann im Tisch versenkt werden." ;
+    skos:definition "Der Toilettentisch ist ein tischartiges Möbel mit integriertem Spiegel und zumeist mit Schubladen. Der Spiegel ist entweder fest montiert oder er kann im Tisch versenkt werden."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Toilettentisch"@de .
 
@@ -823,7 +823,7 @@
     dc:identifier "00000856" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000831> ;
-    skos:definition "Der Verwandlungstisch ist ein mechanisches Möbel. Er kann dank seiner eingebauten Mechanismen vom normalen Tisch in einen Spieltisch oder Schreibtisch oder auch zum Lesepult verwandelt werden." ;
+    skos:definition "Der Verwandlungstisch ist ein mechanisches Möbel. Er kann dank seiner eingebauten Mechanismen vom normalen Tisch in einen Spieltisch oder Schreibtisch oder auch zum Lesepult verwandelt werden."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Verwandlungstisch"@de .
 
@@ -836,7 +836,7 @@
     dc:identifier "00000857" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000831> ;
-    skos:definition "Der Wandtisch ist für eine wandbündige Aufstellung konzipiert. Die Rückseite hat keine Schaufunktion und ist daher zumeist schlicht gehalten." ;
+    skos:definition "Der Wandtisch ist für eine wandbündige Aufstellung konzipiert. Die Rückseite hat keine Schaufunktion und ist daher zumeist schlicht gehalten."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000858>,
         <http://www.museumsvokabular.de/museumvok/gefaess/00000859>,
@@ -852,7 +852,7 @@
     dc:identifier "00000858" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000857> ;
-    skos:definition "Der Ecktisch ist auf Grund seiner Konstruktion - mit drei oder mehr Beinen, einer dreieckig ausgeformten Rückseite und einer dekorativ gestalteten Vorder- bzw. Schauseite - zur Aufstellung in einer Raumecke vorgesehen." ;
+    skos:definition "Der Ecktisch ist auf Grund seiner Konstruktion - mit drei oder mehr Beinen, einer dreieckig ausgeformten Rückseite und einer dekorativ gestalteten Vorder- bzw. Schauseite - zur Aufstellung in einer Raumecke vorgesehen."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Ecktisch"@de .
 
@@ -865,7 +865,7 @@
     dc:identifier "00000859" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000857> ;
-    skos:definition "Der Konsoltisch ist ein Halbtisch, der hinten mit der Wand verankert und vorne von Beinen abgestützt wird." ;
+    skos:definition "Der Konsoltisch ist ein Halbtisch, der hinten mit der Wand verankert und vorne von Beinen abgestützt wird."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Konsoltisch"@de .
 
@@ -878,7 +878,7 @@
     dc:identifier "00000860" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000857> ;
-    skos:definition "Der Wandklapptisch besteht aus einem an der Wand befestigten Brett, das mit Hilfe von Scharnieren zu klappen ist. In ausgeklapptem Zustand wird es durch einen Stützmechanismus gehalten." ;
+    skos:definition "Der Wandklapptisch besteht aus einem an der Wand befestigten Brett, das mit Hilfe von Scharnieren zu klappen ist. In ausgeklapptem Zustand wird es durch einen Stützmechanismus gehalten."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Wandklapptisch"@de .
 
@@ -892,7 +892,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Stirnwandtisch"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000831> ;
-    skos:definition "Das tragende Untergestell für die Tischplatte bilden beim Wangentisch zwei aufrecht stehende Brettflächen, die Wangen, die durch einen Quersteg miteinander verbunden sind." ;
+    skos:definition "Das tragende Untergestell für die Tischplatte bilden beim Wangentisch zwei aufrecht stehende Brettflächen, die Wangen, die durch einen Quersteg miteinander verbunden sind."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Wangentisch"@de .
 
@@ -906,7 +906,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Stollentisch"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000831> ;
-    skos:definition "Das Untergestell des Zargentisches wird aus vier Beinen und einem umlaufenden Zargenkranz gebildet. Die Zargen können in die Beine eingezapft sein oder sie sind von innen an dem Zargenkranz befestigt." ;
+    skos:definition "Das Untergestell des Zargentisches wird aus vier Beinen und einem umlaufenden Zargenkranz gebildet. Die Zargen können in die Beine eingezapft sein oder sie sind von innen an dem Zargenkranz befestigt."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000864> ;
     skos:prefLabel "Zargentisch"@de .
@@ -920,7 +920,7 @@
     dc:identifier "00000864" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000863> ;
-    skos:definition "Beim Ausziehtisch wird die Tischfläche durch Zug- und/oder andere Mechanismen vergrößert." ;
+    skos:definition "Beim Ausziehtisch wird die Tischfläche durch Zug- und/oder andere Mechanismen vergrößert."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000865> ;
     skos:prefLabel "Ausziehtisch"@de .
@@ -934,7 +934,7 @@
     dc:identifier "00000865" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000864> ;
-    skos:definition "Der Kulissentisch ist auf ein Mehrfaches - bei einigen Exemplaren bis auf das Achtfache - seiner Tischgröße verlängerbar. Beim Vergrößern werden die sogenannten Kulissen teleskopartig auseinander gezogen. Die dabei entstehenden Lücken werden mit einzelnen Tischplatten ausgefüllt, die in der Regel durch Zapfen verbunden sind." ;
+    skos:definition "Der Kulissentisch ist auf ein Mehrfaches - bei einigen Exemplaren bis auf das Achtfache - seiner Tischgröße verlängerbar. Beim Vergrößern werden die sogenannten Kulissen teleskopartig auseinander gezogen. Die dabei entstehenden Lücken werden mit einzelnen Tischplatten ausgefüllt, die in der Regel durch Zapfen verbunden sind."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Kulissentisch"@de .
 
@@ -970,7 +970,7 @@
         "Weinkühler"@de,
         "Wine Cooler"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000870> ;
-    skos:definition "Hauptsächliches Merkmal des Flaschenkühlers ist sein mit Blech ausgeschlagener Kasten, in dem Flaschen temperiert werden. Der Kasten kann in Fächer eingeteilt sein." ;
+    skos:definition "Hauptsächliches Merkmal des Flaschenkühlers ist sein mit Blech ausgeschlagener Kasten, in dem Flaschen temperiert werden. Der Kasten kann in Fächer eingeteilt sein."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Flaschenkühler"@de .
 
@@ -1008,7 +1008,7 @@
     dc:identifier "00000873" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000872> ;
-    skos:definition "Bei der Demilune handelt es sich um eine halbkreisförmige Kommode." ;
+    skos:definition "Bei der Demilune handelt es sich um eine halbkreisförmige Kommode."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Demilune"@de .
 
@@ -1023,7 +1023,7 @@
     skos:altLabel "Aufsatzkommode"@de,
         "Tallboy"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000872> ;
-    skos:definition "Die Doppelkommode ist zweiteilig gegliedert. Der obere Aufsatz, der zumeist zurückspringt, ist wie auch der untere Teil mit Schubladen versehen." ;
+    skos:definition "Die Doppelkommode ist zweiteilig gegliedert. Der obere Aufsatz, der zumeist zurückspringt, ist wie auch der untere Teil mit Schubladen versehen."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000875> ;
     skos:prefLabel "Doppelkommode"@de .
@@ -1037,7 +1037,7 @@
     dc:identifier "00000875" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000874> ;
-    skos:definition "Der kommodenartige Unterbau des Highboy, einem aus Amerika kommenden Möbeltyp, hat vier hohe Beine." ;
+    skos:definition "Der kommodenartige Unterbau des Highboy, einem aus Amerika kommenden Möbeltyp, hat vier hohe Beine."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Highboy"@de .
 
@@ -1050,7 +1050,7 @@
     dc:identifier "00000876" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000872> ;
-    skos:definition "Die Eckkommode ist eine Kommode, die für die Aufstellung in Raumecken gearbeitet ist." ;
+    skos:definition "Die Eckkommode ist eine Kommode, die für die Aufstellung in Raumecken gearbeitet ist."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Eckkommode"@de .
 
@@ -1068,7 +1068,7 @@
         "Schubladenschrank"@de,
         "Semainiere"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000872> ;
-    skos:definition "Die Pfeilerkommode ist eine schlanke Kommode mit mehr als zwei Schüben; ihre Höhe beträgt ein Mehrfaches der Breite. Die Bezeichnung Semainier (von französisch semaine = Woche) meint ursprünglich eine Pfeilerkommode mit sieben Schüben - für jeden Wochentag ein Wäschefach." ;
+    skos:definition "Die Pfeilerkommode ist eine schlanke Kommode mit mehr als zwei Schüben; ihre Höhe beträgt ein Mehrfaches der Breite. Die Bezeichnung Semainier (von französisch semaine = Woche) meint ursprünglich eine Pfeilerkommode mit sieben Schüben - für jeden Wochentag ein Wäschefach."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Pfeilerkommode"@de .
 
@@ -1083,7 +1083,7 @@
     skos:altLabel "Frisierkommode"@de,
         "Waschkommode"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000872> ;
-    skos:definition "Die Spiegelkommode besitzt einen aufgesetzten Spiegel, der entweder drehbar oder triptichonartig geteilt sein kann. Den oberen Kommodenabschluss bildet oft eine Marmorplatte." ;
+    skos:definition "Die Spiegelkommode besitzt einen aufgesetzten Spiegel, der entweder drehbar oder triptichonartig geteilt sein kann. Den oberen Kommodenabschluss bildet oft eine Marmorplatte."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Spiegelkommode"@de .
 
@@ -1096,7 +1096,7 @@
     dc:identifier "00000881" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000872> ;
-    skos:definition "Die Vitrinenkommode ist zweigliedrig: auf der Kommode steht ein vitrinenartiger Aufsatz." ;
+    skos:definition "Die Vitrinenkommode ist zweigliedrig: auf der Kommode steht ein vitrinenartiger Aufsatz."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Vitrinenkommode"@de .
 
@@ -1185,7 +1185,7 @@
     dc:identifier "00000887" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000883> ;
-    skos:definition "Der Aufbauschrank besteht aus mindestens zwei konstruktiv getrennten, formal ähnlichen Teilen, die aufeinander stehen." ;
+    skos:definition "Der Aufbauschrank besteht aus mindestens zwei konstruktiv getrennten, formal ähnlichen Teilen, die aufeinander stehen."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000888>,
         <http://www.museumsvokabular.de/museumvok/gefaess/00000889> ;
@@ -1201,7 +1201,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Fluchtschrank"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000887> ;
-    skos:definition "Der Brandschrank besteht aus mehreren getrennten, in sich geschlossenen (querrechteckigen kastenähnlichen) Elementen, mit frontseitigen Türen und seitlichen Handhaben. Im Gegensatz zum mehrgeschossigen Schrank fehlen gliedernde Teile wie Sockel, Zwischenzone und Kranz." ;
+    skos:definition "Der Brandschrank besteht aus mehreren getrennten, in sich geschlossenen (querrechteckigen kastenähnlichen) Elementen, mit frontseitigen Türen und seitlichen Handhaben. Im Gegensatz zum mehrgeschossigen Schrank fehlen gliedernde Teile wie Sockel, Zwischenzone und Kranz."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Brandschrank"@de .
 
@@ -1214,7 +1214,7 @@
     dc:identifier "00000889" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000887> ;
-    skos:definition "Im Gegensatz zum Brandschrank besitzen mehrgeschossige Schränke gliedernde Elemente wie Sockel oder Füße, Zwischenzonen und Kranz." ;
+    skos:definition "Im Gegensatz zum Brandschrank besitzen mehrgeschossige Schränke gliedernde Elemente wie Sockel oder Füße, Zwischenzonen und Kranz."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Mehrgeschossiger Schrank"@de .
 
@@ -1228,7 +1228,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Armoire à deux corps"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000883> ;
-    skos:definition "Der Aufsatzschrank besteht aus mindestens zwei übereinander angeordneten Teilen, wobei sich die Teile formal deutlich unterscheiden: Der obere Teil ist häufig eingezogen und/oder zurückgesetzt. Der untere Teil ähnelt häufig einer anderen Möbelform (Kommode, Anrichte, Tisch)." ;
+    skos:definition "Der Aufsatzschrank besteht aus mindestens zwei übereinander angeordneten Teilen, wobei sich die Teile formal deutlich unterscheiden: Der obere Teil ist häufig eingezogen und/oder zurückgesetzt. Der untere Teil ähnelt häufig einer anderen Möbelform (Kommode, Anrichte, Tisch)."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000891>,
         <http://www.museumsvokabular.de/museumvok/gefaess/00000893>,
@@ -1246,7 +1246,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Buffet"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000890> ;
-    skos:definition "Das Büffet hat ein meist mehrtüriges und querrechteckiges Unterteil, oft mit darüberliegenden Schubladen und zurückgesetztem Oberteil. Konstruktives Merkmal des Büffets ist die durch geschlossene Seitenteile gebildete Mittelnische." ;
+    skos:definition "Das Büffet hat ein meist mehrtüriges und querrechteckiges Unterteil, oft mit darüberliegenden Schubladen und zurückgesetztem Oberteil. Konstruktives Merkmal des Büffets ist die durch geschlossene Seitenteile gebildete Mittelnische."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Büffet"@de .
 
@@ -1259,7 +1259,7 @@
     dc:identifier "00000893" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000890> ;
-    skos:definition "Der Überbauschrank besteht aus einem zumeist zweitürigen Unterteil, das aufgesetzte Oberteil wird vorn durch zwei freistehende Stützen getragen." ;
+    skos:definition "Der Überbauschrank besteht aus einem zumeist zweitürigen Unterteil, das aufgesetzte Oberteil wird vorn durch zwei freistehende Stützen getragen."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Überbauschrank"@de .
 
@@ -1272,7 +1272,7 @@
     dc:identifier "00000894" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000890> ;
-    skos:definition "Das Unterteil der Windellade besteht aus einem vierschübigen Unterteil auf Kugelfüßen und einem kubischen, eintürigen Oberteil." ;
+    skos:definition "Das Unterteil der Windellade besteht aus einem vierschübigen Unterteil auf Kugelfüßen und einem kubischen, eintürigen Oberteil."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Windellade"@de .
 
@@ -1285,7 +1285,7 @@
     dc:identifier "00000898" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000883> ;
-    skos:definition "Der Blender ist ein Schrank, dessen äussere Form ein anderes Möbel vortäuscht." ;
+    skos:definition "Der Blender ist ein Schrank, dessen äussere Form ein anderes Möbel vortäuscht."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Blender"@de .
 
@@ -1300,7 +1300,7 @@
     skos:altLabel "Anrichteschrank"@de,
         "Dressur"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000883> ;
-    skos:definition "Der Dressoir ist ein hochrechteckiger zweigegliederter Schrank. Der untere Teil ist stets offen." ;
+    skos:definition "Der Dressoir ist ein hochrechteckiger zweigegliederter Schrank. Der untere Teil ist stets offen."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000906> ;
     skos:prefLabel "Dressoir"@de .
@@ -1314,7 +1314,7 @@
     dc:identifier "00000906" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000905> ;
-    skos:definition "Der Stollenschrank definiert sich durch durchgehende Stollen." ;
+    skos:definition "Der Stollenschrank definiert sich durch durchgehende Stollen."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Stollenschrank"@de .
 
@@ -1328,7 +1328,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Encoignure"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000883> ;
-    skos:definition "Der Eckschrank ist von seiner Konstruktion her zur Platzierung in einer Raumecke vorgesehen." ;
+    skos:definition "Der Eckschrank ist von seiner Konstruktion her zur Platzierung in einer Raumecke vorgesehen."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000908> ;
     skos:prefLabel "Eckschrank"@de .
@@ -1343,7 +1343,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Hörnschapp"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000907> ;
-    skos:definition "Der Hornschapp ist eine in Norddeutschland vorkommende Form des Eckschranks. Charakteristisch ist der quadratische Grundriss mit zwei Schauseiten." ;
+    skos:definition "Der Hornschapp ist eine in Norddeutschland vorkommende Form des Eckschranks. Charakteristisch ist der quadratische Grundriss mit zwei Schauseiten."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Hornschapp"@de .
 
@@ -1356,7 +1356,7 @@
     dc:identifier "00000914" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000883> ;
-    skos:definition "Der Giebelschrank ist ein massiv gearbeiteter Schrank mit einer oder zwei übereinander angeordneten schmalen Türen und einem Giebeldach." ;
+    skos:definition "Der Giebelschrank ist ein massiv gearbeiteter Schrank mit einer oder zwei übereinander angeordneten schmalen Türen und einem Giebeldach."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Giebelschrank"@de .
 
@@ -1370,7 +1370,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Fliegenschrank"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000883> ;
-    skos:definition "Der Gitterschrank weist an der Front und/oder den Seiten mit Gitterwerk versehene Öffnungen auf. Mit engmaschigem Gitter versehene Schränke werden als \"Fliegenschränke\" bezeichnet." ;
+    skos:definition "Der Gitterschrank weist an der Front und/oder den Seiten mit Gitterwerk versehene Öffnungen auf. Mit engmaschigem Gitter versehene Schränke werden als \"Fliegenschränke\" bezeichnet."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Gitterschrank"@de .
 
@@ -1383,7 +1383,7 @@
     dc:identifier "00000916" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000883> ;
-    skos:definition "Der Glasschrank ist ein Schrank, der formal in verschiedenen Typen ausgeführt sein kann. Charakteristisch ist die großflächige Verglasung." ;
+    skos:definition "Der Glasschrank ist ein Schrank, der formal in verschiedenen Typen ausgeführt sein kann. Charakteristisch ist die großflächige Verglasung."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000917>,
         <http://www.museumsvokabular.de/museumvok/gefaess/00000918> ;
@@ -1398,7 +1398,7 @@
     dc:identifier "00000917" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000916> ;
-    skos:definition "Charakteristisch sind beim Spiegelschrank die ein- oder aufgesetzten Spiegelflächen." ;
+    skos:definition "Charakteristisch sind beim Spiegelschrank die ein- oder aufgesetzten Spiegelflächen."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Spiegelschrank"@de .
 
@@ -1414,7 +1414,7 @@
         "Schauschrank"@de,
         "Vitrinenschrank"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000916> ;
-    skos:definition "Charakteristisch für die Vitrine sind durchsichtige Glasflächen." ;
+    skos:definition "Charakteristisch für die Vitrine sind durchsichtige Glasflächen."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Vitrine"@de .
 
@@ -1427,7 +1427,7 @@
     dc:identifier "00000919" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000883> ;
-    skos:definition "Der Halbschrank ist ein halbhoher, oft querrechteckiger Schrank." ;
+    skos:definition "Der Halbschrank ist ein halbhoher, oft querrechteckiger Schrank."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00002341> ;
     skos:prefLabel "Halbschrank"@de .
@@ -1441,7 +1441,7 @@
     dc:identifier "00000922" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000883> ;
-    skos:definition "Konstruktionsmerkmal des Hängeschranks sind die Aufhängevorrichtungen; er hat keine Erdberührung." ;
+    skos:definition "Konstruktionsmerkmal des Hängeschranks sind die Aufhängevorrichtungen; er hat keine Erdberührung."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Hängeschrank"@de .
 
@@ -1457,7 +1457,7 @@
         "Kunstschrank"@de,
         "Sammlungsschrank"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000883> ;
-    skos:definition "Das Kabinett besteht in der Regel aus einem tisch- oder kommondenähnlichen Unterteil und einem Aufsatz, dessen Inneneinrichtung sehr kleinteilig ist. Die Frontseite kann durch Türen oder eine Klappe verschlossen werden. Es gibt durch spezielle Einsätze ausgewiesene Sonderformen für festgelegte Nutzung, zum Beispiel Münz- oder Medaillenschränke. Frühe Typen des späten 16. und Stücke des 17. Jahrhunderts hatten keine Untergestelle und waren zum Aufstellen auf Tisch oder Truhe gedacht. Die Übergänge zum Schreibmöbel sind teilweise fließend." ;
+    skos:definition "Das Kabinett besteht in der Regel aus einem tisch- oder kommondenähnlichen Unterteil und einem Aufsatz, dessen Inneneinrichtung sehr kleinteilig ist. Die Frontseite kann durch Türen oder eine Klappe verschlossen werden. Es gibt durch spezielle Einsätze ausgewiesene Sonderformen für festgelegte Nutzung, zum Beispiel Münz- oder Medaillenschränke. Frühe Typen des späten 16. und Stücke des 17. Jahrhunderts hatten keine Untergestelle und waren zum Aufstellen auf Tisch oder Truhe gedacht. Die Übergänge zum Schreibmöbel sind teilweise fließend."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Kabinett"@de .
 
@@ -1471,7 +1471,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Eisschrank"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000883> ;
-    skos:definition "Der Kühlschrank ist ein zumeist eintüriger, oft halbhoher Schrank mit einem Fach für Eisblöcke. Nicht zu verwechseln mit dem Haushaltsgerät Kühl- bzw. Gefrierschrank!" ;
+    skos:definition "Der Kühlschrank ist ein zumeist eintüriger, oft halbhoher Schrank mit einem Fach für Eisblöcke. Nicht zu verwechseln mit dem Haushaltsgerät Kühl- bzw. Gefrierschrank!"@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Kühlschrank"@de .
 
@@ -1490,7 +1490,7 @@
         "Nachtspind"@de,
         "Nachttisch"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000883> ;
-    skos:definition "Das Nachtkästchen kann verschiedene Konstruktionsformen haben. Es definiert sich (eher) über seine Aufstellung neben dem Bett, mit dem es in der Regel ein Ensemble bildet." ;
+    skos:definition "Das Nachtkästchen kann verschiedene Konstruktionsformen haben. Es definiert sich (eher) über seine Aufstellung neben dem Bett, mit dem es in der Regel ein Ensemble bildet."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Nachtkästchen"@de .
 
@@ -1503,7 +1503,7 @@
     dc:identifier "00000936" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000883> ;
-    skos:definition "Normannischer Kleiderschrank ist eine der Schauspielerin Brigitte Bardot zugeschriebene Bezeichnung für den deutschen Schauspieler Curd Jürgens." ;
+    skos:definition "Normannischer Kleiderschrank ist eine der Schauspielerin Brigitte Bardot zugeschriebene Bezeichnung für den deutschen Schauspieler Curd Jürgens."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Normannischer Kleiderschrank"@de .
 
@@ -1519,7 +1519,7 @@
         "Schenkschieve"@de,
         "Schenkschiwe"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000883> ;
-    skos:definition "Die Schenkschive ist ein mindestens dreigeschossiger Schrank, dessen Mittelteil als Klapptür zu öffnen ist. Die namengebende Platte (Schive = Scheibe) diente zum Anrichten (Schenken) der Speisen und Getränke." ;
+    skos:definition "Die Schenkschive ist ein mindestens dreigeschossiger Schrank, dessen Mittelteil als Klapptür zu öffnen ist. Die namengebende Platte (Schive = Scheibe) diente zum Anrichten (Schenken) der Speisen und Getränke."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Schenkschive"@de .
 
@@ -1533,7 +1533,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Gießkalter"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000883> ;
-    skos:definition "Der Waschkasten ist ein hoher, schmaler Schrank. An seiner Rückwand ist ein Wasserbehälter befestigt und im Unterteil ein Ablaufbecken eingebaut." ;
+    skos:definition "Der Waschkasten ist ein hoher, schmaler Schrank. An seiner Rückwand ist ein Wasserbehälter befestigt und im Unterteil ein Ablaufbecken eingebaut."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Waschkasten"@de .
 
@@ -1546,7 +1546,7 @@
     dc:identifier "00000963" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000870> ;
-    skos:definition "Der Spucknapfbehälter ist ein Kasten, in den der Spucknapf aus Keramik oder Blech eingestellt wird; zuweilen besitzt er einen abnehmbaren Deckel" ;
+    skos:definition "Der Spucknapfbehälter ist ein Kasten, in den der Spucknapf aus Keramik oder Blech eingestellt wird; zuweilen besitzt er einen abnehmbaren Deckel"@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Spucknapfbehälter"@de .
 
@@ -1589,7 +1589,7 @@
     dc:identifier "00000967" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000964> ;
-    skos:definition "Die frühmittelalterliche Einbaumtruhe besteht aus einem ausgehöhlten Baumstamm und wird mit einem Flachdeckel verschlossen. Oft sind Einbaumtruhen mit Eisenbändern umlegt, die ein Auseinanderplatzen des Stammes verhindern sollen." ;
+    skos:definition "Die frühmittelalterliche Einbaumtruhe besteht aus einem ausgehöhlten Baumstamm und wird mit einem Flachdeckel verschlossen. Oft sind Einbaumtruhen mit Eisenbändern umlegt, die ein Auseinanderplatzen des Stammes verhindern sollen."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Einbaumtruhe"@de .
 
@@ -1603,7 +1603,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Cassone"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000964> ;
-    skos:definition "Die Kastentruhe besteht aus einem für sich geschlossenen Korpus, der zumeist auf Sockel, Kufen und/oder Füßen aufsitzt. Der Deckel ist entweder flach oder erhoben gestaltet." ;
+    skos:definition "Die Kastentruhe besteht aus einem für sich geschlossenen Korpus, der zumeist auf Sockel, Kufen und/oder Füßen aufsitzt. Der Deckel ist entweder flach oder erhoben gestaltet."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000973>,
         <http://www.museumsvokabular.de/museumvok/gefaess/00000974>,
@@ -1620,7 +1620,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Koffer"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000969> ;
-    skos:definition "Die Koffertruhe hat einen gewölbten Deckel und metallne Tragegriffe an den Seitenwänden. In der Regel ist die Wölbung des Deckels mit einem Zargenkranz verbunden." ;
+    skos:definition "Die Koffertruhe hat einen gewölbten Deckel und metallne Tragegriffe an den Seitenwänden. In der Regel ist die Wölbung des Deckels mit einem Zargenkranz verbunden."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Koffertruhe"@de .
 
@@ -1633,7 +1633,7 @@
     dc:identifier "00000974" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000969> ;
-    skos:definition "Bei der Kufentruhe sind seitlich unter dem Kastenboden als Kufen hochkant gestellte Hölzer angebracht, die meist über die Vorderwand hinaus vorstehen. Zwischen den Kufen ist an der Schauseite oft als Verblendung ein Brett montiert." ;
+    skos:definition "Bei der Kufentruhe sind seitlich unter dem Kastenboden als Kufen hochkant gestellte Hölzer angebracht, die meist über die Vorderwand hinaus vorstehen. Zwischen den Kufen ist an der Schauseite oft als Verblendung ein Brett montiert."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Kufentruhe"@de .
 
@@ -1662,7 +1662,7 @@
         "Frontstollentruhe"@de,
         "Pfostentruhe"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000964> ;
-    skos:definition "Die Stollentruhe besteht aus einem aus Stollen und Brettern zusammengefügten Korpus, bei der die nach unten verlängerten Stollen - entweder Bretter oder aber Pfosten aus Kanthölzern - gleichzeitig als Füße dienen." ;
+    skos:definition "Die Stollentruhe besteht aus einem aus Stollen und Brettern zusammengefügten Korpus, bei der die nach unten verlängerten Stollen - entweder Bretter oder aber Pfosten aus Kanthölzern - gleichzeitig als Füße dienen."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Stollentruhe"@de .
 
@@ -1729,7 +1729,7 @@
     dc:identifier "00000994" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000993> ;
-    skos:definition "Beim Aufsatzbett ist im Gegensatz zum Fußteil das Kopfteil deutlich erhöht durch einen stilistisch eigenständigen Aufsatz. Im Aufsatz kann eine kleine Verwahrlade eingebaut sein." ;
+    skos:definition "Beim Aufsatzbett ist im Gegensatz zum Fußteil das Kopfteil deutlich erhöht durch einen stilistisch eigenständigen Aufsatz. Im Aufsatz kann eine kleine Verwahrlade eingebaut sein."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Aufsatzbett"@de .
 
@@ -1743,7 +1743,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Ausziehbett"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000993> ;
-    skos:definition "Die Bettfläche des Auszugbettes ist durch einen ausziehbaren Teil zu vergrößern." ;
+    skos:definition "Die Bettfläche des Auszugbettes ist durch einen ausziehbaren Teil zu vergrößern."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000996>,
         <http://www.museumsvokabular.de/museumvok/gefaess/00000997>,
@@ -1759,7 +1759,7 @@
     dc:identifier "00000996" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000995> ;
-    skos:definition "Das Schiebebett besteht aus einem feststehenden Bett, dessen Bettfläche sich durch das Herausziehen einer Bettseite vergrößern lässt. Die Liegefläche bleibt auf einer Höhe." ;
+    skos:definition "Das Schiebebett besteht aus einem feststehenden Bett, dessen Bettfläche sich durch das Herausziehen einer Bettseite vergrößern lässt. Die Liegefläche bleibt auf einer Höhe."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Schiebebett"@de .
 
@@ -1773,7 +1773,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Rollbett"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000995> ;
-    skos:definition "Das Unterzugbett besteht aus einem feststehenden Bett, unter das ein zweiter herauszuziehender Bettkasten montiert ist. Die Liegeflächen sind unterschiedlich hoch." ;
+    skos:definition "Das Unterzugbett besteht aus einem feststehenden Bett, unter das ein zweiter herauszuziehender Bettkasten montiert ist. Die Liegeflächen sind unterschiedlich hoch."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Unterzugbett"@de .
 
@@ -1787,7 +1787,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Stockbett"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000993> ;
-    skos:definition "Das Etagenbett besteht aus zwei oder mehreren übereinander angebrachten Bettstellen." ;
+    skos:definition "Das Etagenbett besteht aus zwei oder mehreren übereinander angebrachten Bettstellen."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Etagenbett"@de .
 
@@ -1800,7 +1800,7 @@
     dc:identifier "00001001" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000993> ;
-    skos:definition "Mindestens eine Seite des Gitterbettes wird aus einem großflächigen Gitter gebildet. Von der Konstruktion her sind Gitterbetten zumeist Pfostenbetten. Es gibt jedoch viele Ausnahmen, darunter die zusammenfaltbaren Reisekinderbetten." ;
+    skos:definition "Mindestens eine Seite des Gitterbettes wird aus einem großflächigen Gitter gebildet. Von der Konstruktion her sind Gitterbetten zumeist Pfostenbetten. Es gibt jedoch viele Ausnahmen, darunter die zusammenfaltbaren Reisekinderbetten."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Gitterbett"@de .
 
@@ -1844,7 +1844,7 @@
     dc:identifier "00001004" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000993> ;
-    skos:definition "Das Kastenbett besteht aus einem für sich gearbeiteten Bettkasten, der auf Füßen, Sockeln oder Kufen aufsitzt." ;
+    skos:definition "Das Kastenbett besteht aus einem für sich gearbeiteten Bettkasten, der auf Füßen, Sockeln oder Kufen aufsitzt."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001005> ;
     skos:prefLabel "Kastenbett"@de .
@@ -1860,7 +1860,7 @@
     skos:altLabel "Betttruhe"@de,
         "Sittel"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001004> ;
-    skos:definition "Der Bettkasten des Truhenbettes besitzt einen aufklappbaren Deckel; im geschlossenen Zustand gleicht das Bett einer Truhe." ;
+    skos:definition "Der Bettkasten des Truhenbettes besitzt einen aufklappbaren Deckel; im geschlossenen Zustand gleicht das Bett einer Truhe."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Truhenbett"@de .
 
@@ -1874,7 +1874,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Schrankbett"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000993> ;
-    skos:definition "Das Klappbett ist ein wandständiges hochklappbares Bett. Durch die es umgebenden Möbelblenden sieht es wie ein Schrank- oder Regalmöbel aus." ;
+    skos:definition "Das Klappbett ist ein wandständiges hochklappbares Bett. Durch die es umgebenden Möbelblenden sieht es wie ein Schrank- oder Regalmöbel aus."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Klappbett"@de .
 
@@ -1887,7 +1887,7 @@
     dc:identifier "00001008" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000993> ;
-    skos:definition "Das Bett besteht komplett aus Weiden-, Peddigrohr-, Bambus- oder anderem Geflecht." ;
+    skos:definition "Das Bett besteht komplett aus Weiden-, Peddigrohr-, Bambus- oder anderem Geflecht."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Korbbett"@de .
 
@@ -1900,7 +1900,7 @@
     dc:identifier "00001009" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000993> ;
-    skos:definition "Vier aus Hölzern verzapfte Rahmen zwischen den vier Eckpfosten bilden die Seiten des Rahmenbettes. Die Zwischenräume in den Rahmen sind mit Flechtwerk oder mit Holzplatten gefüllt." ;
+    skos:definition "Vier aus Hölzern verzapfte Rahmen zwischen den vier Eckpfosten bilden die Seiten des Rahmenbettes. Die Zwischenräume in den Rahmen sind mit Flechtwerk oder mit Holzplatten gefüllt."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Rahmenbett"@de .
 
@@ -1913,7 +1913,7 @@
     dc:identifier "00001010" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000993> ;
-    skos:definition "Das Stapelbett ist so konstruiert, dass beim Übereinanderstapeln zweier oder mehrerer Betten deren Rahmen ineinander greifen." ;
+    skos:definition "Das Stapelbett ist so konstruiert, dass beim Übereinanderstapeln zweier oder mehrerer Betten deren Rahmen ineinander greifen."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Stapelbett"@de .
 
@@ -1926,7 +1926,7 @@
     dc:identifier "00001014" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000992> ;
-    skos:definition "Die Liege ist ein flaches, einfaches und schmales Liegemöbel. Ihre Liegefläche besteht entweder aus textiler Bespannung oder ist gepolstert ausgeführt." ;
+    skos:definition "Die Liege ist ein flaches, einfaches und schmales Liegemöbel. Ihre Liegefläche besteht entweder aus textiler Bespannung oder ist gepolstert ausgeführt."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001015>,
         <http://www.museumsvokabular.de/museumvok/gefaess/00002404> ;
@@ -1944,7 +1944,7 @@
         "Reisebett"@de,
         "Spannbett"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001014> ;
-    skos:definition "Das Feldbett ist eine zusammenlegbare und damit leicht transportable Liege." ;
+    skos:definition "Das Feldbett ist eine zusammenlegbare und damit leicht transportable Liege."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Feldbett"@de .
 
@@ -1957,7 +1957,7 @@
     dc:identifier "00001016" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000992> ;
-    skos:definition "Unter einer Pritsche versteht man eine harte, schmale Liegestätte; zumeist ist sie ein Holzgestell." ;
+    skos:definition "Unter einer Pritsche versteht man eine harte, schmale Liegestätte; zumeist ist sie ein Holzgestell."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Pritsche"@de .
 
@@ -1993,7 +1993,7 @@
     dc:identifier "00001018" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001017> ;
-    skos:definition "Der Korpus der Hängewiege ist an Seilen, Ketten oder anderen Vorrichtungen aufgehängt." ;
+    skos:definition "Der Korpus der Hängewiege ist an Seilen, Ketten oder anderen Vorrichtungen aufgehängt."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001019>,
         <http://www.museumsvokabular.de/museumvok/gefaess/00001020>,
@@ -2013,7 +2013,7 @@
     dc:identifier "00001019" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001018> ;
-    skos:definition "Baumwiegen sind an einem Baumast aufgehängte Wiegen." ;
+    skos:definition "Baumwiegen sind an einem Baumast aufgehängte Wiegen."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Baumwiege"@de .
 
@@ -2028,7 +2028,7 @@
     skos:altLabel "Faust-Wiege"@de,
         "Perpendikulärwiege"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001018> ;
-    skos:definition "Die Fahrstuhlwiege ist eine Kombination aus Gestellhänge- und Federwiege. Der Wiegenkorpus bewegt sich ausschließlich vertikal; horizontales Schwingen wird durch Führungsblöcke am Wiegenkorpus, die die Pfosten umfassen, verhindert." ;
+    skos:definition "Die Fahrstuhlwiege ist eine Kombination aus Gestellhänge- und Federwiege. Der Wiegenkorpus bewegt sich ausschließlich vertikal; horizontales Schwingen wird durch Führungsblöcke am Wiegenkorpus, die die Pfosten umfassen, verhindert."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Fahrstuhlwiege"@de .
 
@@ -2041,7 +2041,7 @@
     dc:identifier "00001022" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001018> ;
-    skos:definition "Die Feldwiege hängt an einem mobilen Gestell. Die Aufhängevorrichtung besteht entweder aus drei pyramidal zusammengestellten Stangen oder aus zwei in die Erde gestoßenen Stangen mit Gabeln am oberen Ende, über die eine Querstange gelegt wird." ;
+    skos:definition "Die Feldwiege hängt an einem mobilen Gestell. Die Aufhängevorrichtung besteht entweder aus drei pyramidal zusammengestellten Stangen oder aus zwei in die Erde gestoßenen Stangen mit Gabeln am oberen Ende, über die eine Querstange gelegt wird."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Feldwiege"@de .
 
@@ -2055,7 +2055,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Ständerwiege"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001018> ;
-    skos:definition "Der Wiegenkorpus ist in ein feststehendes Gestell eingehängt." ;
+    skos:definition "Der Wiegenkorpus ist in ein feststehendes Gestell eingehängt."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Gestellhängewiege"@de .
 
@@ -2068,7 +2068,7 @@
     dc:identifier "00001024" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001018> ;
-    skos:definition "Diese Hängewiege hat die Form einer Hängematte. Häufig ist sie aus Bast geflochten." ;
+    skos:definition "Diese Hängewiege hat die Form einer Hängematte. Häufig ist sie aus Bast geflochten."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Hängemattenwiege"@de .
 
@@ -2082,7 +2082,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Wippwiege"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001018> ;
-    skos:definition "Diese Hängewiege pendelt am Ende einer elastischen Stange." ;
+    skos:definition "Diese Hängewiege pendelt am Ende einer elastischen Stange."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Wippstangenwiege"@de .
 
@@ -2095,7 +2095,7 @@
     dc:identifier "00001026" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001017> ;
-    skos:definition "Der Wiegenkorpus ist auf quer oder längs schaukelnden Kufen montiert." ;
+    skos:definition "Der Wiegenkorpus ist auf quer oder längs schaukelnden Kufen montiert."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001027>,
         <http://www.museumsvokabular.de/museumvok/gefaess/00001028>,
@@ -2111,7 +2111,7 @@
     dc:identifier "00001027" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001026> ;
-    skos:definition "Der Wiegenkorpus kann auf den Schaukelkufen gedreht werden, so dass sowohl ein Quer- als auch ein Längsschaukeln möglich ist." ;
+    skos:definition "Der Wiegenkorpus kann auf den Schaukelkufen gedreht werden, so dass sowohl ein Quer- als auch ein Längsschaukeln möglich ist."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Doppelschwinger"@de .
 
@@ -2124,7 +2124,7 @@
     dc:identifier "00001028" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001026> ;
-    skos:definition "Die Schaukelstufen sind parallel zu den Längsseiten montiert." ;
+    skos:definition "Die Schaukelstufen sind parallel zu den Längsseiten montiert."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Längsschwinger"@de .
 
@@ -2137,7 +2137,7 @@
     dc:identifier "00001029" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001026> ;
-    skos:definition "Die Schaukelkufen sind parallel zum Kopf- und zum Fußende montiert." ;
+    skos:definition "Die Schaukelkufen sind parallel zum Kopf- und zum Fußende montiert."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Querschwinger"@de .
 
@@ -2178,7 +2178,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "PC-Tisch"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001034> ;
-    skos:definition "Der Computertisch ist mit Ablagen in verschiedenen, auf eine ergonomische Arbeitshaltung abgestimmten Höhen versehen. Die höchste Ablage ist in Sichthöhe für den Monitor vorgesehen; auf Arbeitshöhe ist eine, zuweilen zwei zumeist ausziehbare (Platte(n) für die Tastatur und Maus angebracht. Drucker-, Rechner- und/oder Scannerablage(n) befinden sich darunter, zuweilen auch über dem Monitor." ;
+    skos:definition "Der Computertisch ist mit Ablagen in verschiedenen, auf eine ergonomische Arbeitshaltung abgestimmten Höhen versehen. Die höchste Ablage ist in Sichthöhe für den Monitor vorgesehen; auf Arbeitshöhe ist eine, zuweilen zwei zumeist ausziehbare (Platte(n) für die Tastatur und Maus angebracht. Drucker-, Rechner- und/oder Scannerablage(n) befinden sich darunter, zuweilen auch über dem Monitor."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Computertisch"@de .
 
@@ -2191,7 +2191,7 @@
     dc:identifier "00001036" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001034> ;
-    skos:definition "Der Patentsekretär besteht aus einem hochkant gestellten flachen Kasten auf einem Untergestell. Die Vorderfläche des Kastens ist als Schreibklappe gearbeitet. Im Kasten können sich Fächer und Schübe befinden." ;
+    skos:definition "Der Patentsekretär besteht aus einem hochkant gestellten flachen Kasten auf einem Untergestell. Die Vorderfläche des Kastens ist als Schreibklappe gearbeitet. Im Kasten können sich Fächer und Schübe befinden."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Patentsekretär"@de .
 
@@ -2204,7 +2204,7 @@
     dc:identifier "00001037" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001034> ;
-    skos:definition "Das Reisepult ist ein kleines transportables Schreibmöbel." ;
+    skos:definition "Das Reisepult ist ein kleines transportables Schreibmöbel."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Reisepult"@de .
 
@@ -2219,7 +2219,7 @@
     skos:altLabel "Rollladensekretär"@de,
         "Schreibtisch mit Rollverschluss"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001034> ;
-    skos:definition "Wesentliches Erkennungszeichen des Rollsekretärs ist der aus Lamellen hergestellte Rolladenverschluss, der die Schreibfläche in geschlossenem Zustand überwölbt. Bei den meisten Rollsekretären kann die Schreibfläche herausgezogen werden. Es gibt unterschiedliche Ausführungen, z. B. Rollsekretäre mit kommoden- oder schrankartigem Unterbau oder mit unterschiedlich gestaltetem Aufsatz." ;
+    skos:definition "Wesentliches Erkennungszeichen des Rollsekretärs ist der aus Lamellen hergestellte Rolladenverschluss, der die Schreibfläche in geschlossenem Zustand überwölbt. Bei den meisten Rollsekretären kann die Schreibfläche herausgezogen werden. Es gibt unterschiedliche Ausführungen, z. B. Rollsekretäre mit kommoden- oder schrankartigem Unterbau oder mit unterschiedlich gestaltetem Aufsatz."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Rollsekretär"@de .
 
@@ -2257,7 +2257,7 @@
     dc:identifier "00001042" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001034> ;
-    skos:definition "Hauptsächliche Kontruktionsmerkmale des Schreibpultes sind die schräggestellte Schreibfläche und die Ablagefläche für Schreibutensilien." ;
+    skos:definition "Hauptsächliche Kontruktionsmerkmale des Schreibpultes sind die schräggestellte Schreibfläche und die Ablagefläche für Schreibutensilien."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001043>,
         <http://www.museumsvokabular.de/museumvok/gefaess/00001044>,
@@ -2273,7 +2273,7 @@
     dc:identifier "00001043" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001042> ;
-    skos:definition "Der Davenport ist zweigegliedert: Die aufklappbare Schreibfläche bildet das Oberteil zu einem kommodenähnlichen Unterteil. Es ist mit seitlichen Schubladen bzw. Türen und symmetrisch gegenüberliegenden Blindschubladen bzw. -türen versehen und steht häufig auf Rollen." ;
+    skos:definition "Der Davenport ist zweigegliedert: Die aufklappbare Schreibfläche bildet das Oberteil zu einem kommodenähnlichen Unterteil. Es ist mit seitlichen Schubladen bzw. Türen und symmetrisch gegenüberliegenden Blindschubladen bzw. -türen versehen und steht häufig auf Rollen."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Davenport"@de .
 
@@ -2286,7 +2286,7 @@
     dc:identifier "00001044" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001042> ;
-    skos:definition "Im Gegensatz zum Stehpult ist der Pultsekretär wesentlich breiter als tief. Die Schreibfläche ist etwa in Tischhöhe angebracht, so dass im Sitzen geschrieben werden kann." ;
+    skos:definition "Im Gegensatz zum Stehpult ist der Pultsekretär wesentlich breiter als tief. Die Schreibfläche ist etwa in Tischhöhe angebracht, so dass im Sitzen geschrieben werden kann."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00002421> ;
     skos:prefLabel "Pultsekretär"@de .
@@ -2300,7 +2300,7 @@
     dc:identifier "00001045" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001042> ;
-    skos:definition "Das Stehpult ist ein hohes Schreibpult, dessen Schreibfläche deutlich über Tischhöhe angebracht ist. Es kann daher nur im Stehen gearbeitet werden. Das Tiefenmaß des Möbels ist unwesentlich kleiner als das Breitenmaß. In der Regel ist das Stehpult in Stollenbauweise gefertigt. Die Schreibfläche dient oft als Klappe zu einem Kasten." ;
+    skos:definition "Das Stehpult ist ein hohes Schreibpult, dessen Schreibfläche deutlich über Tischhöhe angebracht ist. Es kann daher nur im Stehen gearbeitet werden. Das Tiefenmaß des Möbels ist unwesentlich kleiner als das Breitenmaß. In der Regel ist das Stehpult in Stollenbauweise gefertigt. Die Schreibfläche dient oft als Klappe zu einem Kasten."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00002422> ;
     skos:prefLabel "Stehpult"@de .
@@ -2330,7 +2330,7 @@
     dc:identifier "00001050" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001049> ;
-    skos:definition "Das Bureau plat ist ein breiter Schreibtisch mit Zargenkranz und darin Schubladen, es kann mit Aufsatz versehen sein." ;
+    skos:definition "Das Bureau plat ist ein breiter Schreibtisch mit Zargenkranz und darin Schubladen, es kann mit Aufsatz versehen sein."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Bureau plat"@de .
 
@@ -2363,7 +2363,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Partner's desk"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001051> ;
-    skos:definition "Der Partnerschreibtisch hat zwei sich gegenüberliegende Arbeitsplätze. Die Schubladen der Piedestale sind von beiden Seiten ausziehbar." ;
+    skos:definition "Der Partnerschreibtisch hat zwei sich gegenüberliegende Arbeitsplätze. Die Schubladen der Piedestale sind von beiden Seiten ausziehbar."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Partnerschreibtisch"@de .
 
@@ -2397,7 +2397,7 @@
         "Sekretär à trois corps"@de,
         "Trisur"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001053> ;
-    skos:definition "Der Aufsatzsekretär besteht optisch aus drei Teilen: dem Unterbau, dem Mittelteil mit schräggestellter Schreibplatte und dem Aufsatz." ;
+    skos:definition "Der Aufsatzsekretär besteht optisch aus drei Teilen: dem Unterbau, dem Mittelteil mit schräggestellter Schreibplatte und dem Aufsatz."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001055> ;
     skos:prefLabel "Aufsatzsekretär"@de .
@@ -2411,7 +2411,7 @@
     dc:identifier "00001055" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001054> ;
-    skos:definition "Dieser Aufsatzsekretär besitzt einen tabernakelartigen Aufbau, für den eine Mitteltür und rechts und links davon mehrere übereinander angeordnete Schubläden charakteristisch sind." ;
+    skos:definition "Dieser Aufsatzsekretär besitzt einen tabernakelartigen Aufbau, für den eine Mitteltür und rechts und links davon mehrere übereinander angeordnete Schubläden charakteristisch sind."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Tabernakelsekretär"@de .
 
@@ -2425,7 +2425,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Eckschreibschrank"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001053> ;
-    skos:definition "Ecksekretäre sind in verschiedenen Ausführungen hergestellte Sekretäre zur Aufstellung in einer Raumecke." ;
+    skos:definition "Ecksekretäre sind in verschiedenen Ausführungen hergestellte Sekretäre zur Aufstellung in einer Raumecke."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Ecksekretär"@de .
 
@@ -2441,7 +2441,7 @@
         "Bureau à la cylindre"@de,
         "Zylinderbüro"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001034> ;
-    skos:definition "Wesentliches Erkennungsmerkmal des Zylinderbureaus ist der Viertelzylinder, der die Schreibfläche in geschlossenem Zustand überwölbt. Bei den meisten Zylinderbureaus kann die Schreibfläche herausgezogen werden, oftmals sind Schreibfläche und Zylinder mechanisch verbunden. Zylinderbureaus gibt es in unterschiedlichen Ausführungen, z. B. mit kommodenartigem Unterbau und/oder unterschiedlich gestaltetem Aufsatz." ;
+    skos:definition "Wesentliches Erkennungsmerkmal des Zylinderbureaus ist der Viertelzylinder, der die Schreibfläche in geschlossenem Zustand überwölbt. Bei den meisten Zylinderbureaus kann die Schreibfläche herausgezogen werden, oftmals sind Schreibfläche und Zylinder mechanisch verbunden. Zylinderbureaus gibt es in unterschiedlichen Ausführungen, z. B. mit kommodenartigem Unterbau und/oder unterschiedlich gestaltetem Aufsatz."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Zylinderbureau"@de .
 
@@ -2486,7 +2486,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Banquette"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001058> ;
-    skos:definition "Die mehrsitzige Fläche der Bank, die durch Wangen, Stützen, Pfosten oder eine Kastenkonstruktion getragen wird, ist deutlich breiter als tief. Die Bank kann mit Rücken- und/oder Armlehnen versehen sein. Die Konstruktion von Bänken aus Kunststoffen, Glas, Geflecht, Metallen, Papier/Pappe und/oder Textil differiert zuweilen; diese Bänke orientieren sich jedoch in der Regel an der tradierten Bank-Form. Eine Bank mit seitlichen Armlehnen wird \"Banquette\" genannt." ;
+    skos:definition "Die mehrsitzige Fläche der Bank, die durch Wangen, Stützen, Pfosten oder eine Kastenkonstruktion getragen wird, ist deutlich breiter als tief. Die Bank kann mit Rücken- und/oder Armlehnen versehen sein. Die Konstruktion von Bänken aus Kunststoffen, Glas, Geflecht, Metallen, Papier/Pappe und/oder Textil differiert zuweilen; diese Bänke orientieren sich jedoch in der Regel an der tradierten Bank-Form. Eine Bank mit seitlichen Armlehnen wird \"Banquette\" genannt."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001061>,
         <http://www.museumsvokabular.de/museumvok/gefaess/00001062>,
@@ -2512,7 +2512,7 @@
     dc:identifier "00001061" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001059> ;
-    skos:definition "Bei der Doppelbank sitzt man Rücken an Rücken. Eine mittelständige Lehne trennt zwei Sitzflächen voneinander." ;
+    skos:definition "Bei der Doppelbank sitzt man Rücken an Rücken. Eine mittelständige Lehne trennt zwei Sitzflächen voneinander."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Doppelbank"@de .
 
@@ -2525,7 +2525,7 @@
     dc:identifier "00001062" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001059> ;
-    skos:definition "Bei der Eckbank stehen die Sitzflächen abgewinkelt zueinander. Die Sitzflächen können in verschiedenen Winkeln aneinanderstoßen: im rechten Winkel (90°), in einem Winkel von 45° oder über eine eingesetzte trapezförmige Verbindung. Man sitzt einander zugewandt, im Gegensatz zur Winkelbank, bei der man sich voneinander abwendet." ;
+    skos:definition "Bei der Eckbank stehen die Sitzflächen abgewinkelt zueinander. Die Sitzflächen können in verschiedenen Winkeln aneinanderstoßen: im rechten Winkel (90°), in einem Winkel von 45° oder über eine eingesetzte trapezförmige Verbindung. Man sitzt einander zugewandt, im Gegensatz zur Winkelbank, bei der man sich voneinander abwendet."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Eckbank"@de .
 
@@ -2539,7 +2539,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Bierbank"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001059> ;
-    skos:definition "Die Tragekonstruktion (Beine, Wangen etc.) der Klappbank ist einklappbar." ;
+    skos:definition "Die Tragekonstruktion (Beine, Wangen etc.) der Klappbank ist einklappbar."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Klappbank"@de .
 
@@ -2553,7 +2553,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Klapplehnenbank"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001059> ;
-    skos:definition "Die Rückenlehne der Klapplehnbahnk kann auf die gegenüberliegende Längsseite der Sitzfläche geklappt werden." ;
+    skos:definition "Die Rückenlehne der Klapplehnbahnk kann auf die gegenüberliegende Längsseite der Sitzfläche geklappt werden."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Klapplehnbank"@de .
 
@@ -2566,7 +2566,7 @@
     dc:identifier "00001065" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001059> ;
-    skos:definition "Die Klavierbank ist lehnenlos und hat eine höhenverstellbarer Sitzfläche." ;
+    skos:definition "Die Klavierbank ist lehnenlos und hat eine höhenverstellbarer Sitzfläche."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Klavierbank"@de .
 
@@ -2580,7 +2580,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Sofabank"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001059> ;
-    skos:definition "Bei der Polsterbank ist die Sitzfläche gepolstert; Rückenlehne und Armlehnen können zusätzlich flach gepolstert sein. Die Übergänge zum Sofa sind fließend." ;
+    skos:definition "Bei der Polsterbank ist die Sitzfläche gepolstert; Rückenlehne und Armlehnen können zusätzlich flach gepolstert sein. Die Übergänge zum Sofa sind fließend."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00002428> ;
     skos:prefLabel "Polsterbank"@de .
@@ -2596,7 +2596,7 @@
     skos:altLabel "Banktruhe"@de,
         "Cassabanca"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001059> ;
-    skos:definition "Hauptkonstruktionsmerkmal der Truhenbank ist der querrechteckige Kasten, dessen Klappdeckel die Sitzfläche bildet. Die Truhenbank ist mit Rücken- und/oder Armlehne(n) versehen." ;
+    skos:definition "Hauptkonstruktionsmerkmal der Truhenbank ist der querrechteckige Kasten, dessen Klappdeckel die Sitzfläche bildet. Die Truhenbank ist mit Rücken- und/oder Armlehne(n) versehen."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00002431> ;
     skos:prefLabel "Truhenbank"@de .
@@ -2610,7 +2610,7 @@
     dc:identifier "00001069" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001059> ;
-    skos:definition "Die Bank ist fest an der Wand montiert." ;
+    skos:definition "Die Bank ist fest an der Wand montiert."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Wandbank"@de .
 
@@ -2624,7 +2624,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Ofenbank"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001059> ;
-    skos:definition "Die Sitzflächen sind bei der Winkelbank im Gegensatz zur Eckbank voneinander abgewandt. Die Sitzflächen können in verschiedenen Winkeln aneinander stoßen." ;
+    skos:definition "Die Sitzflächen sind bei der Winkelbank im Gegensatz zur Eckbank voneinander abgewandt. Die Sitzflächen können in verschiedenen Winkeln aneinander stoßen."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Winkelbank"@de .
 
@@ -2639,7 +2639,7 @@
     skos:altLabel "Lit de jour"@de,
         "Veilleuse"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001058> ;
-    skos:definition "Die Chaiselongue ist ein aus dem Sessel entwickeltes Möbel, das durch die Verlängerung der Sitzfläche eine halb sitzende, halb liegende Körperhaltung ermöglicht. Der Begriff ersetzte im späten 18. Jahrhundert den älteren Lit de jour." ;
+    skos:definition "Die Chaiselongue ist ein aus dem Sessel entwickeltes Möbel, das durch die Verlängerung der Sitzfläche eine halb sitzende, halb liegende Körperhaltung ermöglicht. Der Begriff ersetzte im späten 18. Jahrhundert den älteren Lit de jour."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Chaiselongue"@de .
 
@@ -2654,7 +2654,7 @@
     skos:altLabel "Schemel"@de,
         "Stabelle"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001058> ;
-    skos:definition "Der Hocker besteht aus einer Platte und einer oder mehreren Stütze(n) bzw. einem oder mehreren Stützbrett(ern), die diese tragen. Der Hocker hat keine Rückenlehne. Die Konstruktion von Hockern aus Kunststoffen, Glas, Geflecht, Metallen, Papier/Pappe und/Oder Textil differiert zuweilen; diese Hocker orientieren sich jedoch in der Regel an der tradierten Hocker-Form." ;
+    skos:definition "Der Hocker besteht aus einer Platte und einer oder mehreren Stütze(n) bzw. einem oder mehreren Stützbrett(ern), die diese tragen. Der Hocker hat keine Rückenlehne. Die Konstruktion von Hockern aus Kunststoffen, Glas, Geflecht, Metallen, Papier/Pappe und/Oder Textil differiert zuweilen; diese Hocker orientieren sich jedoch in der Regel an der tradierten Hocker-Form."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001074>,
         <http://www.museumsvokabular.de/museumvok/gefaess/00001075>,
@@ -2679,7 +2679,7 @@
     dc:identifier "00001074" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001072> ;
-    skos:definition "Das tragende Gestell des Bretthockers bilden entweder zwei oder mehr aufrecht stehende Brettflächen. Besteht die Stützkonstruktion nur aus zwei Bretter, so sind diese durch einen Quersteg miteinander verbunden." ;
+    skos:definition "Das tragende Gestell des Bretthockers bilden entweder zwei oder mehr aufrecht stehende Brettflächen. Besteht die Stützkonstruktion nur aus zwei Bretter, so sind diese durch einen Quersteg miteinander verbunden."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Bretthocker"@de .
 
@@ -2693,7 +2693,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Klavierhocker"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001072> ;
-    skos:definition "Der Drehhocker hat einen drehbaren Sitz, der in der Höhe (meist mit Spindel) verstellbar ist." ;
+    skos:definition "Der Drehhocker hat einen drehbaren Sitz, der in der Höhe (meist mit Spindel) verstellbar ist."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Drehhocker"@de .
 
@@ -2706,7 +2706,7 @@
     dc:identifier "00001076" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001072> ;
-    skos:definition "Der Falthocker hat eine Sitzfläche aus Textil, Leder, Kunststoff etc., die sich beim Zusammenklappen des Hockers zusammenfaltet." ;
+    skos:definition "Der Falthocker hat eine Sitzfläche aus Textil, Leder, Kunststoff etc., die sich beim Zusammenklappen des Hockers zusammenfaltet."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Falthocker"@de .
 
@@ -2719,7 +2719,7 @@
     dc:identifier "00001077" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001072> ;
-    skos:definition "Der Klapphocker - einschließlich der Sitzfläche - aus starren Konstruktionsteilen, die klappbar sind." ;
+    skos:definition "Der Klapphocker - einschließlich der Sitzfläche - aus starren Konstruktionsteilen, die klappbar sind."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Klapphocker"@de .
 
@@ -2733,7 +2733,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Rippenhocker"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001072> ;
-    skos:definition "Der Scherenhocker ist falt- oder klappbar. Seine Standkonstruktion besteht aus sich scherenartig kreuzenden, gitterartig angeordneten Leisten." ;
+    skos:definition "Der Scherenhocker ist falt- oder klappbar. Seine Standkonstruktion besteht aus sich scherenartig kreuzenden, gitterartig angeordneten Leisten."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Scherenhocker"@de .
 
@@ -2747,7 +2747,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Pfostenhocker"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001072> ;
-    skos:definition "Der Sprossenhocker hat senkrecht stehende Beine, die durch eine Rahmenkonstruktion aus Stäben ihre Stabilität erhalten. Die Sitzfläche ist in die Beine eingezapft." ;
+    skos:definition "Der Sprossenhocker hat senkrecht stehende Beine, die durch eine Rahmenkonstruktion aus Stäben ihre Stabilität erhalten. Die Sitzfläche ist in die Beine eingezapft."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Sprossenhocker"@de .
 
@@ -2762,7 +2762,7 @@
     skos:altLabel "Taburet"@de,
         "Taburett"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001072> ;
-    skos:definition "Das Tabouret ist ein gepolsterter Hocker." ;
+    skos:definition "Das Tabouret ist ein gepolsterter Hocker."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001081> ;
     skos:prefLabel "Tabouret"@de .
@@ -2779,7 +2779,7 @@
         "Puff"@de,
         "Wäschepuff"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001080> ;
-    skos:definition "Der Pouf ist ein großes zylindrisches Tabouret, dessen Stützkonstruktion durch die langen und dicken Fransen der Polsterung verborgen wird. Mit integriertem Behälter wird er \"Wäschepuff\" genannt." ;
+    skos:definition "Der Pouf ist ein großes zylindrisches Tabouret, dessen Stützkonstruktion durch die langen und dicken Fransen der Polsterung verborgen wird. Mit integriertem Behälter wird er \"Wäschepuff\" genannt."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Pouf"@de .
 
@@ -2792,7 +2792,7 @@
     dc:identifier "00001082" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001072> ;
-    skos:definition "Durch Herausklappen von zwei bis drei Stufen, die zwischen den Beinen angebracht sind, wird der Treppenhocker in eine Trittleiter verwandelt. Oft wird der Sitz dabei zur oberen Stufe; bei gepolsterten Sitzen sind diese in der Regel hochzuklappen." ;
+    skos:definition "Durch Herausklappen von zwei bis drei Stufen, die zwischen den Beinen angebracht sind, wird der Treppenhocker in eine Trittleiter verwandelt. Oft wird der Sitz dabei zur oberen Stufe; bei gepolsterten Sitzen sind diese in der Regel hochzuklappen."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Treppenhocker"@de .
 
@@ -2805,7 +2805,7 @@
     dc:identifier "00001084" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001072> ;
-    skos:definition "Der Zargenhocker hat die Konstruktionsmerkmale des Zargenstuhls; es fehlt jedoch die Lehne." ;
+    skos:definition "Der Zargenhocker hat die Konstruktionsmerkmale des Zargenstuhls; es fehlt jedoch die Lehne."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Zargenhocker"@de .
 
@@ -2818,7 +2818,7 @@
     dc:identifier "00001085" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001058> ;
-    skos:definition "Das Indiscret ist ein Sitzmöbel mit drei Plätzen, die dreipassförmig angeordnet sind. Dieser Möbeltypus kann sowohl flach als auch voll gepolstert sein." ;
+    skos:definition "Das Indiscret ist ein Sitzmöbel mit drei Plätzen, die dreipassförmig angeordnet sind. Dieser Möbeltypus kann sowohl flach als auch voll gepolstert sein."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Indiscret"@de .
 
@@ -2836,7 +2836,7 @@
         "Kastenstuhl"@de,
         "Truhensitz"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001058> ;
-    skos:definition "Hauptkonstruktionsmerkmal des Kastensitzes ist der Kasten unter der Sitzfläche. Wenn er mit einem Klappdeckel versehen ist, kann der Kasten als Behältnis benutzt werden. Er kann mit Rückenlehne und/oder Armlehnen versehen sein." ;
+    skos:definition "Hauptkonstruktionsmerkmal des Kastensitzes ist der Kasten unter der Sitzfläche. Wenn er mit einem Klappdeckel versehen ist, kann der Kasten als Behältnis benutzt werden. Er kann mit Rückenlehne und/oder Armlehnen versehen sein."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001087> ;
     skos:prefLabel "Kastensitz"@de .
@@ -2851,7 +2851,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Truhensitz"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001086> ;
-    skos:definition "Die Chayère ist ein Kastensitz mit niedriger Rückenlehne." ;
+    skos:definition "Die Chayère ist ein Kastensitz mit niedriger Rückenlehne."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Chayère"@de .
 
@@ -2866,7 +2866,7 @@
     skos:altLabel "Kniesitzstuhl"@de,
         "Kniestuhl"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001058> ;
-    skos:definition "Der Kniesitz ist ein gepolsterter Hocker oder Stuhl, bei dem der Sitzende zur Entlastung der Wirbelsäule auf Polstern knieen kann." ;
+    skos:definition "Der Kniesitz ist ein gepolsterter Hocker oder Stuhl, bei dem der Sitzende zur Entlastung der Wirbelsäule auf Polstern knieen kann."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Kniesitz"@de .
 
@@ -2879,7 +2879,7 @@
     dc:identifier "00001089" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001058> ;
-    skos:definition "Der Korbsessel besteht aus Weiden-, Rohr- oder anderem Geflecht. Er ist oft schalenförmig mit meist rundem Standring. Anders als der Sessel muss der Korbsessel keine Polster haben." ;
+    skos:definition "Der Korbsessel besteht aus Weiden-, Rohr- oder anderem Geflecht. Er ist oft schalenförmig mit meist rundem Standring. Anders als der Sessel muss der Korbsessel keine Polster haben."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Korbsessel"@de .
 
@@ -2893,7 +2893,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Fauteuil"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001058> ;
-    skos:definition "Der Sessel ist im Gegensatz zum Polsterstuhl immer mit gepolsterter Sitzfläche und gepolsterter Rückenlehne und zumeist mit Armlehnen ausgestattet. Er ist einsitzig und hat meist eine geringere Sitzhöhe als ein Stuhl." ;
+    skos:definition "Der Sessel ist im Gegensatz zum Polsterstuhl immer mit gepolsterter Sitzfläche und gepolsterter Rückenlehne und zumeist mit Armlehnen ausgestattet. Er ist einsitzig und hat meist eine geringere Sitzhöhe als ein Stuhl."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001091>,
         <http://www.museumsvokabular.de/museumvok/gefaess/00001092>,
@@ -2914,7 +2914,7 @@
     dc:identifier "00001091" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001090> ;
-    skos:definition "Beim Ausziehsessel besteht die Sitzfläche des Sessels aus einem zweiteiligen Polster. Um es in eine Liegestätte zu verwandeln, wird die gesamte Sitzfläche herausgezogen und ein Polster umgeklappt." ;
+    skos:definition "Beim Ausziehsessel besteht die Sitzfläche des Sessels aus einem zweiteiligen Polster. Um es in eine Liegestätte zu verwandeln, wird die gesamte Sitzfläche herausgezogen und ein Polster umgeklappt."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Ausziehsessel"@de .
 
@@ -2928,7 +2928,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Confident"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001090> ;
-    skos:definition "Bei der Bergère sind die Armlehnen geschlossen und aus einem Stück. Die häufig geschweifte Rückenlehne reicht bis zum Sitz hinunter. Charakteristisch ist die zusätzliche Polsterung des Sitzes durch ein aufgelegtes Kissen. Die Bergère ist besonders breit gebaut, daher sind die Übergänge zum Sofa fließend." ;
+    skos:definition "Bei der Bergère sind die Armlehnen geschlossen und aus einem Stück. Die häufig geschweifte Rückenlehne reicht bis zum Sitz hinunter. Charakteristisch ist die zusätzliche Polsterung des Sitzes durch ein aufgelegtes Kissen. Die Bergère ist besonders breit gebaut, daher sind die Übergänge zum Sofa fließend."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001093>,
         <http://www.museumsvokabular.de/museumvok/gefaess/00001094>,
@@ -2944,7 +2944,7 @@
     dc:identifier "00001093" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001092> ;
-    skos:definition "Die Rückenlehne der Bergère à oreilles hat ausgeprägte Ohrbacken." ;
+    skos:definition "Die Rückenlehne der Bergère à oreilles hat ausgeprägte Ohrbacken."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Bergère à Oreilles"@de .
 
@@ -2957,7 +2957,7 @@
     dc:identifier "00001094" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001092> ;
-    skos:definition "Die Chaffeuse ist eine Bergère mit sehr niedriger Rückenlehne." ;
+    skos:definition "Die Chaffeuse ist eine Bergère mit sehr niedriger Rückenlehne."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Chaffeuse"@de .
 
@@ -2972,7 +2972,7 @@
     skos:altLabel "Faulenzer"@de,
         "Fernsehsessel"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001090> ;
-    skos:definition "Der Klappsessel ist ein Sessel mit verstellbarer Rückenlehne; er kann auch eine herausklappbare Auflage für die Beine haben." ;
+    skos:definition "Der Klappsessel ist ein Sessel mit verstellbarer Rückenlehne; er kann auch eine herausklappbare Auflage für die Beine haben."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Klappsessel"@de .
 
@@ -2986,7 +2986,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Ohrbackensessel"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001090> ;
-    skos:definition "Die Rückenlehne ist hochgezogen und hat ausgeprägte Ohrbacken." ;
+    skos:definition "Die Rückenlehne ist hochgezogen und hat ausgeprägte Ohrbacken."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Ohrensessel"@de .
 
@@ -2999,7 +2999,7 @@
     dc:identifier "00001099" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001090> ;
-    skos:definition "Der Schaukelsessel steht auf gebogenen Kufen, die das Schaukeln ermöglichen. Bei einer weiteren Variante sitzt ein schaukelbarer Sessel auf festem Untergestell." ;
+    skos:definition "Der Schaukelsessel steht auf gebogenen Kufen, die das Schaukeln ermöglichen. Bei einer weiteren Variante sitzt ein schaukelbarer Sessel auf festem Untergestell."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Schaukelsessel"@de .
 
@@ -3012,7 +3012,7 @@
     dc:identifier "00001100" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001090> ;
-    skos:definition "Beim Schlafsessel wird der obere Teil der Sitzfläche herausgeklappt und bildet mit dem unteren Teil die Liegefläche." ;
+    skos:definition "Beim Schlafsessel wird der obere Teil der Sitzfläche herausgeklappt und bildet mit dem unteren Teil die Liegefläche."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Schlafsessel"@de .
 
@@ -3026,7 +3026,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Gymnastikball"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001058> ;
-    skos:definition "Der Sitzball ist ein luftgefüllter Kunststoffball, der dynamisches Sitzen ermöglicht." ;
+    skos:definition "Der Sitzball ist ein luftgefüllter Kunststoffball, der dynamisches Sitzen ermöglicht."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Sitzball"@de .
 
@@ -3039,7 +3039,7 @@
     dc:identifier "00001102" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001058> ;
-    skos:definition "Das Sitzkissen ist ein meist zylindrisch geformtes Bodenkissen, das aus Leder, Stoff oder Kunststoff hergestellt sein kann und eine festgestopfte Füllung besitzt." ;
+    skos:definition "Das Sitzkissen ist ein meist zylindrisch geformtes Bodenkissen, das aus Leder, Stoff oder Kunststoff hergestellt sein kann und eine festgestopfte Füllung besitzt."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Sitzkissen"@de .
 
@@ -3053,7 +3053,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Sacco"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001058> ;
-    skos:definition "Der mit Kunststoffkugeln gefüllte Sitzsack passt sich beim Sitzen der Körperform an." ;
+    skos:definition "Der mit Kunststoffkugeln gefüllte Sitzsack passt sich beim Sitzen der Körperform an."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Sitzsack"@de .
 
@@ -3071,7 +3071,7 @@
         "Diwan"@de,
         "Kanapee"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001058> ;
-    skos:definition "Das Sofa ist im Gegensatz zum Sessel mehrsitzig und hat sowohl eine gepolsterte Sitzfläche als auch eine gepolsterte Rückenlehne. Das Sofa kann auch Armlehnen haben, die ebenfalls gepolstert sein können. Die Übergänge zur Polsterbank sind fließend." ;
+    skos:definition "Das Sofa ist im Gegensatz zum Sessel mehrsitzig und hat sowohl eine gepolsterte Sitzfläche als auch eine gepolsterte Rückenlehne. Das Sofa kann auch Armlehnen haben, die ebenfalls gepolstert sein können. Die Übergänge zur Polsterbank sind fließend."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001105>,
         <http://www.museumsvokabular.de/museumvok/gefaess/00001106>,
@@ -3091,7 +3091,7 @@
     dc:identifier "00001105" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001104> ;
-    skos:definition "Beim Ausziehsofa besteht die Sitzfläche des Sofas aus einem zwei- oder einem einteiligen Polster. Um es in eine Liegestätte zu verwandeln, wird die gesamte Sitzfläche herausgezogen. Bei der einen Variante wird eines der beiden Polster, bei der zweiten Variante die Rückenlehne umgeklappt. Oft ist ein Bettkasten integriert." ;
+    skos:definition "Beim Ausziehsofa besteht die Sitzfläche des Sofas aus einem zwei- oder einem einteiligen Polster. Um es in eine Liegestätte zu verwandeln, wird die gesamte Sitzfläche herausgezogen. Bei der einen Variante wird eines der beiden Polster, bei der zweiten Variante die Rückenlehne umgeklappt. Oft ist ein Bettkasten integriert."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Ausziehsofa"@de .
 
@@ -3104,7 +3104,7 @@
     dc:identifier "00001106" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001104> ;
-    skos:definition "Beim Klappsofa ist der obere Teil der Sitzfläche ein- oder zweiteilig. Er wird herausgeklappt und bildet mit dem unteren Teil eine Liegefläche. Bei einer anderen Variante des Klappsofas liegen die Sitzkissen lose auf dem herausklappbaren Liegeteil, das aus Sprungrahmen, zusammenfaltbarer Matratze und einklappbaren Beinen besteht. Bei einer dritten Variante sind die Armlehnen so herunter zu klappen, dass eine Liegefläche entsteht." ;
+    skos:definition "Beim Klappsofa ist der obere Teil der Sitzfläche ein- oder zweiteilig. Er wird herausgeklappt und bildet mit dem unteren Teil eine Liegefläche. Bei einer anderen Variante des Klappsofas liegen die Sitzkissen lose auf dem herausklappbaren Liegeteil, das aus Sprungrahmen, zusammenfaltbarer Matratze und einklappbaren Beinen besteht. Bei einer dritten Variante sind die Armlehnen so herunter zu klappen, dass eine Liegefläche entsteht."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Klappsofa"@de .
 
@@ -3118,7 +3118,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Stehhilfe"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001058> ;
-    skos:definition "Der Stehsitz ist eine Art Hocker mit hochgestellter Sitzfläche, der eine halb stehende, halb sitzende Position ermöglicht." ;
+    skos:definition "Der Stehsitz ist eine Art Hocker mit hochgestellter Sitzfläche, der eine halb stehende, halb sitzende Position ermöglicht."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Stehsitz"@de .
 
@@ -3131,7 +3131,7 @@
     dc:identifier "00001110" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001058> ;
-    skos:definition "Der Stuhl besteht aus einer Sitzfläche und einer oder mehreren Stütze(n) bzw. einem oder mehreren Stützbrett(ern), das/die diese(s) trägt/tragen. Der Stuhl hat immer eine Rückenlehne und kann auch Armlehnen haben. Die Konstruktion von Stühlen aus Kunststoffen, Glas, Geflecht, Metallen, Papier/Pappe und/oder Textil differiert zuweilen; diese Stühle orientieren sich jedoch in der Regel an der tradierten Stuhl-Form." ;
+    skos:definition "Der Stuhl besteht aus einer Sitzfläche und einer oder mehreren Stütze(n) bzw. einem oder mehreren Stützbrett(ern), das/die diese(s) trägt/tragen. Der Stuhl hat immer eine Rückenlehne und kann auch Armlehnen haben. Die Konstruktion von Stühlen aus Kunststoffen, Glas, Geflecht, Metallen, Papier/Pappe und/oder Textil differiert zuweilen; diese Stühle orientieren sich jedoch in der Regel an der tradierten Stuhl-Form."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001112>,
         <http://www.museumsvokabular.de/museumvok/gefaess/00001115>,
@@ -3176,7 +3176,7 @@
         "Kneipstuhl"@de,
         "Schabellen-Stuhl"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001110> ;
-    skos:definition "Beim Brettstuhl ist die Rückenlehne ein eigenständiges Element. Sie wird mit einem oder zwei Zapfen in den Sitz aus Vollholz gesteckt und verkeilt." ;
+    skos:definition "Beim Brettstuhl ist die Rückenlehne ein eigenständiges Element. Sie wird mit einem oder zwei Zapfen in den Sitz aus Vollholz gesteckt und verkeilt."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001113>,
         <http://www.museumsvokabular.de/museumvok/gefaess/00001114> ;
@@ -3191,7 +3191,7 @@
     dc:identifier "00001113" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001112> ;
-    skos:definition "Der Sgabello ist die italienische Variante des Brettstuhls; charakteristisch sind die Standbretter." ;
+    skos:definition "Der Sgabello ist die italienische Variante des Brettstuhls; charakteristisch sind die Standbretter."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Sgabello"@de .
 
@@ -3206,7 +3206,7 @@
     skos:altLabel "S-Stuhl"@de,
         "Zig Zag"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001112> ;
-    skos:definition "Der Zickzackstuhl hat keine Beine, sondern er besteht aus Brettern, die durch Schwalbenschwanzverbindungen spitz- bzw. rechtwinklig miteinander verzahnt sind." ;
+    skos:definition "Der Zickzackstuhl hat keine Beine, sondern er besteht aus Brettern, die durch Schwalbenschwanzverbindungen spitz- bzw. rechtwinklig miteinander verzahnt sind."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Zickzackstuhl"@de .
 
@@ -3222,7 +3222,7 @@
         "Kaffeehausstuhl"@de,
         "Thonet-Stuhl"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001110> ;
-    skos:definition "Der Bugholzstuhl besteht aus massiven Rundhölzern, die über Wasserdampf elastisch gemacht und in Stahlformen gebogen wurden. Die konstruktiven Einzelteile sind zumeist verschraubt. Der klassische Bugholzstuhl ist der sogenannte Thonet-Stuhl." ;
+    skos:definition "Der Bugholzstuhl besteht aus massiven Rundhölzern, die über Wasserdampf elastisch gemacht und in Stahlformen gebogen wurden. Die konstruktiven Einzelteile sind zumeist verschraubt. Der klassische Bugholzstuhl ist der sogenannte Thonet-Stuhl."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Bugholzstuhl"@de .
 
@@ -3235,7 +3235,7 @@
     dc:identifier "00001116" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001110> ;
-    skos:definition "Sitzfläche und Rückenlehne sind über einem festen Gestell drehbar gelagert." ;
+    skos:definition "Sitzfläche und Rückenlehne sind über einem festen Gestell drehbar gelagert."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Drehstuhl"@de .
 
@@ -3248,7 +3248,7 @@
     dc:identifier "00001118" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001110> ;
-    skos:definition "Die Sitzfläche des für eine Ecksituation geschaffenen Eckstuhls ist über Eck gestellt, ein Fuß ist frontal angebracht. Die Rückenlehne ist über Eck konstruiert." ;
+    skos:definition "Die Sitzfläche des für eine Ecksituation geschaffenen Eckstuhls ist über Eck gestellt, ein Fuß ist frontal angebracht. Die Rückenlehne ist über Eck konstruiert."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Eckstuhl"@de .
 
@@ -3265,7 +3265,7 @@
         "Perroquet"@de,
         "Regiestuhl"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001110> ;
-    skos:definition "Sitz- und Lehnenfläche sind beim Faltstuhl im Gegensatz zum Klappstuhl faltbar." ;
+    skos:definition "Sitz- und Lehnenfläche sind beim Faltstuhl im Gegensatz zum Klappstuhl faltbar."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001120> ;
     skos:prefLabel "Faltstuhl"@de .
@@ -3280,7 +3280,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Safaristuhl"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001119> ;
-    skos:definition "Beim Kolonialstuhl handelt es sich um einen zerlegbaren Faltstuhl." ;
+    skos:definition "Beim Kolonialstuhl handelt es sich um einen zerlegbaren Faltstuhl."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Kolonialstuhl"@de .
 
@@ -3294,7 +3294,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Kragstuhl"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001110> ;
-    skos:definition "Der Freischwinger ist vorder- oder hinterbeinlose Stuhl; sein Sitz kragt über die Kufenfüße." ;
+    skos:definition "Der Freischwinger ist vorder- oder hinterbeinlose Stuhl; sein Sitz kragt über die Kufenfüße."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001122> ;
     skos:prefLabel "Freischwinger"@de .
@@ -3308,7 +3308,7 @@
     dc:identifier "00001122" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001121> ;
-    skos:definition "Dieser Stuhl ist ein einbeiniger Freischwinger aus einem Rohrstück." ;
+    skos:definition "Dieser Stuhl ist ein einbeiniger Freischwinger aus einem Rohrstück."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Einschwinger"@de .
 
@@ -3322,7 +3322,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Hochstuhl"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001110> ;
-    skos:definition "Hauptkonstruktionsmerkmal des Kinderhochstuhls ist seine erhöhte Sitzfläche. Rückenlehne, Armlehnen, Fußrast, vorn angebrachter Bügel und gegebenfalls ein Schrittgurt bewahren das Kind vor dem Herausfallen. Zuweilen ist in den Sitz ein Töpfchen integriert. Eine Variante des Kinderhochstuhls besteht aus zwei Teilen, die einzeln als Stuhl und Tisch, ineinander gesteckt als Kinderhochstuhl verwendet werden. Bei einer weiteren Variante sind Tisch- und Stuhlelement durch Scharniere verbunden; der Tisch wird unter den Stuhl geklappt. Beim \"mitwachsenden Hochstuhl\" ist die Höhe der Sitzfläche veränderbar." ;
+    skos:definition "Hauptkonstruktionsmerkmal des Kinderhochstuhls ist seine erhöhte Sitzfläche. Rückenlehne, Armlehnen, Fußrast, vorn angebrachter Bügel und gegebenfalls ein Schrittgurt bewahren das Kind vor dem Herausfallen. Zuweilen ist in den Sitz ein Töpfchen integriert. Eine Variante des Kinderhochstuhls besteht aus zwei Teilen, die einzeln als Stuhl und Tisch, ineinander gesteckt als Kinderhochstuhl verwendet werden. Bei einer weiteren Variante sind Tisch- und Stuhlelement durch Scharniere verbunden; der Tisch wird unter den Stuhl geklappt. Beim \"mitwachsenden Hochstuhl\" ist die Höhe der Sitzfläche veränderbar."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Kinderhochstuhl"@de .
 
@@ -3335,7 +3335,7 @@
     dc:identifier "00001126" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001110> ;
-    skos:definition "Der Klappstuhl besteht im Gegensatz zum Faltstuhl aus starren Konstruktionsteilen, die klappbar sind." ;
+    skos:definition "Der Klappstuhl besteht im Gegensatz zum Faltstuhl aus starren Konstruktionsteilen, die klappbar sind."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001127> ;
     skos:prefLabel "Klappstuhl"@de .
@@ -3355,7 +3355,7 @@
         "Rippenstuhl"@de,
         "Savonerola-Stuhl"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001126> ;
-    skos:definition "Der Scherenstuhl ist klappbar. Seine Standkonstruktion besteht aus sich scherenartig kreuzenden, gitterartig angeordneten Leisten." ;
+    skos:definition "Der Scherenstuhl ist klappbar. Seine Standkonstruktion besteht aus sich scherenartig kreuzenden, gitterartig angeordneten Leisten."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Scherenstuhl"@de .
 
@@ -3368,7 +3368,7 @@
     dc:identifier "00001130" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001110> ;
-    skos:definition "Beim Kunststoffstuhl ist der gesamte Stuhl aus einem Stück Kunststoff geformt." ;
+    skos:definition "Beim Kunststoffstuhl ist der gesamte Stuhl aus einem Stück Kunststoff geformt."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Kunststoffstuhl"@de .
 
@@ -3384,7 +3384,7 @@
         "Klostuhl"@de,
         "Toilettenstuhl"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001110> ;
-    skos:definition "Beim Leibstuhl ist ein Nachtgeschirr integriert. Entsprechend ist die Sitzfläche mit Loch und Deckel versehen." ;
+    skos:definition "Beim Leibstuhl ist ein Nachtgeschirr integriert. Entsprechend ist die Sitzfläche mit Loch und Deckel versehen."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Leibstuhl"@de .
 
@@ -3399,7 +3399,7 @@
     skos:altLabel "Drechselstuhl"@de,
         "Sprossenstuhl"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001110> ;
-    skos:definition "Beim Pfostenstuhl stehen die Beine (Pfosten) stets senkrecht, wobei die hinteren in die Rückenlehne übergehen. Die Verbindung der Beine untereinander durch Sprossen ist für die Stabilität unerlässlich." ;
+    skos:definition "Beim Pfostenstuhl stehen die Beine (Pfosten) stets senkrecht, wobei die hinteren in die Rückenlehne übergehen. Die Verbindung der Beine untereinander durch Sprossen ist für die Stabilität unerlässlich."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001134> ;
     skos:prefLabel "Pfostenstuhl"@de .
@@ -3413,7 +3413,7 @@
     dc:identifier "00001134" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001133> ;
-    skos:definition "Statt der vier Pfosten, die normalerweise beim Pfostenstuhl die Beine bilden, gibt es hier nur drei Pfosten. Der hintere dritte Pfosten ist verlängert und dient als Stütze für kleine Rückenbretter oder gedrechselte Stäbe, die die Lehne bilden. Der Sitz besteht entweder aus einem Brett, das in die Verbindungshölzer eingesetzt oder aufgelegt ist, oder er ist zwischen die Hölzer eingeflochten." ;
+    skos:definition "Statt der vier Pfosten, die normalerweise beim Pfostenstuhl die Beine bilden, gibt es hier nur drei Pfosten. Der hintere dritte Pfosten ist verlängert und dient als Stütze für kleine Rückenbretter oder gedrechselte Stäbe, die die Lehne bilden. Der Sitz besteht entweder aus einem Brett, das in die Verbindungshölzer eingesetzt oder aufgelegt ist, oder er ist zwischen die Hölzer eingeflochten."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Dreipfostenstuhl"@de .
 
@@ -3426,7 +3426,7 @@
     dc:identifier "00001135" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001110> ;
-    skos:definition "Der Stuhl hat eine gepolsterte Sitzfläche; auch die Lehne kann gepolstert sein. Das Stuhlgestell ist in der Regel sichtbar. Der Polsterstuhl hat meist eine höhere Sitzfläche als der Sessel. Der Übergang zum Sessel ist fließend." ;
+    skos:definition "Der Stuhl hat eine gepolsterte Sitzfläche; auch die Lehne kann gepolstert sein. Das Stuhlgestell ist in der Regel sichtbar. Der Polsterstuhl hat meist eine höhere Sitzfläche als der Sessel. Der Übergang zum Sessel ist fließend."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001136>,
         <http://www.museumsvokabular.de/museumvok/gefaess/00002448> ;
@@ -3442,7 +3442,7 @@
     dcq:created "2003-04-07" ;
     skos:altLabel "Gleimstuhl"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001135> ;
-    skos:definition "Der Schreib- und Lesestuhl st so konstruiert, dass man rittlings auf ihm sitzend schreiben und lesen kann. An der gepolsterten Armauflage ist ein schräg gestelltes Brett zur Ablage von Buch oder Schreibpapier angebracht; an den gepolsterten Armlehnen, auf die man die Arme legen kann, sind Tablette für Schreibzeuge befestigt." ;
+    skos:definition "Der Schreib- und Lesestuhl st so konstruiert, dass man rittlings auf ihm sitzend schreiben und lesen kann. An der gepolsterten Armauflage ist ein schräg gestelltes Brett zur Ablage von Buch oder Schreibpapier angebracht; an den gepolsterten Armlehnen, auf die man die Arme legen kann, sind Tablette für Schreibzeuge befestigt."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Schreib- und Lesestuhl"@de .
 
@@ -3455,7 +3455,7 @@
     dc:identifier "00001140" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001110> ;
-    skos:definition "Den Schaukelstuhl gibt es als stehende und als hängende Variante. Beim stehenden Schaukelstuhl ermöglichen unter den Beinen angebrachte, gebogene Kufen das Schaukeln; beim hängenden Schaukelstuhl wird der Sitz mit Ketten, Seilen oder Ähnlichem entweder in ein zum Stuhl gehöriges Gestell eingehängt oder er wird an einem Deckenhaken aufgehängt." ;
+    skos:definition "Den Schaukelstuhl gibt es als stehende und als hängende Variante. Beim stehenden Schaukelstuhl ermöglichen unter den Beinen angebrachte, gebogene Kufen das Schaukeln; beim hängenden Schaukelstuhl wird der Sitz mit Ketten, Seilen oder Ähnlichem entweder in ein zum Stuhl gehöriges Gestell eingehängt oder er wird an einem Deckenhaken aufgehängt."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Schaukelstuhl"@de .
 
@@ -3468,7 +3468,7 @@
     dc:identifier "00001143" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001110> ;
-    skos:definition "Bei diesem Stuhl ist mindestens die Trägerkonstruktion aus Stahlrohr, das manchmal auch in einem Stück gebogen sein kann. Die Materialien der Sitzfläche, der Lehne und gegebenenfalls der Armlehnen können unterschiedlich sein (Leder, Stoff, Holz, Kunststoff etc.)." ;
+    skos:definition "Bei diesem Stuhl ist mindestens die Trägerkonstruktion aus Stahlrohr, das manchmal auch in einem Stück gebogen sein kann. Die Materialien der Sitzfläche, der Lehne und gegebenenfalls der Armlehnen können unterschiedlich sein (Leder, Stoff, Holz, Kunststoff etc.)."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Stahlrohrstuhl"@de .
 
@@ -3483,7 +3483,7 @@
     skos:altLabel "Stuhltisch"@de,
         "Tischsessel"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001110> ;
-    skos:definition "Der Tischstuhl kann vom Stuhl in einen Tisch verwandelt werden, indem die brettartige Rückenlehne auf die Armlehnen geklappt wird." ;
+    skos:definition "Der Tischstuhl kann vom Stuhl in einen Tisch verwandelt werden, indem die brettartige Rückenlehne auf die Armlehnen geklappt wird."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Tischstuhl"@de .
 
@@ -3498,7 +3498,7 @@
     skos:altLabel "Treppenleiter"@de,
         "Trittleiterstuhl"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001110> ;
-    skos:definition "Der Treppenstuhl ist durch Klappmechanismen in eine Leiter zu verwandeln." ;
+    skos:definition "Der Treppenstuhl ist durch Klappmechanismen in eine Leiter zu verwandeln."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Treppenstuhl"@de .
 
@@ -3511,7 +3511,7 @@
     dc:identifier "00001148" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001110> ;
-    skos:definition "Der Zargenkranz und die Beine des Zargenstuhls sind miteinander so verzapft oder verdübelt, dass der Stuhl ohne weitere Verstrebungen oder Stützen auskommt. Der Sitzrahmen liegt auf dem Zargenkranz." ;
+    skos:definition "Der Zargenkranz und die Beine des Zargenstuhls sind miteinander so verzapft oder verdübelt, dass der Stuhl ohne weitere Verstrebungen oder Stützen auskommt. Der Sitzrahmen liegt auf dem Zargenkranz."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Zargenstuhl"@de .
 
@@ -3540,7 +3540,7 @@
     dc:identifier "00001151" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001150> ;
-    skos:definition "Der Giebelspiegel definiert sich durch seinen giebelartigen Aufsatz." ;
+    skos:definition "Der Giebelspiegel definiert sich durch seinen giebelartigen Aufsatz."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Giebelspiegel"@de .
 
@@ -3553,7 +3553,7 @@
     dc:identifier "00001152" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001150> ;
-    skos:definition "Der frei stehende Spiegel wird Standspiegel genannt." ;
+    skos:definition "Der frei stehende Spiegel wird Standspiegel genannt."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001153>,
         <http://www.museumsvokabular.de/museumvok/gefaess/00001155>,
@@ -3573,7 +3573,7 @@
         "Toilette-Spiegel"@de,
         "Vollspiegel"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001152> ;
-    skos:definition "Im hochformatigen Ankleidespiegel lässt sich der ganze Körper widerspiegeln. Der Spiegel kann starr oder schwenkbar ausgeführt sein." ;
+    skos:definition "Im hochformatigen Ankleidespiegel lässt sich der ganze Körper widerspiegeln. Der Spiegel kann starr oder schwenkbar ausgeführt sein."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Ankleidespiegel"@de .
 
@@ -3588,7 +3588,7 @@
     skos:altLabel "Konsolspiegel"@de,
         "Toilette-Spiegel"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001152> ;
-    skos:definition "Der Spiegeltisch besteht aus einem großflächigen Spiegelelement und einem darunter gebauten Tisch mit zumeist geringer Tiefe." ;
+    skos:definition "Der Spiegeltisch besteht aus einem großflächigen Spiegelelement und einem darunter gebauten Tisch mit zumeist geringer Tiefe."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Spiegeltisch"@de .
 
@@ -3601,7 +3601,7 @@
     dc:identifier "00001156" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001152> ;
-    skos:definition "Abb.: Zeichnung - (KLB) JAHR FEHLT" ;
+    skos:definition "Abb.: Zeichnung - (KLB) JAHR FEHLT"@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Tischspiegel"@de .
 
@@ -3614,7 +3614,7 @@
     dc:identifier "00001157" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001150> ;
-    skos:definition "Wandspiegel sind entweder an eine Wand montiert oder angelehnt." ;
+    skos:definition "Wandspiegel sind entweder an eine Wand montiert oder angelehnt."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001158>,
         <http://www.museumsvokabular.de/museumvok/gefaess/00001159>,
@@ -3630,7 +3630,7 @@
     dc:identifier "00001158" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001157> ;
-    skos:definition "Der Wandspiegel mit aufklappbaren Seitenflügel wird Flügelspiegel genannt." ;
+    skos:definition "Der Wandspiegel mit aufklappbaren Seitenflügel wird Flügelspiegel genannt."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Flügelspiegel"@de .
 
@@ -3643,7 +3643,7 @@
     dc:identifier "00001159" ;
     dcq:created "2003-04-07" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001157> ;
-    skos:definition "Der Kugelspiegel ist ein kreisförmiger Spiegel mit konvexer Fläche." ;
+    skos:definition "Der Kugelspiegel ist ein kreisförmiger Spiegel mit konvexer Fläche."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Kugelspiegel"@de .
 
@@ -3658,7 +3658,7 @@
     skos:altLabel "Kaminspiegel"@de,
         "Trumeau"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001157> ;
-    skos:definition "Der Pfeilerspiegel ist ein schmaler hoher, an Wandpfeilern angebrachter Spiegel." ;
+    skos:definition "Der Pfeilerspiegel ist ein schmaler hoher, an Wandpfeilern angebrachter Spiegel."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Pfeilerspiegel"@de .
 
@@ -3691,7 +3691,7 @@
         "Parafeu"@de,
         "Tischlichtschirm"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001161> ;
-    skos:definition "Der Stellschirm ist einteilig. Licht- und Ofenschirme, die in der Regel aus einem Rahmengestell auf gespreizten Füßen und einer häufig textilen Schutzfläche bestehen, sind zierlicher als Kaminschirme." ;
+    skos:definition "Der Stellschirm ist einteilig. Licht- und Ofenschirme, die in der Regel aus einem Rahmengestell auf gespreizten Füßen und einer häufig textilen Schutzfläche bestehen, sind zierlicher als Kaminschirme."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Stellschirm"@de .
 
@@ -3709,7 +3709,7 @@
         "Stellwand"@de,
         "Windschirm"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001161> ;
-    skos:definition "Der Wandschirm ist mehrteilig und zusammenfaltbar. Er besteht aus Holzrahmen und Füllelementen, die aus unterschiedlichen Materialien bestehen (Gobelins, Leder, Seide, Holz etc.)." ;
+    skos:definition "Der Wandschirm ist mehrteilig und zusammenfaltbar. Er besteht aus Holzrahmen und Füllelementen, die aus unterschiedlichen Materialien bestehen (Gobelins, Leder, Seide, Holz etc.)."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Wandschirm"@de .
 
@@ -3802,7 +3802,7 @@
         "Geschirrbank"@de,
         "Spülbank"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000795> ;
-    skos:definition "Die Ablaufbank ist eine tischähnliche Ablage mit leicht schräg gestellter Platte. Die Platte enthält mehrere Rillen, in denen das vom gespülten Geschirr abtropfende Wasser ablaufen kann." ;
+    skos:definition "Die Ablaufbank ist eine tischähnliche Ablage mit leicht schräg gestellter Platte. Die Platte enthält mehrere Rillen, in denen das vom gespülten Geschirr abtropfende Wasser ablaufen kann."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Ablaufbank"@de .
 
@@ -3816,7 +3816,7 @@
     dcq:created "2005-08-17" ;
     skos:altLabel "Kleiderbrett"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000798> ;
-    skos:definition "Zwei Bretter bilden beim Topfbrett Rückwand und darüber liegende Ablagefläche. An den Seiten sind sie durch je ein zumeist dreieckiges Brettstück miteinander verbunden. An der Rückwand sind Haken angebracht." ;
+    skos:definition "Zwei Bretter bilden beim Topfbrett Rückwand und darüber liegende Ablagefläche. An den Seiten sind sie durch je ein zumeist dreieckiges Brettstück miteinander verbunden. An der Rückwand sind Haken angebracht."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Topfbrett"@de .
 
@@ -3830,7 +3830,7 @@
     dcq:created "2005-08-17" ;
     skos:altLabel "Fußwippe"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000795> ;
-    skos:definition "Die Fußschaukel besteht aus einem auf Kufen stehenden Untergestell, das eine leicht abgeschrägte Platte zum Auflegen der Beine trägt, an der am unteren Ende im 90-Grad-Winkel das Fußbrett angebracht ist. Zuweilen ist sie zusammenklappbar." ;
+    skos:definition "Die Fußschaukel besteht aus einem auf Kufen stehenden Untergestell, das eine leicht abgeschrägte Platte zum Auflegen der Beine trägt, an der am unteren Ende im 90-Grad-Winkel das Fußbrett angebracht ist. Zuweilen ist sie zusammenklappbar."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Fußschaukel"@de .
 
@@ -3843,7 +3843,7 @@
     dc:identifier "00002287" ;
     dcq:created "2005-08-17" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000800> ;
-    skos:definition "Die Garderobenschere besteht aus einem Scherengitter, an dem Haken zum Aufhängen von Kleidung angebracht sind." ;
+    skos:definition "Die Garderobenschere besteht aus einem Scherengitter, an dem Haken zum Aufhängen von Kleidung angebracht sind."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Garderobenschere"@de .
 
@@ -3858,7 +3858,7 @@
     skos:altLabel "Handtuchgestell"@de,
         "Handtuchständer"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000795> ;
-    skos:definition "Handtuchhalter gibt es in zwei Typen. Der eine, stets hängende, besteht aus Rückwandbrett oder -leiste und darüber angebrachtem Ablagebrett. In die Rückwand sind Haken eingelassen; unter das Ablagebrett ist eine Leiste für das die Gebrauchshandtücher verdeckende Überhandtuch montiert. Der andere Typ - auch Handtuchständer genannt - ist ein stehendes oder hängendes Gestell mit waagerechten Standen, die in unterschiedlicher Höhe angebracht sein können." ;
+    skos:definition "Handtuchhalter gibt es in zwei Typen. Der eine, stets hängende, besteht aus Rückwandbrett oder -leiste und darüber angebrachtem Ablagebrett. In die Rückwand sind Haken eingelassen; unter das Ablagebrett ist eine Leiste für das die Gebrauchshandtücher verdeckende Überhandtuch montiert. Der andere Typ - auch Handtuchständer genannt - ist ein stehendes oder hängendes Gestell mit waagerechten Standen, die in unterschiedlicher Höhe angebracht sein können."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Handtuchhalter"@de .
 
@@ -3871,7 +3871,7 @@
     dc:identifier "00002289" ;
     dcq:created "2005-08-17" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000795> ;
-    skos:definition "Konstruktionsmerkmal des Musikkassetten-Ständers sind die vielen Fächer zur Aufbewahrung von Musikkassetten." ;
+    skos:definition "Konstruktionsmerkmal des Musikkassetten-Ständers sind die vielen Fächer zur Aufbewahrung von Musikkassetten."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Musikkassetten-Ständer"@de .
 
@@ -3884,7 +3884,7 @@
     dc:identifier "00002290" ;
     dcq:created "2005-08-17" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000795> ;
-    skos:definition "Der Pfannenhalter ist ein an der Wand befestigtes Gestell zur hängenden Aufbewahrung von Pfannen." ;
+    skos:definition "Der Pfannenhalter ist ein an der Wand befestigtes Gestell zur hängenden Aufbewahrung von Pfannen."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Pfannenhalter"@de .
 
@@ -3898,7 +3898,7 @@
     dcq:created "2005-08-17" ;
     skos:altLabel "Kaffeetisch"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000795> ;
-    skos:definition "Der Serviertisch besteht aus Gestell und abnehmbarem Tablett." ;
+    skos:definition "Der Serviertisch besteht aus Gestell und abnehmbarem Tablett."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Serviertisch"@de .
 
@@ -3912,7 +3912,7 @@
     dcq:created "2005-08-17" ;
     skos:altLabel "Pfeilersäule"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000826> ;
-    skos:definition "Die Säule besteht aus einem runden geschlossenen Korpus, dessen Oberseite als Ablage dient. Sie ist wesentlich höher als breit." ;
+    skos:definition "Die Säule besteht aus einem runden geschlossenen Korpus, dessen Oberseite als Ablage dient. Sie ist wesentlich höher als breit."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Säule"@de .
 
@@ -3925,7 +3925,7 @@
     dc:identifier "00002293" ;
     dcq:created "2005-08-17" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000795> ;
-    skos:definition "Die Staffelei ist ein frei stehendes Gestell; eine waagerecht angebrachte Leiste dient dem Aufstellen von Gemälden. Staffeleien gehörten besonders in der Zeit des Historismus zur Möbelausstattung in den privaten Repräsentationsräumen." ;
+    skos:definition "Die Staffelei ist ein frei stehendes Gestell; eine waagerecht angebrachte Leiste dient dem Aufstellen von Gemälden. Staffeleien gehörten besonders in der Zeit des Historismus zur Möbelausstattung in den privaten Repräsentationsräumen."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Staffelei"@de .
 
@@ -4058,7 +4058,7 @@
     dc:identifier "00002304" ;
     dcq:created "2005-08-22" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000831> ;
-    skos:definition "Beim Schranktisch ist unter der Platte in den Unterbau ein verschließbarer Schrank eingearbeitet." ;
+    skos:definition "Beim Schranktisch ist unter der Platte in den Unterbau ein verschließbarer Schrank eingearbeitet."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Schranktisch"@de .
 
@@ -4107,7 +4107,7 @@
     dc:identifier "00002308" ;
     dcq:created "2005-08-23" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000831> ;
-    skos:definition "Durch Herausklappen einiger Stufen, die zwischen den Beinen angebracht sind, wird der Treppentisch in eine Trittleiter verwandelt." ;
+    skos:definition "Durch Herausklappen einiger Stufen, die zwischen den Beinen angebracht sind, wird der Treppentisch in eine Trittleiter verwandelt."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Treppentisch"@de .
 
@@ -4204,7 +4204,7 @@
     dc:identifier "00002316" ;
     dcq:created "2005-08-23" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000872> ;
-    skos:definition "Die Kommodentruhe ist ein zweigeteiltes Behältnismöbel: Im oberen Drittel befindet sich ein truhenartiges Fach mit aufliegendem Deckel, die unteren zwei Drittel sind als Querschubladen gefertigt." ;
+    skos:definition "Die Kommodentruhe ist ein zweigeteiltes Behältnismöbel: Im oberen Drittel befindet sich ein truhenartiges Fach mit aufliegendem Deckel, die unteren zwei Drittel sind als Querschubladen gefertigt."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Kommodentruhe"@de .
 
@@ -4242,7 +4242,7 @@
     dcq:created "2005-08-24" ;
     skos:altLabel "Säulenkommode"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000872> ;
-    skos:definition "Die Trommelkommode hat eine zylindrische Grundform." ;
+    skos:definition "Die Trommelkommode hat eine zylindrische Grundform."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Trommelkommode"@de .
 
@@ -4293,7 +4293,7 @@
     skos:altLabel "Kredenz"@de,
         "Sideboard"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000883> ;
-    skos:definition "Die Anrichte ist ein mehrtüriger, bisweilen mit Schubladen ausgestatteter halbhoher Schrank mit einer Anrichtefläche und oft mit einem Auszug oder mehreren Auszügen." ;
+    skos:definition "Die Anrichte ist ein mehrtüriger, bisweilen mit Schubladen ausgestatteter halbhoher Schrank mit einer Anrichtefläche und oft mit einem Auszug oder mehreren Auszügen."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Anrichte"@de .
 
@@ -4415,7 +4415,7 @@
     dcq:created "2005-08-26" ;
     skos:altLabel "Zeltschrank"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000883> ;
-    skos:definition "Die äußere Hülle des Faltschrankes besteht aus Textil oder Kunststoff. An den Seiten- und zumeist auch den an Unter- und Oberkanten werden durch den Saum oder durch entsprechend eingearbeitete Schlaufen Metallstangen geführt, Ober- und Unterboden sind durch feste Pappen oder dünne Holzplatten geformt. Durch Zusammenstecken oder -schrauben der metallstangen und deren Verbindung mit den Bodenplatten erhält der Schrank Stabilität. Die vordere Seite ist entweder mit Reißverschluss oder Knöpfen zu verschließen." ;
+    skos:definition "Die äußere Hülle des Faltschrankes besteht aus Textil oder Kunststoff. An den Seiten- und zumeist auch den an Unter- und Oberkanten werden durch den Saum oder durch entsprechend eingearbeitete Schlaufen Metallstangen geführt, Ober- und Unterboden sind durch feste Pappen oder dünne Holzplatten geformt. Durch Zusammenstecken oder -schrauben der metallstangen und deren Verbindung mit den Bodenplatten erhält der Schrank Stabilität. Die vordere Seite ist entweder mit Reißverschluss oder Knöpfen zu verschließen."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Faltschrank"@de .
 
@@ -4465,7 +4465,7 @@
     dcq:created "2005-08-26" ;
     skos:altLabel "Waffenschrank"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000883> ;
-    skos:definition "Der Gewehrschrank kann formal in verschiedenen Typen ausgeführt sein. Charakteristisch ist seine Vorrichtung im Inneren zur Aufbewahrung von Schusswaffen und Munition." ;
+    skos:definition "Der Gewehrschrank kann formal in verschiedenen Typen ausgeführt sein. Charakteristisch ist seine Vorrichtung im Inneren zur Aufbewahrung von Schusswaffen und Munition."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Gewehrschrank"@de .
 
@@ -4670,7 +4670,7 @@
     dc:identifier "00002357" ;
     dcq:created "2005-08-26" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000883> ;
-    skos:definition "Der Trommelschrank hat eine zylindrische Grundform." ;
+    skos:definition "Der Trommelschrank hat eine zylindrische Grundform."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Trommelschrank"@de .
 
@@ -4803,7 +4803,7 @@
     dc:identifier "00002368" ;
     dcq:created "2005-08-26" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000870> ;
-    skos:definition "Der Schuhkipper ist ein Behältnismöbel, das unterschiedlich hoch sein kann, mit Kippfächern in geringer Tiefe zur platzsparenden Aufbewahrung von Schuhen." ;
+    skos:definition "Der Schuhkipper ist ein Behältnismöbel, das unterschiedlich hoch sein kann, mit Kippfächern in geringer Tiefe zur platzsparenden Aufbewahrung von Schuhen."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Schuhkipper"@de .
 
@@ -4938,7 +4938,7 @@
     skos:altLabel "Seitstollentruhe"@de,
         "Seitwandstollentruhe"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000964> ;
-    skos:definition "Die Seiten der Wangentruhe werden aus bhis zum Boden reichenden Brettern (Wangen) gebildet." ;
+    skos:definition "Die Seiten der Wangentruhe werden aus bhis zum Boden reichenden Brettern (Wangen) gebildet."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Wangentruhe"@de .
 
@@ -4952,7 +4952,7 @@
     dcq:created "2005-08-26" ;
     skos:altLabel "Uhrenkastengehäuse"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000870> ;
-    skos:definition "Der Uhrenkasten ist das Gehäuse für Stand- oder Wanduhren in unterschiedlichen Konstruktionen und Formen." ;
+    skos:definition "Der Uhrenkasten ist das Gehäuse für Stand- oder Wanduhren in unterschiedlichen Konstruktionen und Formen."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Uhrenkasten"@de .
 
@@ -5097,7 +5097,7 @@
     dc:identifier "00002394" ;
     dcq:created "2005-08-29" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000993> ;
-    skos:definition "Das Aufsatzbett mit Baldachin ist ein Aufsatzbett mit einem von vier Säulen getragenen Baldachin (Betthimmel)." ;
+    skos:definition "Das Aufsatzbett mit Baldachin ist ein Aufsatzbett mit einem von vier Säulen getragenen Baldachin (Betthimmel)."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Aufsatzbett mit Baldachin"@de .
 
@@ -5110,7 +5110,7 @@
     dc:identifier "00002395" ;
     dcq:created "2005-08-29" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000995> ;
-    skos:definition "Das Kommodenbett gehört zu den Blender-Möbeln. Zusammengeschoben sieht es aus wie eine Kommode. Zur Nutzung als Liegemöbel wird die Bettlade seitlich herausgezogen." ;
+    skos:definition "Das Kommodenbett gehört zu den Blender-Möbeln. Zusammengeschoben sieht es aus wie eine Kommode. Zur Nutzung als Liegemöbel wird die Bettlade seitlich herausgezogen."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Kommodenbett"@de .
 
@@ -5126,7 +5126,7 @@
         "Bettschrank"@de,
         "Durk"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000993> ;
-    skos:definition "Der in sich standfeste Bettkasten ist ein Bett mit einem hölzernen Himmel und vier geschlossenen oder zumindest verschließbaren Seiten. Nicht gemeint ist hier der kasten zur Aufbewahrung des Bettzeugs." ;
+    skos:definition "Der in sich standfeste Bettkasten ist ein Bett mit einem hölzernen Himmel und vier geschlossenen oder zumindest verschließbaren Seiten. Nicht gemeint ist hier der kasten zur Aufbewahrung des Bettzeugs."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Bettkasten"@de .
 
@@ -5188,7 +5188,7 @@
     dcq:created "2005-08-29" ;
     skos:altLabel "Stollenbett"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000993> ;
-    skos:definition "Der Korpus des Pfostenbettes wird aus vier Eckpfosten und zwei längeren und zwei kürzeren Brettern beziehungsweise Kanthölzern zusammengefügt. Die nach unten verlängerten Pfosten dienen als Füße. An den langen Brettern oder Kanthölzern wird in der Regel innen mit Hilfe von zwei schmalen aufgeschlagenen Leisten eine Auflage, bestehend aus Bohlen, Latten oder Brettern, für den Betteinsatz geschaffen oder der Betteinsatz wird eingehängt." ;
+    skos:definition "Der Korpus des Pfostenbettes wird aus vier Eckpfosten und zwei längeren und zwei kürzeren Brettern beziehungsweise Kanthölzern zusammengefügt. Die nach unten verlängerten Pfosten dienen als Füße. An den langen Brettern oder Kanthölzern wird in der Regel innen mit Hilfe von zwei schmalen aufgeschlagenen Leisten eine Auflage, bestehend aus Bohlen, Latten oder Brettern, für den Betteinsatz geschaffen oder der Betteinsatz wird eingehängt."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Pfostenbett"@de .
 
@@ -5238,7 +5238,7 @@
     dcq:created "2005-08-29" ;
     skos:altLabel "Lit bateau"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000992> ;
-    skos:definition "Die Récamiere ist ein nach der französischen Schriftstellerin Madam Récamier (1777-1849) benanntes breites Polstermöbel mit seitlich angebrachten, nach außen geschweiften Wangen." ;
+    skos:definition "Die Récamiere ist ein nach der französischen Schriftstellerin Madam Récamier (1777-1849) benanntes breites Polstermöbel mit seitlich angebrachten, nach außen geschweiften Wangen."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Récamiere"@de .
 
@@ -5323,7 +5323,7 @@
     dc:identifier "00002412" ;
     dcq:created "2005-08-30" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001017> ;
-    skos:definition "Der Wiegenkorpus der Trogwiege hat einen gerundeten Boden, auf dem die Wiege quer oder längs schaukelt." ;
+    skos:definition "Der Wiegenkorpus der Trogwiege hat einen gerundeten Boden, auf dem die Wiege quer oder längs schaukelt."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Trogwiege"@de .
 
@@ -5396,7 +5396,7 @@
     dc:identifier "00002418" ;
     dcq:created "2005-08-30" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001034> ;
-    skos:definition "Das Damenbureau ist höher als breit. Der untere Teil ist kommodenartig mit Schubladen versehen; der obere Teil ist mit einer senkrecht angebrachten, klappbaren Schreibfläche und dem herauszuziehenden schrägliegenden Pult eine Kombination aus Sekretär und Schreibpult; oft ist eine Toilette integriert." ;
+    skos:definition "Das Damenbureau ist höher als breit. Der untere Teil ist kommodenartig mit Schubladen versehen; der obere Teil ist mit einer senkrecht angebrachten, klappbaren Schreibfläche und dem herauszuziehenden schrägliegenden Pult eine Kombination aus Sekretär und Schreibpult; oft ist eine Toilette integriert."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Damenbureau"@de .
 
@@ -5433,7 +5433,7 @@
     dc:identifier "00002421" ;
     dcq:created "2005-08-30" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001044> ;
-    skos:definition "Der Partnerpultsekretär hat zwei sich gegenüberliegende Arbeitsplätze." ;
+    skos:definition "Der Partnerpultsekretär hat zwei sich gegenüberliegende Arbeitsplätze."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Partnerpultsekretär"@de .
 
@@ -5446,7 +5446,7 @@
     dc:identifier "00002422" ;
     dcq:created "2005-08-30" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001045> ;
-    skos:definition "Das Partnerstehpult hat zwei sich gegenüberliegende Arbeitsplätze." ;
+    skos:definition "Das Partnerstehpult hat zwei sich gegenüberliegende Arbeitsplätze."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Partnerstehpult"@de .
 
@@ -5471,7 +5471,7 @@
     dc:identifier "00002424" ;
     dcq:created "2005-08-30" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001058> ;
-    skos:definition "Der aufblasbare Sessel ist ein einsitziges Kunststoffmöbel, das die tradierte Form des Sessels aufgreift." ;
+    skos:definition "Der aufblasbare Sessel ist ein einsitziges Kunststoffmöbel, das die tradierte Form des Sessels aufgreift."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Aufblasbarer Sessel"@de .
 
@@ -5484,7 +5484,7 @@
     dc:identifier "00002425" ;
     dcq:created "2005-08-30" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001058> ;
-    skos:definition "Das aufblasbare Sofa ist ein mehrsitziges Kunststoffmöbel, das die tradierte Form des Sofas aufgreift." ;
+    skos:definition "Das aufblasbare Sofa ist ein mehrsitziges Kunststoffmöbel, das die tradierte Form des Sofas aufgreift."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Aufblasbares Sofa"@de .
 
@@ -5523,7 +5523,7 @@
     skos:altLabel "Divan"@de,
         "Diwan"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001066> ;
-    skos:definition "Die Ottomane ist eine breite, lehnenlose Polsterbank mit seitlich angebrachten Kissen. Sie ist auch zum Liegen geeignet." ;
+    skos:definition "Die Ottomane ist eine breite, lehnenlose Polsterbank mit seitlich angebrachten Kissen. Sie ist auch zum Liegen geeignet."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Ottomane"@de .
 
@@ -5561,7 +5561,7 @@
     dcq:created "2005-08-30" ;
     skos:altLabel "Bankbett"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001068> ;
-    skos:definition "Bei der Truhenbettbank kann durch Herausziehen der Vorderseite der Truhenkasten so verbreitert werden, dass er bei aufgeklapptem Deckel als Bett zu nutzen ist." ;
+    skos:definition "Bei der Truhenbettbank kann durch Herausziehen der Vorderseite der Truhenkasten so verbreitert werden, dass er bei aufgeklapptem Deckel als Bett zu nutzen ist."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Truhenbettbank"@de .
 
@@ -5612,7 +5612,7 @@
     skos:altLabel "Causeuse"@de,
         "Love seat"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001058> ;
-    skos:definition "Die Marquise stellt die Übergangsform von einem breiten Sessel zu einem kleinen zweisitzigen Sofa dar." ;
+    skos:definition "Die Marquise stellt die Übergangsform von einem breiten Sessel zu einem kleinen zweisitzigen Sofa dar."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Marquise"@de .
 
@@ -5625,7 +5625,7 @@
     dc:identifier "00002436" ;
     dcq:created "2005-08-31" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001092> ;
-    skos:definition "Die Voyeuse (von französisch voir = ansehen, erblicken) ist eine Bergère mit gepolstertem Lehnenabschluss. Er dient einem Zuschauer, der beim Kartenspiel hinter dem Spieler steht, zur Auflage der Arme." ;
+    skos:definition "Die Voyeuse (von französisch voir = ansehen, erblicken) ist eine Bergère mit gepolstertem Lehnenabschluss. Er dient einem Zuschauer, der beim Kartenspiel hinter dem Spieler steht, zur Auflage der Arme."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Voyeuse"@de .
 
@@ -5686,7 +5686,7 @@
     dc:identifier "00002441" ;
     dcq:created "2005-08-31" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001104> ;
-    skos:definition "Charakteristisch für das Magazinsofa sind die unter den Armlehnen angebrachten Schubladen." ;
+    skos:definition "Charakteristisch für das Magazinsofa sind die unter den Armlehnen angebrachten Schubladen."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Magazinsofa"@de .
 
@@ -5735,7 +5735,7 @@
     dc:identifier "00002445" ;
     dcq:created "2005-08-31" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001110> ;
-    skos:definition "Beim Bidetstuhl ist ein Bidet integriert. Entsprechend ist die Sitzfläche mit Loch und Deckel versehen." ;
+    skos:definition "Beim Bidetstuhl ist ein Bidet integriert. Entsprechend ist die Sitzfläche mit Loch und Deckel versehen."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Bidetstuhl"@de .
 
@@ -5773,7 +5773,7 @@
     dcq:created "2005-09-01" ;
     skos:altLabel "Konversationsstuhl"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001135> ;
-    skos:definition "Die Voyelle (von französisch voir = ansehen, erblicken) ist so konstruiert, dass man rittlings auf ihr sitzen kann. Auf der Oberkante der Lehne befindet sich eine gepolsterte Auflage, wo die verschränkten Arme platziert werden können. Der Stuhl wurde so kontruiert, damit man beim Brett- oder Kartenspiel bequem zuschauen kann." ;
+    skos:definition "Die Voyelle (von französisch voir = ansehen, erblicken) ist so konstruiert, dass man rittlings auf ihr sitzen kann. Auf der Oberkante der Lehne befindet sich eine gepolsterte Auflage, wo die verschränkten Arme platziert werden können. Der Stuhl wurde so kontruiert, damit man beim Brett- oder Kartenspiel bequem zuschauen kann."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Voyelle"@de .
 
@@ -5871,7 +5871,7 @@
     dcq:created "2005-09-01" ;
     skos:altLabel "Eistütenstuhl"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001058> ;
-    skos:definition "Der Tütenstuhl besteht aus einem Kreiskegel aus Metall, dessen Spitze drehbar auf einem Fußkreuz befestigt ist. In Sitzhöhe ist der Kegel einseitig abgeschnitten und mit einem gepolsterten hölzernen Sitzdeckel verschlossen; die darüber fortgeführte Kegelwand ist zur Rückenlehne ausgeformt. Der Stuhlkörper ist mit Stoff überzogen. Der Hohlraum im Kegel ist als Behältnis zu nutzen." ;
+    skos:definition "Der Tütenstuhl besteht aus einem Kreiskegel aus Metall, dessen Spitze drehbar auf einem Fußkreuz befestigt ist. In Sitzhöhe ist der Kegel einseitig abgeschnitten und mit einem gepolsterten hölzernen Sitzdeckel verschlossen; die darüber fortgeführte Kegelwand ist zur Rückenlehne ausgeformt. Der Stuhlkörper ist mit Stoff überzogen. Der Hohlraum im Kegel ist als Behältnis zu nutzen."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Tütenstuhl"@de .
 
@@ -5994,7 +5994,7 @@
     skos:altLabel "Salonschrank"@de,
         "Vertikow"@de ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000883> ;
-    skos:definition "Das Vertiko ist ein hochrechteckiger, häufig zweitüriger Schrank, meist mit einer oberen Schublade und einem zurückgesetzten Aufsatz, auf dem ein Ziergiebel stecken kann." ;
+    skos:definition "Das Vertiko ist ein hochrechteckiger, häufig zweitüriger Schrank, meist mit einer oberen Schublade und einem zurückgesetzten Aufsatz, auf dem ein Ziergiebel stecken kann."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Vertiko"@de .
 
@@ -6007,7 +6007,7 @@
     dc:identifier "00002467" ;
     dcq:created "2005-09-08" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001018> ;
-    skos:definition "Die Federwiege ist eine an Federn aufgehängte Wiege. Die Federn sind entweder stählerne Spiralfedern oder Blattfedern aus Holz oder Metall." ;
+    skos:definition "Die Federwiege ist eine an Federn aufgehängte Wiege. Die Federn sind entweder stählerne Spiralfedern oder Blattfedern aus Holz oder Metall."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Federwiege"@de .
 
@@ -6032,7 +6032,7 @@
     dc:identifier "00002469" ;
     dcq:created "2005-09-08" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00001152> ;
-    skos:definition "Die Psyché ist ein Standspiegel mit mindestens einem beweglichen Spiegelelement. Entweder ist ein Spiegelelement in ein Gestell eingehängt oder der dreiteilige Spiegel besteht aus einem feststehenden Spiegel mit zwei seitlich angebrachten beweglichen Spiegelelementen." ;
+    skos:definition "Die Psyché ist ein Standspiegel mit mindestens einem beweglichen Spiegelelement. Entweder ist ein Spiegelelement in ein Gestell eingehängt oder der dreiteilige Spiegel besteht aus einem feststehenden Spiegel mit zwei seitlich angebrachten beweglichen Spiegelelementen."@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular> ;
     skos:prefLabel "Psyché"@de .
 
