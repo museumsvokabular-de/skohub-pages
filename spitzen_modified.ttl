@@ -309,9 +309,7 @@
     dcq:created "Wed Jan 10, 2001" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000232> ;
     skos:definition "Ihre Entstehung reicht zurück bis in die Renaissance. Sie besteht überwiegend aus durchgehenden Bandgängen, die z. T. Ornamente bilden. Ihr Klöppelmuster besteht aus Leinen- und Formenschlag. Die einfache Spitze bekommt durch ihre Farbenfreude bzw. das Einklöppeln bunter Fäden eine Belebung.Böhmische und slawische Bandspitzen entstanden aus den Vorlagen der russischen Bandspitze, sind aber etwas mannigfaltiger.LIT.: Prof. Hempel, Albert: Spitzenformen Monographische Darstellung, Plauen 1926, Manuskript"@de ;
-    skos:example "Böhmische Bandspitze",
-        "Russische Bandspitze",
-        "Slawische Bandspitze"@de ;
+    skos:example "Böhmische Bandspitze, Russische Bandspitze, Slawische Bandspitze, "@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
     skos:prefLabel "Bandspitze"@de .
 
@@ -330,8 +328,7 @@
     dcq:created "Wed Jan 10, 2001" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000232> ;
     skos:definition "Ziernetzspitze aus Seide oder Baumwolle, die ihren Namen von der eigentümlichen Farbe des Seidenfadens erhielt. Französische Spitze des 18. Jahrhunderts, später auch in Deutschland, England, Belgien und Spanien hergestellt. Feines Maschennetz mit mehr oder minder dicht gearbeitetem Muster, dessen Konturen häufig nach Art der Malines von einem stärkeren Faden umzogen sind. Musterelemente heben sich kräftig vom Spitzengrund ab. Bei Verwendung von Chenille als Konturfaden unter der Bezeichnung \"Chenille\" bekannt.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 20"@de ;
-    skos:example "Ecrues",
-        "Nankings"@de ;
+    skos:example "Ecrues, Nankings, "@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
     skos:prefLabel "Blonde"@de .
 
@@ -350,8 +347,7 @@
     dcq:created "Wed Jan 10, 2001" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000232> ;
     skos:definition "Flandrische Klöppelspitze mit Leinenschlag, der weit über die Formen hinausgeht. Die Musterung besteht aus Ziernetzen, großen durchbrochenen Partien, ist eils bandartig und teils floral.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 12"@de ;
-    skos:example "Brügge",
-        "Dentelle de Bruges"@de ;
+    skos:example "Brügge, Dentelle de Bruges, "@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
     skos:prefLabel "Bruges, Dentelle de"@de .
 
@@ -435,8 +431,7 @@
     dcq:created "Wed Jan 10, 2001" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000232> ;
     skos:definition "Italienische Leinenschlagspitze mit Netzgrund. Sie wurde vom 17. bis zum späten 18. Jh. hergestellt. Die frühe Spitze zeigt kompakte florale Motive mit variierenden Füllungen, später sind es flächige florale Motive, Zweige, Inschriften und figürliche Darstellungen. Charakteristisch ist das schmale Leinenschlagbändchen, aus dem die Formen des Ornamentes gebildet sind. Am Rande des Bändchens befindet sich eine Art Hohlsaum, der mit den Rändern der gegenüberliegenden Bändchen, früher mit Stegen, später durch ein Grundnetz, verbunden ist.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 32"@de ;
-    skos:example "Mailänder Spitze",
-        "Milan"@de ;
+    skos:example "Mailänder Spitze, Milan, "@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
     skos:prefLabel "Milano, Punto di"@de .
 
@@ -455,9 +450,7 @@
     dcq:created "Wed Jan 10, 2001" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000232> ;
     skos:definition "Sol ist die spanische Bezeichnung für Sonne. Das strahlenförmige Aussehen ist die Ursache dieses Namens. Sie hat viel Gemeinsamkeit mit der strahligen Reticella. Die Muster bestehen aus einzelnen Sonnen, deren Strahlen als Träger kleiner Streueffekte benutzt werden. Die Solspitze, deren Technik auf Nanduti genannt wird, entsteht in drei Arbeitsgängen. Im ersten entsteht das strahlenförmige Gerüst, im zweiten erfolgt das Einarbeiten von musterlichen Füllungen und im dritten werden die Einzelteile zur Gesamtspitze zusammengefügt.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 34f.Prof. Hempel, Albert: Spitzenformen Monographische Darstellung, Plauen 1926, ManuskriptSchöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S. 48ff."@de ;
-    skos:example "Nanduti",
-        "Solspitze",
-        "Sonnenspitze"@de ;
+    skos:example "Nanduti, Solspitze, Sonnenspitze, "@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
     skos:prefLabel "Paraguay"@de .
 
@@ -550,9 +543,7 @@
     dcq:created "Wed Jan 10, 2001" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000257> ;
     skos:definition "Die Knüpftechnik der Occhy-Spitze ist wesentlich unkomplizierter und in der Bindungsweise homogener als die der Macramé-Spitze. Die Bezeichnung \"Occhy\" ist italienisch, bedeutet Augen und ist Ausdruck für die typische Form der ihr eigenen Ringe und Bögen, die mit Oesen besetzt sind und aus denen sich die Muster zusammensetzen. Auch durch Nadelarbeit eingesetzte Spinnen sind möglich. Sie hat keine andersartige Rückseite. Nach ihrem Herstellungswerkzeug wird sie auch Schiffchenspitze genannt.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 32, 39"@de ;
-    skos:example "Frivolité",
-        "Schiffchenspitze",
-        "Tattings"@de ;
+    skos:example "Frivolité, Schiffchenspitze, Tattings, "@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
     skos:prefLabel "Occhy-Spitze"@de .
 
@@ -762,10 +753,7 @@
     dcq:created "Wed Jan 10, 2001" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000266> ;
     skos:definition "Venezianische Nadelspitze des späten 17. Jahrhunderts, in Technik und Muster die äußerste Verfeinerung der barocken nadelspitze. Ihre besonderen Merkmale sind die mit Rosetten besetzten Stege, die den Blüten aufgelegten zarten, abstehenden Blättchen mit kleinem Bogenbesatz am Rand und girlandenartig aneinander gereihte Musterelemente. Auch ein feiner rautenförmiger Grund, Ziernetze und korallenartige Stäbchen sind möglich. Vorläufer der Venise.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 36Prof. Hempel, Albert: Spitzenformen Monographische Darstellung, Plauen 1926, Manuskript"@de ;
-    skos:example "Rosellino",
-        "Rosenspitze",
-        "point de rose",
-        "point rasace"@de ;
+    skos:example "Rosellino, Rosenspitze, point de rose, point rasace, "@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
     skos:prefLabel "Rosalina"@de .
 
@@ -902,8 +890,7 @@
     dcq:created "Wed Jan 10, 2001" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000300> ;
     skos:definition "Durch Bündeln der Fäden der verbliebenen Fadenreihe werden Hohlnähte erzeugt, die an den Überkreuzungsstellen mit Zierfüllungen versehen werden können..Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.352ff"@de ;
-    skos:example "Hohlnaht",
-        "Punto tirato"@de ;
+    skos:example "Hohlnaht, Punto tirato, "@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
     skos:prefLabel "einfache Durchbrucharbeit"@de .
 
@@ -913,8 +900,7 @@
     dcq:created "Wed Jan 10, 2001" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000014> ;
     skos:definition "Einlagearbeiten gab es bereits im 17/18 Jhd. Man arbeitet mit Rahmen oder frei von Hand, ohne Aufzeichnung oder mit vorgezeichnetem Papier, das nach dem Sticken entfernt wird. Durch die Einlagen werden Reliefs erzeugt. Es wird oft mit glänzendem Material gearbeitet. Die Technik und die Musterung kann unterschiedlich sein. Man unterscheidet 3 Arten.LIT.: Schöner, Friedrich; Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S. 322ff"@de ;
-    skos:example "Piqué-Stickerei",
-        "Relieftechnik"@de ;
+    skos:example "Piqué-Stickerei, Relieftechnik, "@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
     skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000306>,
         <http://www.museumsvokabular.de/museumvok/gefaess/00000307>,
@@ -1212,9 +1198,7 @@
     dcq:created "Sat Apr 07, 2001" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000301> ;
     skos:definition "hat gleichmäßige quadratische Durchbruchfelder mit fest umwickelten Stegen. Dabei ist der gitterförmige Durchbruch das Ornament.LIT.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.363"@de ;
-    skos:example "Gitterdurchbruch",
-        "Point de Coupe",
-        "Wickeldurchbruch"@de ;
+    skos:example "Gitterdurchbruch, Point de Coupe, Wickeldurchbruch, "@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
     skos:prefLabel "Toledo"@de .
 
@@ -1257,8 +1241,7 @@
     dcq:created "Mon Apr 23, 2001" ;
     skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000338> ;
     skos:definition "Sammelbegriff für weiße Ausschneidspitzen der Renaissance, deren Stege aus Schlingstich sind und weder Pikots noch Oesen aufweisen. Besteht das Muster aus sakralen Motiven, spricht man von Kirchenspitze. Sind die Musterformen stark überstickt mit Schnurstich oder Schnurstickerei nennt man sie Colbert-SpitzeSynonym: Kirchenspitze, Colbert-SpitzeLit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.416f"@de ;
-    skos:example "Colbert-Spitze",
-        "Kirchenspitze"@de ;
+    skos:example "Colbert-Spitze, Kirchenspitze, "@de ;
     skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
     skos:prefLabel "Renaissancespitze"@de .
 

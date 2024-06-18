@@ -45,7 +45,16 @@ for rdfFile in allRdfFiles:
             examples = element.findall("{http://www.w3.org/2004/02/skos/core#}example")
             if len(examples) > 0:
                 if len(examples) > 1:
-                    examples[-1].text += languageLabel
+                    exampleText = ""
+                    for example in examples:
+                        exampleText += example.text + ", "
+                    exampleText += languageLabel
+                    # delete all but one element in examples
+                    exampleLenght = len(examples)
+                    while exampleLenght > 1:
+                        element.remove(examples[exampleLenght-1])
+                        exampleLenght -= 1
+                    examples[0].text = exampleText
                 else:
                     examples[0].text += languageLabel
             if subElement.tag == "{http://www.w3.org/2004/02/skos/core#}example":
