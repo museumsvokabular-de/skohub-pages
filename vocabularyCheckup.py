@@ -42,9 +42,14 @@ for rdfFile in allRdfFiles:
                     #subElement.text = schemeUUID
                     # delete element
                     element.remove(subElement)
-                if subElement.tag == "{http://www.w3.org/2004/02/skos/core#}example":
-                    subElement.text += languageLabel
-
+            examples = element.findall("{http://www.w3.org/2004/02/skos/core#}example")
+            if len(examples) > 0:
+                if len(examples) > 1:
+                    examples[-1].text += languageLabel
+                else:
+                    examples[0].text += languageLabel
+            if subElement.tag == "{http://www.w3.org/2004/02/skos/core#}example":
+                subElement.text += languageLabel
             # find all elements with tag "{http://www.w3.org/2004/02/skos/core#}definition" and add language label
             definitions = element.findall("{http://www.w3.org/2004/02/skos/core#}definition")
             if len(definitions) > 1:
