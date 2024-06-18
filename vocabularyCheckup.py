@@ -39,13 +39,18 @@ for rdfFile in allRdfFiles:
                         # change tag to broaderMatch or narrowerMatch
                         subElement.tag = "{http://www.w3.org/2004/02/skos/core#}broadMatch" if subElement.tag == "{http://www.w3.org/2004/02/skos/core#}broader" else "{http://www.w3.org/2004/02/skos/core#}narrowMatch"
                 if subElement.tag == "{http://www.w3.org/2004/02/skos/core#}inScheme":
-                    subElement.text = schemeUUID
+                    #subElement.text = schemeUUID
+                    # delete element
+                    element.remove(subElement)
     tree.write(scheme+"_modified.rdf", pretty_print=True, encoding="utf-8")
     g = Graph()
     g.parse(scheme+"_modified.rdf", format="xml", encoding="utf-8")
     g.add ((schemeUUID, RDF.type, SKOS.ConceptScheme))
     g.add ((schemeUUID, DC.title, Literal(descriptionDict[scheme]["title"])+languageLabel))
     g.add ((schemeUUID, DC.description, Literal(descriptionDict[scheme]["description"])+languageLabel))
+    # iterate over all nodes which belong to skos:concept and add the scheme to them
+    for s, p, o in g.triples((None, RDF.type, SKOS.Concept)):
+        g.add((s, SKOS.inScheme, schemeUUID))
     g.serialize(scheme+"_modified.ttl", format="turtle", encoding="utf-8")
     with open(scheme+"_modified.ttl", 'r', encoding="utf-8") as f:
         text = f.read()
