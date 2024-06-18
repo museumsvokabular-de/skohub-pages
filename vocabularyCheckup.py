@@ -96,6 +96,3 @@ for rdfFile in allRdfFiles:
         text = text.replace('^^rdf:XMLLiteral', '')
     with open(scheme+"_modified.ttl", 'w', encoding="utf-8") as f:
         f.write(text)
-
-
-
