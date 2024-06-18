@@ -1,45 +1,57 @@
 import rdflib
 import lxml.etree
+import glob
+from rdflib import Graph, URIRef, BNode, Literal, Namespace
+from rdflib.namespace import SKOS, RDF, DC, DCTERMS, RDFS
 
-# load ackerbau.rdf with lxml.etree
-tree = lxml.etree.parse("ackerbau.rdf")
-root = tree.getroot()
-skosList = ["{http://www.w3.org/2004/02/skos/core#}narrower",
-            "{http://www.w3.org/2004/02/skos/core#}broader",
-            ]
-#iterate over all elements of root
-for element in root.iter():
-    if element.tag == "{http://www.w3.org/2004/02/skos/core#}Concept":
-        uuid= element.get("{http://www.w3.org/1999/02/22-rdf-syntax-ns#}about")
-        element.set("{http://www.w3.org/1999/02/22-rdf-syntax-ns#}about", uuid.replace(" ", ""))
-        for subElement in element.iter():
-            if subElement.tag in skosList:
-                subElement.set("{http://www.w3.org/1999/02/22-rdf-syntax-ns#}resource", subElement.get("{http://www.w3.org/1999/02/22-rdf-syntax-ns#}resource").replace(" ", ""))
+allRdfFiles = [x for x in glob.glob("*.rdf") if not "modified" in x]
+languageLabel = "@de"
+descriptionDict = {
+    "gefaess": {"description": "Gefäße und Formen. Eine Typologie für Museen und Sammlungen", "title":"Gefäßtypologie"}, 
+    "ackerbau":{"description":"Thesaurus zu Ackerbaugerät, Feldbestellung - Landwirtschaftliche Transport- und Nutzfahrzeuge - Werkzeuge (Holzbearbeitung)", "title":"Ackerbaugeräte-Systematik"},
+    "grobsystematik":{"description":"EDV-gestützte Bestandserschließung in kleinen und mittleren Museen", "title":"Grobsystematik"},
+    "moebel":{"description":"Möbel. Eine Typologie für Museen und Sammlungen", "title":"Möbeltypologie"},
+    "spitzen":{"description":"Systematik für Spitzen und Stickereien", "title":"Spitzensystematik"},
+    "technik_spitzen":{"description":"Systematik für die Technik zur Herstellung von Spitzen und Stickereien", "title":"Spitzentechnik-Systematik"}
+}
+for rdfFile in allRdfFiles:
+    # load rdf file with encoding utf-8
+    tree = lxml.etree.parse(rdfFile, parser=lxml.etree.XMLParser(encoding='utf-8'))
+    # find first element with tag "{http://www.w3.org/2004/02/skos/core#}Concept" and print content of inner tag <skos:inScheme>
+    firstConcept = tree.find("{http://www.w3.org/2004/02/skos/core#}Concept")
+    scheme = firstConcept.find("{http://www.w3.org/2004/02/skos/core#}inScheme").text
+    schemeUUID = URIRef("http://www.museumsvokabular.de/museumvok/vokab/" + scheme + "/Vokabular")
+    #print(scheme)
 
-#save the modified tree
-tree.write("ackerbau_modified.rdf", pretty_print=True, encoding="utf-8")
-
-# fix encoding issues
-# to be finished
-"""
-with open("ackerbau_modified.rdf", "r") as file:
-    text = file.read()
-    text = text.replace("�", "ä")
-    text = text.replace("�", "ö")
-    text = text.replace("�", "ü")
-    text = text.replace("�", "Ä")
-    text = text.replace("�", "Ö")
-    text = text.replace("�", "Ü")
-    text = text.replace("�", "ß")
-with open("ackerbau_modified.rdf", "w") as file:
-    file.write(text)
-"""
-
-# load "ackerbau.rdf" as rdf xml and convert to ttl with rdflib. use urlencode
-g = rdflib.Graph()
-g.parse("ackerbau_modified.rdf", format="xml")
-g.serialize("ackerbau_modified.ttl", format="turtle")
-
+    root = tree.getroot()
+    skosList = ["{http://www.w3.org/2004/02/skos/core#}narrower",
+                "{http://www.w3.org/2004/02/skos/core#}broader"]
+    
+    #iterate over all elements of root
+    for element in root.iter():
+        if element.tag == "{http://www.w3.org/2004/02/skos/core#}Concept":
+            uuid= element.get("{http://www.w3.org/1999/02/22-rdf-syntax-ns#}about")
+            element.set("{http://www.w3.org/1999/02/22-rdf-syntax-ns#}about", uuid.replace(" ", "_"))
+            for subElement in element.iter():
+                if subElement.tag in skosList:
+                    subElement.set("{http://www.w3.org/1999/02/22-rdf-syntax-ns#}resource", subElement.get("{http://www.w3.org/1999/02/22-rdf-syntax-ns#}resource").replace(" ", "_"))
+                    if not "/"+scheme+"/" in subElement.get("{http://www.w3.org/1999/02/22-rdf-syntax-ns#}resource"):
+                        # change tag to broaderMatch or narrowerMatch
+                        subElement.tag = "{http://www.w3.org/2004/02/skos/core#}broadMatch" if subElement.tag == "{http://www.w3.org/2004/02/skos/core#}broader" else "{http://www.w3.org/2004/02/skos/core#}narrowMatch"
+                if subElement.tag == "{http://www.w3.org/2004/02/skos/core#}inScheme":
+                    subElement.text = schemeUUID
+    tree.write(scheme+"_modified.rdf", pretty_print=True, encoding="utf-8")
+    g = Graph()
+    g.parse(scheme+"_modified.rdf", format="xml", encoding="utf-8")
+    g.add ((schemeUUID, RDF.type, SKOS.ConceptScheme))
+    g.add ((schemeUUID, DC.title, Literal(descriptionDict[scheme]["title"])+languageLabel))
+    g.add ((schemeUUID, DC.description, Literal(descriptionDict[scheme]["description"])+languageLabel))
+    g.serialize(scheme+"_modified.ttl", format="turtle", encoding="utf-8")
+    with open(scheme+"_modified.ttl", 'r', encoding="utf-8") as f:
+        text = f.read()
+        text = text.replace('@de"', '"@de')
+    with open(scheme+"_modified.ttl", 'w', encoding="utf-8") as f:
+        f.write(text)
 
 
 
